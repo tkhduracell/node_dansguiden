@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dansguiden</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+	<meta property="og:url" content="http://www.dansguiden.com/">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="http://www.dansguiden.com/img/high-res-icon-v2.png">
+	<meta property="og:title" content="Dansguiden">
+	<meta property="og:description" content="Nu är den här – din nya evenemangs-guide till Sveriges dansbanor. Upptäck, sök och dela evenemang snabbt och supersmidigt">
+	
+	
+	<link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="css/bootstrap.min.css"  media="screen">
+	<link rel="stylesheet" href="css/bootstrap-responsive.min.css" media="screen">
+	<link rel="stylesheet" href="css/bootstrap-lightbox.min.css"  >
+    <link rel="stylesheet" href="css/styles.css">
+	
+	<script src="js/head.load.min.js"></script>
+	<script src="js/default.js?v=1"></script>
+	
+	<script>
+		var versions = {};
+		head.ready(function() {
+			$(document).ready(function(){
+				$.templates({
+					versionTemplate: 
+						"<div class=\"col-lg-4\">" +
+						"<h3>Uppdatering {{>version}}</h2>" +
+						//"<p>Nu finns senaste versionen att ladda ner: <a href='https://play.google.com/store/apps/details?id=feality.dans'>Google Play</a></p>" +
+						"<ul>" +
+						"{{for text}}" + 
+						"<li>{{>#data}}</li>" +
+						"{{/for}}" +
+						"</ul>" +
+						"</div>"
+				});
+				
+				$("#versions").html($.render.versionTemplate(versions));
+			});
+		
+			function fixHeader() {
+				//for each element that is classed as 'pull-down'
+				//reset margin-top for all pull down items
+				$('.pull-down').each(function () {
+					$(this).css('margin-top', 0);
+				});
+
+				//set its margin-top to the difference between its own height and the height of its parent
+				$('.pull-down').each(function () {
+					if ($(window).innerWidth() >= 768) {
+						$(this).css('margin-top', $(this).parent().height() - $(this).height());
+					}
+				});
+			}
+
+			$(window).resize(function () {
+				fixHeader();
+			});
+
+			fixHeader();
+		});
+	</script>
+	   
+  </head>
+  <body>
+	<div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Dansguiden</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Start</a></li>
+			<li><a href="/images.php">Bilder</a></li>
+			<li><a href="/about.php">Om Appen</a></li>
+          </ul>
+          
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <div class=".col-xs-12 col-md-8">
+			<h1>Dansguiden - The App</h1>
+			<br>
+			<p>
+				Nu är den här – din nya evenemangs-guide till Sveriges dansbanor.<br>
+				Upptäck, sök och dela evenemang snabbt och supersmidigt.
+			</p>
+			<p></p>
+			<div class="pull-down">
+				<img src="http://developer.android.com/images/brand/Android_Robot_100.png" style="margin-right: 30px;"  class="pull-left hidden-xs">
+				
+				<a class="btn btn-primary btn-lg pull-down" href="https://play.google.com/store/apps/details?id=feality.dans">
+					Ladda ner &raquo;
+				</a>
+			</div>
+			
+		</div>			
+		<div class=".col-xs-6 .col-md-4">
+			<center>
+				<img src="img/main.png" alt="App Sceenshot" height="500px" />				
+			</center>
+		</div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div id="versions" class="row">
+			<!-- Populated via javascript -->
+      </div>
+
+      <hr>
+
+      <footer>
+        <p>&copy; Dansguiden 2015</p>
+      </footer>
+    </div> <!-- /container -->
+  </body>
+</html>

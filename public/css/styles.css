@@ -1,0 +1,11 @@
+a.thumbnail {
+	background-color: #353535;
+}
+
+a.thumbnail img {
+	height: 250px;
+}
+
+.modal-body{
+	padding: 0px;
+}

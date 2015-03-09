@@ -1,0 +1,16 @@
+{
+	"apps": [
+		{
+			"name": "www",
+			"script": "bin/www",
+			"ignoreWatch": ["node_modules"],
+			"watch": true,
+			"env": {
+				"NODE_ENV": "production",
+				"PORT": 3000
+			},
+			"max_memory_restart": "512M",
+			"node_args": "--expose-gc"
+		}
+	]
+}

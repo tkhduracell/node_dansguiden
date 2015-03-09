@@ -1,0 +1,67 @@
+//
+   Created by filip on 15-03-09.
+doctype html
+html
+    head
+        title Dansguiden
+
+        meta(name='viewport', content='width=device-width, initial-scale=1.0')
+        meta(http-equiv='Content-Type', content='text/html; charset=utf-8')
+        meta(property='og:url', content='http://www.dansguiden.com/')
+        meta(property='og:type', content='website')
+        meta(property='og:image', content='http://www.dansguiden.com/img/high-res-icon-v2.png')
+        meta(property='og:title', content='Dansguiden')
+        meta(property='og:description', content='Nu är den här – din nya evenemangsguide till Sveriges dansbanor. Upptäck, sök och dela evenemang snabbt och supersmidigt')
+
+        link(rel='shortcut icon', href='/favicon.ico')
+        link(rel='stylesheet', href='css/bootstrap.min.css', media='screen')
+        link(rel='stylesheet', href='css/bootstrap-responsive.min.css', media='screen')
+        link(rel='stylesheet', href='css/bootstrap-lightbox.min.css')
+        link(rel='stylesheet', href='css/styles.css')
+
+        script(src='js/head.load.min.js')
+        script(src='js/default.js?v=1')
+
+        .navbar.navbar-default.navbar-fixed-top
+            .container
+                .navbar-header
+                    button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
+                        span.icon-bar
+                        span.icon-bar
+                        span.icon-bar
+                    a.navbar-brand(href='#') Dansguiden
+
+
+    // Main jumbotron for a primary marketing message or call to action
+    .jumbotron
+        .container
+            h1 Dansguiden
+            p.
+                Nu är den här – din nya evenemangsguide till Sveriges dansbanor. <br />
+                Upptäck, sök och dela evenemang snabbt och supersmidigt.
+            p
+                a.btn.btn-primary.btn-lg(href='#', role='button') Learn more »
+    .container
+        // Example row of columns
+        .row
+            .col-md-4
+                h2 Heading
+                p
+                    | Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+                p
+                    a.btn.btn-default(href='#', role='button') View details »
+            .col-md-4
+                h2 Heading
+                p
+                    | Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+                p
+                    a.btn.btn-default(href='#', role='button') View details »
+            .col-md-4
+                h2 Heading
+                p
+                    | Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+                p
+                    a.btn.btn-default(href='#', role='button') View details »
+        hr
+        footer
+            p="© Dansguiden " + new Date().getFullYear()
