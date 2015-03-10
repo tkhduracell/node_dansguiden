@@ -24,6 +24,7 @@
     "express-session": "^1.10.3",
     "jade": "^1.9.2",
     "lodash-node": "^3.5.0",
+    "jsdom": "*",
     "morgan": "^1.5.1",
     "serve-favicon": "^2.2.0"
   }
