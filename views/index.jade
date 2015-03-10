@@ -1,76 +1,102 @@
-//
-   Created by filip on 15-03-09.
 doctype html
 html
-    head
-        title Dansguiden
+	head
+		title Dansguiden
 
-        meta(name='viewport', content='width=device-width, initial-scale=1.0')
-        meta(http-equiv='Content-Type', content='text/html; charset=utf-8')
-        meta(property='og:url', content='http://www.dansguiden.com/')
-        meta(property='og:type', content='website')
-        meta(property='og:image', content='http://www.dansguiden.com/img/high-res-icon-v2.png')
-        meta(property='og:title', content='Dansguiden')
-        meta(property='og:description', content='Nu är den här – din nya evenemangsguide till Sveriges dansbanor. Upptäck, sök och dela evenemang snabbt och supersmidigt')
+		meta(name='viewport', content='width=device-width, initial-scale=1.0')
+		meta(http-equiv='Content-Type', content='text/html; charset=utf-8')
+		meta(property='og:url', content='http://www.dansguiden.com/')
+		meta(property='og:type', content='website')
+		meta(property='og:image', content='http://www.dansguiden.com/img/high-res-icon-v2.png')
+		meta(property='og:title', content='Dansguiden')
+		meta(property='og:description', content='Nu är den här – din nya evenemangsguide till Sveriges dansbanor. Upptäck, sök och dela evenemang snabbt och supersmidigt')
 
-        link(rel='shortcut icon', href='/favicon.ico')
-        link(rel='stylesheet', href='css/bootstrap.min.css', media='screen')
-        link(rel='stylesheet', href='css/bootstrap-responsive.min.css', media='screen')
-        link(rel='stylesheet', href='css/bootstrap-lightbox.min.css')
-        link(rel='stylesheet', href='css/styles.css')
+		link(rel='shortcut icon', href='/favicon.ico')
+		link(rel='stylesheet', href='css/bootstrap.min.css', media='screen')
+		link(rel='stylesheet', href='css/ekko-lightbox.min.css', media='screen')
+		link(rel='stylesheet', href='css/styles.css')
 
-    body
-        .navbar.navbar-default.navbar-fixed-top
-            .container
-                .navbar-header
-                    button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
-                        span.icon-bar
-                        span.icon-bar
-                        span.icon-bar
-                    a.navbar-brand(href='#') Dansguiden
-
-
-        // Main jumbotron for a primary marketing message or call to action
-        .jumbotron
-            .container.jumbotron-header
-                h1 Dansguiden
-                p.
-                    Nu är den här – din nya evenemangsguide till Sveriges dansbanor. <br />
-                    Upptäck, sök och dela evenemang snabbt och supersmidigt.
-        .container
-            .row
-                h1 Bilder
-            .row
-                for img in images
-                    .col-md-3
-                        p=img.text
-                        img.img-responsive.thumb(src=img.src)
-
-        .container
-            hr
-
-        .container
-            .row
-                h1 Versioner
-            .row
-                for v in versions
-                    .col-md-4.version
-                        h2=v.name
-                        ul
-                            for l in v.lines
-                                li=l
-                        p
-                            a.details(href='#', role='button') View detaljer »
-        .container
-            hr
-            footer
-                p="© Dansguiden " + new Date().getFullYear()
+	body
+		.navbar.navbar-default.navbar-fixed-top
+			.container
+				.navbar-header
+					button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
+						span.icon-bar
+						span.icon-bar
+						span.icon-bar
+					a.navbar-brand(href='#') Dansguiden
 
 
-    script(src = 'js/jquery.v1.10.2.min.js')
-    script(src = 'js/analytics.js')
-    script(src = 'js/bootstrap.min.js')
-    script(src = 'js/bootstrap-lightbox.min.js')
-    script(src = 'js/bootstrap-thumb-lightbox-w-tooltip.js')
-    script(src = 'js/bootstrap-tooltip.js')
-    script(src='js/main.js?v=1')
+		// Main jumbotron for a primary marketing message or call to action
+		.jumbotron
+			.container.jumbotron-header
+				h1 Dansguiden
+				p.sub.
+					Nu är den här – din nya evenemangsguide till Sveriges dansbanor. <br />
+					Upptäck, sök och dela evenemang snabbt och supersmidigt.
+				p.play
+					a(href='https://play.google.com/store/apps/details?id=feality.dans')
+						img(alt='Get it on Google Play', src='https://developer.android.com/images/brand/sv_generic_rgb_wo_60.png')
+
+		.container
+			.row
+				h1 Vill du också vara med i svängen?
+				p Installera Dansguiden nu!
+				ul
+					li Vilka danser är det idag?
+					li Vilka danser inträffar i den kommande veckan?
+					li Vilka danser inträffar på viss plats den kommande månaden
+					li Vad händer ett visst datum?
+					li Vad händer på en visst ställe?
+					li Var spelar ett dansband?
+			hr
+			.row
+				h1 Bilder
+			.row
+				for img in images
+					.col-md-3
+						a(href=img.src, data-type="image", data-toggle="lightbox", data-title=img.text, data-width="40")
+							img.img-responsive.thumb(src=img.src)
+
+			hr
+
+		.container
+			.row
+				h1 Nyheter
+			.row
+				for v in versions
+					.col-md-4.version
+						h2=v.name
+						ul
+							for l in v.lines
+								li=l
+						p
+							a.details(href='https://play.google.com/store/apps/details?id=feality.dans', role='button') View detaljer »
+
+			hr
+
+		.container
+			.row
+				.col-md-12
+					h1 Om Dansguiden
+					p
+						| Nu är den här – din nya evenemangs-guide till Sveriges dansbanor.
+					p
+						| Upptäck, sök och dela evenemang supersmidigt och snabbt.
+						| Med Dansguiden har du tillgång till dansprogram vart du än befinner dig.
+						| Direkt ifrån fickan; få reda på datum, plats, tid och vilket band som spelar.
+						| Du finner även bilder ifrån evenemangs-platsen.
+					small
+						| Applikationen är ett hobbyprojekt så tveka inte att kontakta oss om du stöter på problem
+
+
+		.container
+			hr
+			footer
+				p="© Dansguiden " + new Date().getFullYear()
+
+script(src = 'js/jquery.v1.10.2.min.js')
+script(src = 'js/analytics.js')
+script(src = 'js/bootstrap.min.js')
+script(src = 'js/ekko-lightbox.min.js')
+script(src='js/main.js?v=1')

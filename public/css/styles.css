@@ -14,8 +14,12 @@
 .jumbotron-header h1{
     margin-bottom: 20px;
 }
-.jumbotron-header p{
-    margin-bottom: 80px;
+.jumbotron-header p.play{
+    margin-top: 60px;
 }
-.thumb{
+.thumb{}
+.ekko-lightbox-container img {
+	max-height: 800px;
+	margin-right: auto;
+	margin-left: auto;
 }
