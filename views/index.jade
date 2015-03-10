@@ -19,9 +19,7 @@ html
         link(rel='stylesheet', href='css/bootstrap-lightbox.min.css')
         link(rel='stylesheet', href='css/styles.css')
 
-        script(src='js/head.load.min.js')
-        script(src='js/default.js?v=1')
-
+    body
         .navbar.navbar-default.navbar-fixed-top
             .container
                 .navbar-header
@@ -32,36 +30,47 @@ html
                     a.navbar-brand(href='#') Dansguiden
 
 
-    // Main jumbotron for a primary marketing message or call to action
-    .jumbotron
+        // Main jumbotron for a primary marketing message or call to action
+        .jumbotron
+            .container.jumbotron-header
+                h1 Dansguiden
+                p.
+                    Nu är den här – din nya evenemangsguide till Sveriges dansbanor. <br />
+                    Upptäck, sök och dela evenemang snabbt och supersmidigt.
         .container
-            h1 Dansguiden
-            p.
-                Nu är den här – din nya evenemangsguide till Sveriges dansbanor. <br />
-                Upptäck, sök och dela evenemang snabbt och supersmidigt.
-            p
-                a.btn.btn-primary.btn-lg(href='#', role='button') Learn more »
-    .container
-        // Example row of columns
-        .row
-            .col-md-4
-                h2 Heading
-                p
-                    | Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                p
-                    a.btn.btn-default(href='#', role='button') View details »
-            .col-md-4
-                h2 Heading
-                p
-                    | Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                p
-                    a.btn.btn-default(href='#', role='button') View details »
-            .col-md-4
-                h2 Heading
-                p
-                    | Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-                p
-                    a.btn.btn-default(href='#', role='button') View details »
-        hr
-        footer
-            p="© Dansguiden " + new Date().getFullYear()
+            .row
+                h1 Bilder
+            .row
+                for img in images
+                    .col-md-3
+                        p=img.text
+                        img.img-responsive.thumb(src=img.src)
+
+        .container
+            hr
+
+        .container
+            .row
+                h1 Versioner
+            .row
+                for v in versions
+                    .col-md-4.version
+                        h2=v.name
+                        ul
+                            for l in v.lines
+                                li=l
+                        p
+                            a.details(href='#', role='button') View detaljer »
+        .container
+            hr
+            footer
+                p="© Dansguiden " + new Date().getFullYear()
+
+
+    script(src = 'js/jquery.v1.10.2.min.js')
+    script(src = 'js/analytics.js')
+    script(src = 'js/bootstrap.min.js')
+    script(src = 'js/bootstrap-lightbox.min.js')
+    script(src = 'js/bootstrap-thumb-lightbox-w-tooltip.js')
+    script(src = 'js/bootstrap-tooltip.js')
+    script(src='js/main.js?v=1')

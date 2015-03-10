@@ -6,7 +6,13 @@ var router = express.Router();
 
 router.get('/', function (req, res) {
 	res.render('index', {
-        images: images
+        images: images,
+        versions: _.take([
+            {name: "v1.2.3", lines: ["Uppdateringsgrej1", "Uppateringsgrej2"]},
+            {name: "v1.2.4", lines: ["Uppdateringsgrej1", "Uppateringsgrej2"]},
+            {name: "v1.2.5", lines: ["Uppdateringsgrej1", "Uppateringsgrej2"]},
+            {name: "v1.2.6", lines: ["Uppdateringsgrej1", "Uppateringsgrej2"]}
+        ], 3)
 	});
 });
 

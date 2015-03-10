@@ -1,11 +1,21 @@
-a.thumbnail {
-	background-color: #353535;
-}
-
-a.thumbnail img {
-	height: 250px;
-}
 
 .modal-body{
 	padding: 0px;
+}
+.version{
+    margin-top: 20px;
+}
+.details{
+    margin-left: 30px;
+}
+.header{
+
+}
+.jumbotron-header h1{
+    margin-bottom: 20px;
+}
+.jumbotron-header p{
+    margin-bottom: 80px;
+}
+.thumb{
 }

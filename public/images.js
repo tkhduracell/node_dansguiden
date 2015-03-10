@@ -1,6 +1,6 @@
 module.exports = [
-  {"src": "thumb1.png", "description": "" },
-  {"src": "thumb2.png", "description": "" },
-  {"src": "thumb3.png", "description": "" },
-  {"src": "thumb4.png", "description": "" }
+  {"src": "img/thumb1.png", "text": "" },
+  {"src": "img/thumb2.png", "text": "" },
+  {"src": "img/thumb3.png", "text": "" },
+  {"src": "img/thumb4.png", "text": "" }
 ];
