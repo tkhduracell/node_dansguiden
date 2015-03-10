@@ -8,10 +8,9 @@ router.get('/', function (req, res) {
 	res.render('index', {
         images: images,
         versions: _.take([
-            {name: "v1.2.3", lines: ["Uppdateringsgrej1", "Uppateringsgrej2"]},
-            {name: "v1.2.4", lines: ["Uppdateringsgrej1", "Uppateringsgrej2"]},
-            {name: "v1.2.5", lines: ["Uppdateringsgrej1", "Uppateringsgrej2"]},
-            {name: "v1.2.6", lines: ["Uppdateringsgrej1", "Uppateringsgrej2"]}
+            {name: "Uppdatering v 1.3.0", lines: ["Nytt bildgalleri", "Ny kalender för att söka event", "Ny ikon"]},
+            {name: "Uppdatering v 1.2.3", lines: ["Löser problem med att visade län inte sparas", "Laddar ner evenemang 2-3 månader framåt"]},
+            {name: "Uppdatering v 1.2.2", lines: ["Nätverkskoll innan uppdatering","Förbättrad användarupplevelse","Uppsnabbad nerladdning","Sök efter ett dansställe på internet","Sök efter ett specifikt dansband","Förbättrade ikoner"]}
         ], 3)
 	});
 });
