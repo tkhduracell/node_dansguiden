@@ -1,7 +1,7 @@
 {
 	"apps": [
 		{
-			"name": "www",
+			"name": "web_dansguiden",
 			"script": "bin/www",
 			"ignoreWatch": ["node_modules"],
 			"watch": true,
@@ -9,7 +9,7 @@
 				"NODE_ENV": "production",
 				"PORT": 3000
 			},
-			"max_memory_restart": "512M",
+			"max_memory_restart": "256M",
 			"node_args": "--expose-gc"
 		}
 	]
