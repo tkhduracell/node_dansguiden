@@ -20,7 +20,7 @@ me.run = function () {
 				if (txt.match(/\W*v\W*[0-9](\.[0-9]+)*/i)) {
 					vs.push({name: "Uppdatering " + txt.trim(), lines: []});
 				} else {
-					vs.slice(-1)[0].lines.push(txt);
+					vs.slice(-1)[0].lines.push(txt.replace(/\W*\*\W*/i, ''));
 				}
 			});
 
