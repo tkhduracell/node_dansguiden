@@ -1,58 +1,16 @@
 
 var _ = require('lodash-node');
+var jf = require('jsonfile');
+
 var express = require('express');
-var images = require('../public/images.js');
 var router = express.Router();
+
 
 router.get('/', function (req, res) {
 	res.render('index', {
-        images: images,
-        versions: _.take([
-            {name: "Uppdatering v 1.3.0", lines: ["Nytt bildgalleri", "Ny kalender för att söka event", "Ny ikon"]},
-            {name: "Uppdatering v 1.2.3", lines: ["Löser problem med att visade län inte sparas", "Laddar ner evenemang 2-3 månader framåt"]},
-            {name: "Uppdatering v 1.2.2", lines: ["Nätverkskoll innan uppdatering","Förbättrad användarupplevelse","Uppsnabbad nerladdning","Sök efter ett dansställe på internet","Sök efter ett specifikt dansband","Förbättrade ikoner"]}
-        ], 3)
+        images: jf.readFileSync('public/images.json'),
+		versions: jf.readFileSync('public/versions.json')
 	});
 });
-
-
-router.get('/version', function (req, resp) {
-    /*
-    <?php
-
-        function get_string_between($string, $start, $end){
-            $string = " ".$string;
-            $ini = strpos($string,$start);
-            if ($ini == 0) return "";
-            $ini += strlen($start);
-            $len = strpos($string,$end,$ini) - $ini;
-            return substr($string,$ini,$len);
-        }
-    $url = "https://play.google.com/store/apps/details?id=feality.dans";
-    $raw = file_get_contents($url);
-
-    //$xml = simplexml_load_string();
-
-    $cut = trim(get_string_between($raw, "<div class=\"details-section whatsnew\">", "<div class=\"show-more-end\"></div>"));
-
-    $cut = str_replace("<br />", "", $cut)."</div>";
-
-    //echo $cut;
-    $xml = simplexml_load_string($cut);
-    $lines = $xml->xpath("//div[@class='recent-change']");
-
-    $versions = array();
-    foreach($lines as $l){
-        if(preg_match("/v \d+\.\d(\.\d)?/", $l)){
-            $versions[]=array("version" => "$l", "text" => array());
-        } else {
-            array_push($versions[count($versions) - 1]["text"], str_replace("* ", "", "$l"));
-        }
-    }
-    echo json_encode($versions);
-    ?>
-    */
-});
-
 
 module.exports = router;
