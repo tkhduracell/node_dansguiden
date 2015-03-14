@@ -56,7 +56,7 @@ html
 				h1 Bilder
 			.row
 				for img in images
-					.col-md-3
+					.col-sm-3
 						a(href=img.src, data-type="image", data-toggle="lightbox", data-title=img.text, data-width="40")
 							img.img-responsive.thumb(src=img.src)
 
@@ -67,7 +67,7 @@ html
 				h1 Nyheter
 			.row
 				for v in versions
-					.col-md-4.version
+					.col-sm-4.version
 						h2=v.name
 						ul
 							for l in v.lines
@@ -79,7 +79,7 @@ html
 
 		.container
 			.row
-				.col-md-12
+				.col-sm-12
 					h1 Om Dansguiden
 					p
 						| Nu är den här – din nya evenemangs-guide till Sveriges dansbanor.
@@ -98,7 +98,7 @@ html
 				h1 Bilder
 			.row
 				for img in images
-					.col-md-3
+					.col-sm-3
 						a(href=img.src, data-type="image", data-toggle="lightbox", data-title=img.text, data-width="40")
 							img.img-responsive.thumb(src=img.src)
 
