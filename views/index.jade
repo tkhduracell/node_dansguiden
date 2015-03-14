@@ -50,6 +50,8 @@ html
 					li Vad händer på en visst plats?
 					li Var spelar ett dansband?
 			hr
+
+		.container.hidden-xs
 			.row
 				h1 Bilder
 			.row
@@ -89,9 +91,20 @@ html
 					small
 						| Applikationen är ett hobbyprojekt så tveka inte att kontakta oss om du stöter på problem
 
+			hr
+
+		.container.hidden-sm.hidden-md.hidden-lg
+			.row
+				h1 Bilder
+			.row
+				for img in images
+					.col-md-3
+						a(href=img.src, data-type="image", data-toggle="lightbox", data-title=img.text, data-width="40")
+							img.img-responsive.thumb(src=img.src)
+
+			hr
 
 		.container
-			hr
 			footer
 				p="© Dansguiden " + new Date().getFullYear()
 
