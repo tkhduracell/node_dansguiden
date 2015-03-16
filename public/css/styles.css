@@ -24,3 +24,9 @@
 	margin-right: auto;
 	margin-left: auto;
 }
+.icon img {
+	width: 250px;
+	height: 250px;
+	margin-top: 70px;
+	margin-right: 40px;
+}
