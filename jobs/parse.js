@@ -27,5 +27,7 @@ me.run = function () {
 			jf.writeFile('public/versions.json', vs, function(err) {
 				console.log(err);
 			});
+
+			console.log('Running Google Play parse... Done');
 		});
 };

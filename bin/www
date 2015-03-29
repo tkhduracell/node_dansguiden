@@ -17,4 +17,5 @@ var server = app.listen(app.get('port'), function() {
 var job = function(name) { 	return require('../jobs/' + name).run };
 
 crontab.scheduleJob("* */6 * * *", job('parse'));
-crontab.scheduleJob("* * * * *", job('parse'), null, null, false);
+
+setTimeout(job('parse'), 5000);
