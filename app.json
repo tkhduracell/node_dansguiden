@@ -7,7 +7,7 @@
 			"watch": true,
 			"env": {
 				"NODE_ENV": "production",
-				"PORT": 3000
+				"PORT": 5000
 			},
 			"max_memory_restart": "256M",
 			"node_args": "--expose-gc"
