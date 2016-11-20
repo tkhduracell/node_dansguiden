@@ -8,7 +8,7 @@ var router = express.Router();
 
 router.get('/', function (req, res) {
 	res.render('index', {
-        images: jf.readFileSync('public/images.json'),
+		images: jf.readFileSync('public/images.json'),
 		versions: jf.readFileSync('public/versions.json')
 	});
 });
