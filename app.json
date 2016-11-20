@@ -3,7 +3,7 @@
 		{
 			"name": "web_dansguiden",
 			"script": "bin/www",
-			"ignoreWatch": ["node_modules"],
+			"ignoreWatch": ["node_modules", "public/versions.json"],
 			"watch": true,
 			"env": {
 				"NODE_ENV": "production",
