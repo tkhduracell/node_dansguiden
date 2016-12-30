@@ -19,6 +19,6 @@ COPY views/ ./views
 COPY app.js .
 COPY newrelic.js .
 
-EXPOSE "6000:6000"
+EXPOSE 6000
 
 CMD ['/usr/local/bin/nodejs', 'app.js']
