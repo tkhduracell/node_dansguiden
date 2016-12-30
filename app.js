@@ -25,6 +25,8 @@ app.use(bodyParser.urlencoded({ limit: '1mb', extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.listen(parseInt(process.env.NODE_PORT));
+
 /* ==========================================================================
  Locals Setup
  ========================================================================== */
