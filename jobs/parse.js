@@ -1,6 +1,7 @@
 
 var jf = require('jsonfile')
 var scraperjs = require('scraperjs');
+var debug = require('debug')('app:jobs');
 
 var me = module.exports;
 
@@ -25,9 +26,9 @@ me.run = function () {
 			});
 
 			jf.writeFile('public/versions.json', vs, function(err) {
-				console.log(err);
+				debug(err);
 			});
 
-			console.log('Running Google Play parse... Done');
+			debug('Running Google Play parse... Done');
 		});
 };

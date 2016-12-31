@@ -3,18 +3,16 @@
 var newrelic = require('newrelic');
 
 var fs = require('fs');
-var app = require('../app');
-var debug = require('debug')('Main');
-
+var debug = require('debug')('app:init');
 var crontab = require('node-crontab');
-
-app.set('port', process.env.PORT || 3000);
-
-var server = app.listen(app.get('port'), function() {
-  debug('Express server listening on port ' + server.address().port);
-});
 
 var job = function(name) { 	return require('../jobs/' + name).run };
 
 crontab.scheduleJob("* */6 * * *", job('parse'));
-crontab.scheduleJob("* * * * *", job('parse'), null, null, false);
+
+setTimeout(function() {
+	debug('Trigging parse job...');
+	crontab.scheduleJob("* * * * *", job('parse'), null, null, false);
+}, 10000);
+
+require('../app');

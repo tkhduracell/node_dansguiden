@@ -1,0 +1,13 @@
+---
+  version: "2"
+
+  services:
+
+    dansguiden:
+      build: .
+      container_name: dansguiden
+      environment:
+        NODE_PORT: 5000
+        DEBUG: "*"
+      ports:
+        - "5000:5000"

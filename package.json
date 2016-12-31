@@ -2,9 +2,11 @@
   "name": "web_dansguiden",
   "version": "1.0.0",
   "description": "The webpage for dansguiden",
-  "main": "index.js",
+  "main": "dansguiden",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "DEBUG=app:* ./bin/www",
+    "debug": "DEBUG=* supervisor ./bin/www"
   },
   "repository": {
     "type": "git",
