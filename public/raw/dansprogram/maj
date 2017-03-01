@@ -1,0 +1,6287 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+  	  <html>
+  	    <head>
+  	      <title>Dansa till dansband i maj</title>
+  	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="spelplaner över danser till dansband i Sverige">
+<meta name="keywords" content="spelplan, spelplaner, dans, dansprogram, dansguide, dansband, dansbandsmusik, danser">
+<link rel="stylesheet" href="/css/main.css" type="text/css">
+
+  		  <script type="text/javascript">
+  		  <!--
+  		  
+    function out(event, object, object_id)
+    {
+    	if (event.shiftKey == 1)
+    	{
+    	  window.open("/clickout.php?o="+object+"&id="+object_id);
+    	  event.cancelBubble = true;
+      }
+      else
+        window.location="/clickout.php?o="+object+"&id="+object_id;
+      return false;
+    }
+  
+
+  function set_cookie_message_hide()
+  {
+    var element = document.getElementById("cookie_message");
+    element.style.display = "none";
+    document.cookie = "cookie_message=hide; expires=Thu, 18 Dec 2099 12:00:00 UTC; path=/";
+    event.cancelBubble = true;
+  }
+
+  	    -->
+  	    </script>
+  	    
+  		  <style type="text/css">
+  		    <!--
+  		    
+  div#dances_left_column {float: left; width: 165px; margin: 10px 0;}
+  div#dances_middle_column {float: left; width: 690px; margin: 10px 0 20px 5px;}
+  div#dances_right_column {float: right; width: 125px; margin: 10px 5px;}
+  
+  		  -->
+  		  </style>
+  		  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4056085-1']);
+    _gaq.push(['_trackPageview']);
+  
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  
+  	  </head>
+  	  
+  	  <body>
+  	    
+    <div id="pagehead" class="pagehead_topbanner" style="float: left; width: 100%; margin-top: 0;">
+      <div style="float: left; width: 100%; margin: 0 0 7px 0; padding: 0; border: 0px solid green;">
+        
+        <div style="float: right;  width: 150px; margin: 0 10px 0 20px; padding: 0;">
+	        <p style="float: right; margin: 0; padding: 3px 0 0 0;">
+	          <a href="/medlemskap" title="Medlemskap på Danslogen">Bli medlem</a> |
+            <a href="/loggain/dansprogram/maj" title="Logga in på Danslogen">Logga in</a>
+          </p>
+        </div>
+         
+     <div style="float: right; width: 200px; margin: 0; padding: 0;">
+          <p style="float: right; margin: 0; padding: 3px 0 0 0;"><a href="https://www.facebook.com/groups/184346350635/" 
+          title="Gå till Danslogens facebooksida" target="_blank">Danslogen på facebook</a></p>
+        </div>
+    
+		  </div>
+
+      <div style="clear: both; float: left; width: 100%;">
+        <div id="_logotype" style="float: left; width: 220px;">
+          <a style="border: 0;" href="/" title="Danslogens hemsida"><img style="margin: 0 0 0 10px; border: 0;" 
+          src="/images/logotype/danslogen_logotyp_3.jpg" alt="Danslogen för dig som gillar att dansa till dansband"></a>
+          </p>
+        </div>
+
+        <div style="float: right; width: 728px; height: 90px; margin: 0 5px 5px 0;">
+          
+            <a href="http://www.komogdans.no/Dansereiser/SydendansSpania2017/Calpe2017SE/tabid/2932/Default.aspx?danslogen=sverige" title="Sydendans 2017" target="_blank" rel="nofollow"><img style="border: 0;" src="/images/banners/kom-og-dans-februari-mars-april-2017-topbanner.jpg" alt="Sydendans 2017"></a>
+           
+        </div>
+    
+		  </div>
+    </div>  
+  
+    <div id="pageheadmenu">
+    
+  <ul>
+  
+			    <li ><a href="/" title="Till startsidan">Hem</a></li>
+			    
+			    <li ><a href="/bildgalleri" title="Bildgalleri över danser">Bildgalleri</a></li>
+			    
+			    <li ><a href="/dansband" title="Register över dansband">Dansband</a></li>
+			    
+			    <li ><a href="/dansnyheter" title="Dansnyheter om danställen och dansband">Dansnyheter</a></li>
+			    
+			    <li style="background-color: #EFEFFF;"><a href="/dansprogram" title="Register över dansspelningar">Dansprogram</a></li>
+			    
+			    <li ><a href="/dansstallen" title="Register över dansställen">Dansställen</a></li>
+			    
+			    <li ><a href="/evenemang" title="List över dansevenemang">Evenemang</a></li>
+			    
+			    <li ><a href="/forum" title="Diskussionsforum om dans">Forum</a></li>
+			    
+			    <li ><a href="/kontakta" title="Kontakta Danslogen">Kontakta</a></li>
+			    
+  </ul>
+  
+    </div>
+    
+  </div>
+  
+  <div id="content">
+  
+  <div id="dances_left_column">
+  
+  <div class="pagemenu" style="float: left; margin: 10px 0 0 5px; padding: 5px; width: 145px; border: 1px solid lightgray;">
+  
+    <form style="margin: 0;" method="post" action="/dansprogram/sok">
+      <input style="width: 95px;" type="text" name="seek_playing" value="">
+      <input style="width: auto;" type="submit" name="submit_seek_playing" value="Sök">
+      <input style="margin-top: 3px;" type="checkbox" name="seek_playing_only_word" value="yes" >&nbsp;Sök bara på hela ord
+    </form>
+  
+    <ul style="margin: 5px 0 10px 0;">
+      <li><a href="/dansprogram/idag" title="Dagens danser">Idag</a></li>
+      <li><a href="/dansprogram/imorgon" title="Danser i morgon">I morgon</a></li>
+      <li><a href="/dansprogram/kommande_vecka" title="Danser från idag och en vecka framåt">En vecka framåt</a></li>
+      <li><a href="/dansprogram/kommande_2_veckor" title="Danser från idag och två veckor framåt">Två veckor framåt</a></li>
+    </ul>
+  
+  <p style="margin: 5px 0 2px 0; font-weight: bold;">Veckodag</p>
+    <ul>
+  
+	  <li><a href="/dansprogram/onsdag" title="Danser på onsdag">Onsdag</a></li>
+	  
+	  <li><a href="/dansprogram/torsdag" title="Danser på torsdag">Torsdag</a></li>
+	  
+	  <li><a href="/dansprogram/fredag" title="Danser på fredag">Fredag</a></li>
+	  
+	  <li><a href="/dansprogram/lordag" title="Danser på lördag">Lördag</a></li>
+	  
+	  <li><a href="/dansprogram/sondag" title="Danser på söndag">Söndag</a></li>
+	  
+	  <li><a href="/dansprogram/mandag" title="Danser på måndag">Måndag</a></li>
+	  
+	  <li><a href="/dansprogram/tisdag" title="Danser på tisdag">Tisdag</a></li>
+	  
+    </ul>
+  
+    <p style="margin: 5px 0 2px 0; font-weight: bold;">Månadsvis</p>
+    <ul>
+    
+      <li><a href="/dansprogram/mars" title="Danser i mars månad ">Mars</a></li>
+      
+      <li><a href="/dansprogram/april" title="Danser i april månad ">April</a></li>
+      
+      <li><a href="/dansprogram/maj" title="Danser i maj månad ">Maj</a></li>
+      
+      <li><a href="/dansprogram/juni" title="Danser i juni månad ">Juni</a></li>
+      
+      <li><a href="/dansprogram/juli" title="Danser i juli månad ">Juli</a></li>
+      
+      <li><a href="/dansprogram/augusti" title="Danser i augusti månad ">Augusti</a></li>
+      
+      <li><a href="/dansprogram/september" title="Danser i september månad ">September</a></li>
+      
+      <li><a href="/dansprogram/oktober" title="Danser i oktober månad ">Oktober</a></li>
+      
+      <li><a href="/dansprogram/november" title="Danser i november månad ">November</a></li>
+      
+      <li><a href="/dansprogram/december" title="Danser i december månad ">December</a></li>
+      
+    	  </ul>
+    	  <h3>2018</h3>
+    	  <ul>
+    	  
+      <li><a href="/dansprogram/januari" title="Danser i januari månad 2018">Januari</a></li>
+      
+    </ul>
+    
+    <p style="margin: 5px 0 2px 0; font-weight: bold;">Dans på båt</p>
+    <ul>
+      <li><a href="/dansprogram/batar" title="Danser på båt">Båtar</a></li>
+    </ul>
+  
+    <p style="margin: 5px 0 2px 0; font-weight: bold;">Geografiskt</p>
+    <ul>
+      <li><a href="/dansprogram/lan" title="Danser länsvis">Via län</a></li>
+    </ul>
+  
+  <p style="margin: 5px 0 2px 0; font-weight: bold;">Evenemang - galor</p>
+  <ul>
+    <li><a href="/dansprogram/nonstop" title="Non-stop-danser">Non-stop</a></li>
+  </ul>
+  
+  </div>
+  
+  </div>
+  
+  <div id="dances_middle_column">
+  
+  <div style="margin 0; width: 200px;">
+    <h1>Dansprogram</h1>
+  </div>
+  
+	      <div style="float: left; width: 690px;">
+	        <div style="float: right; border: 1px solid gray; padding: 3px; background-color: #F6EDBC;">
+	          <p style="text-align: center;">Sortera kolumn genom att klicka på dess rubrik</p>
+	        </div>
+	        <h2 style="width: 300px; margin: 5px 0 0 0;">Danser i maj</h2>
+	      
+	        <p style="display: inline; margin: 3px 0;">Antal danser: 498</p>
+	        
+          <table style="width: 690px;">
+	          <tr class="headline">
+	            <th colspan="2">Datum</th>
+	            <th style="width: 75px;">Tid</th>
+	            <th style="width: 145px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/maj/sort/dansband/" title="Sortera listan på dansband ">Dansband</a></th>
+	            <th style="width: 125px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowup.gif" alt=""><a href="/dansprogram/maj/sort/dansstalle/fallande" title="Sortera listan på dansställe fallande">Dansställe</a></th>
+	            <th style="width: 90px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/maj/sort/ort/" title="Sortera listan pö ort ">Ort</a></th>
+	            <th style="width: 80px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/maj/sort/kommun/" title="Sortera listan på kommun ">Kommun</a></th>
+	            <th style="width: 90px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/maj/sort/lan/" title="Sortera listan på län ">Län</a></th>
+	            <th style="width: 40px;">Övrigt</th>
+	          </tr>
+	      
+	          <tr style="background-color: #FEFFC3;">
+	            <td style="font-weight: bold;" colspan="9">Maj </td>
+	          </tr>
+	          
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td></td>
+  	          <td>Junix</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td></td>
+  	          <td>Skåningarna</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Glenn-Endys</td>
+  	  	      <td>Eringsboda Brunn</td>
+  	  	      <td>Eringsboda</td>
+  	  	      <td>Ronneby</td>
+  	  	      <td>Blekinge</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Serenad</td>
+  	  	      <td>Festplatsen Vännäsby</td>
+  	  	      <td>Vännäsby</td>
+  	  	      <td>Vännäs</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Olle Kjells</td>
+  	  	      <td>Folkan Östersund</td>
+  	  	      <td>Östersund</td>
+  	  	      <td>Östersund</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Folkets Park Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Wahlströms</td>
+  	  	      <td>Folkets Park Ljungsbro</td>
+  	  	      <td>Ljungsbro</td>
+  	  	      <td>Linköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Stefans</td>
+  	  	      <td>Folkets Park Sala</td>
+  	  	      <td>Sala</td>
+  	  	      <td>Sala</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Jannez</td>
+  	  	      <td>Säterdalen</td>
+  	  	      <td>Säter</td>
+  	  	      <td>Säter</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Bengt Hennings</td>
+  	  	      <td>Tibroparken</td>
+  	  	      <td>Tibro</td>
+  	  	      <td>Tibro</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td></td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td></td>
+  	          <td>Black Jack</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td></td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>1</td>
+  	  	      <td></td>
+  	          <td>Rospiggarna</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td>19.30-22.00</td>
+  	          <td>Kollijox</td>
+  	  	      <td>Aspnässkolan Jakobsberg</td>
+  	  	      <td>Jakobsberg</td>
+  	  	      <td>Järfälla</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td></td>
+  	          <td>Junix</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td></td>
+  	          <td>Skåningarna</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Folkets Hus Hallunda</td>
+  	  	      <td>Hallunda</td>
+  	  	      <td>Botkyrka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td>16.00-20.00</td>
+  	          <td>Stickan & Classe</td>
+  	  	      <td>Folkets Park Glimåkra</td>
+  	  	      <td>Glimåkra</td>
+  	  	      <td>Glimåkra</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td>15.00-19.00</td>
+  	          <td>Orient</td>
+  	  	      <td>Folkets Park Sjöbo</td>
+  	  	      <td>Sjöbo</td>
+  	  	      <td>Sjöbo</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Rios</td>
+  	  	      <td>Folkets Park Skara</td>
+  	  	      <td>Skara</td>
+  	  	      <td>Skara</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Lars Erikssons</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Thor Görans & Agneta Olsson</td>
+  	  	      <td>Sundspärlan</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td></td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td></td>
+  	          <td>Black Jack</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td></td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>2</td>
+  	  	      <td></td>
+  	          <td>Rospiggarna</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Martinez</td>
+  	  	      <td>Bergeforsparken</td>
+  	  	      <td>Sörberge</td>
+  	  	      <td>Timrå</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td></td>
+  	          <td>Mickeys</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Ej fastställt</td>
+  	  	      <td>Blackis Luleå</td>
+  	  	      <td>Svartöstaden</td>
+  	  	      <td>Luleå</td>
+  	  	      <td>Norrbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Thor Görans & Agneta Olsson</td>
+  	  	      <td>Falköpingsparken</td>
+  	  	      <td>Falköping</td>
+  	  	      <td>Falköping</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>18.30-22.00</td>
+  	          <td>Mickes</td>
+  	  	      <td>Folkets Hus Bollsta</td>
+  	  	      <td>Bollstabruk</td>
+  	  	      <td>Kramfors</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Ingvar Fahsts</td>
+  	  	      <td>Folkets Park Perstorp</td>
+  	  	      <td>Perstorp</td>
+  	  	      <td>Perstorp</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>16.00-20.00</td>
+  	          <td>Memorys</td>
+  	  	      <td>Folkets Park Trelleborg</td>
+  	  	      <td>Trelleborg</td>
+  	  	      <td>Trelleborg</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>18.00-23.00</td>
+  	          <td>Donnez</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>18.00-23.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Lars Erikssons</td>
+  	  	      <td>Gruvan Grums        </td>
+  	  	      <td>Grums</td>
+  	  	      <td>Grums</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>17.00-20.00</td>
+  	          <td>Bosse Franks</td>
+  	  	      <td>Löfstad Loge</td>
+  	  	      <td>Löfstad</td>
+  	  	      <td>Norrköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Samzons</td>
+  	  	      <td>Sporthallen Kungsgården</td>
+  	  	      <td>Kungsgården</td>
+  	  	      <td>Sandviken</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td></td>
+  	          <td>Sounders</td>
+  	  	      <td>Stena Danica</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Cedrix</td>
+  	  	      <td>Tydingesjön</td>
+  	  	      <td>Broby</td>
+  	  	      <td>Östra Göinge</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Spelfinkarna</td>
+  	  	      <td>Tölögården</td>
+  	  	      <td>Kungsbacka</td>
+  	  	      <td>Kungsbacka</td>
+  	  	      <td>Halland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td></td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td></td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td></td>
+  	          <td>Streaplers</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>3</td>
+  	  	      <td></td>
+  	          <td>Rospiggarna</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>4</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Mats Bergmans</td>
+  	  	      <td>Barva bygdegård</td>
+  	  	      <td>Barva</td>
+  	  	      <td>Eskilstuna</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>4</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Black Jack</td>
+  	  	      <td>Dalaborgsparken</td>
+  	  	      <td>Vänersborg</td>
+  	  	      <td>Vänersborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>4</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Janders</td>
+  	  	      <td>Folkets Hus Ersboda</td>
+  	  	      <td>Umeå</td>
+  	  	      <td>Umeå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>4</td>
+  	  	      <td>17.00-20.00</td>
+  	          <td>Stickan & Classe</td>
+  	  	      <td>Folkets Park Trollhättan</td>
+  	  	      <td>Trollhättan</td>
+  	  	      <td>Trollhättan</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>4</td>
+  	  	      <td>13.00-17.00</td>
+  	          <td>Sandins</td>
+  	  	      <td>Fyris park</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>4</td>
+  	  	      <td>18.30-22.30</td>
+  	          <td>Matz Rogers</td>
+  	  	      <td>Granbacken Löberöd</td>
+  	  	      <td>Löberöd</td>
+  	  	      <td>Eslöv</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>4</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Stefans</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>4</td>
+  	  	      <td>12.00-15.00</td>
+  	          <td>Connys</td>
+  	  	      <td>Möllan</td>
+  	  	      <td>Mölndal</td>
+  	  	      <td>Mölndal</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>4</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Säterdalen</td>
+  	  	      <td>Säter</td>
+  	  	      <td>Säter</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>4</td>
+  	  	      <td></td>
+  	          <td>Rospiggarna</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Casanovas</td>
+  	  	      <td>Borgen Norrköping</td>
+  	  	      <td>Norrköping</td>
+  	  	      <td>Norrköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Jannez</td>
+  	  	      <td>Casino Cosmopol Sundsvall</td>
+  	  	      <td>Sundsvall</td>
+  	  	      <td>Sundsvall</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Streaplers</td>
+  	  	      <td>Danshallen Karlskoga</td>
+  	  	      <td>Karlskoga</td>
+  	  	      <td>Karlskoga</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Jontez</td>
+  	  	      <td>Folkets Hus Alvesta Club68</td>
+  	  	      <td>Alvesta</td>
+  	  	      <td>Alvesta</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Expanders</td>
+  	  	      <td>Folkets Hus Ersboda</td>
+  	  	      <td>Umeå</td>
+  	  	      <td>Umeå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Mickeys</td>
+  	  	      <td>Folkets Hus Hallunda</td>
+  	  	      <td>Hallunda</td>
+  	  	      <td>Botkyrka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Martinez</td>
+  	  	      <td>Folkets Hus Kusmark</td>
+  	  	      <td>Kusmark</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Samzons</td>
+  	  	      <td>Folkets Park Avesta</td>
+  	  	      <td>Avesta</td>
+  	  	      <td>Avesta</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Claes Lövgrens</td>
+  	  	      <td>Folkets Park Sala</td>
+  	  	      <td>Sala</td>
+  	  	      <td>Sala</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Ola & Jag</td>
+  	  	      <td>Folkets Park Skeer</td>
+  	  	      <td>Skeer</td>
+  	  	      <td>Orsa</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>14.00-17.00</td>
+  	          <td>Edwings</td>
+  	  	      <td>Folkets Park Vingåker</td>
+  	  	      <td>Vingåker</td>
+  	  	      <td>Vingåker</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Fyris park</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Eklöfs</td>
+  	  	      <td>Fältöversten Dansträffen</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Scotts</td>
+  	  	      <td>Hotell Gustaf Fröding</td>
+  	  	      <td>Karlstad</td>
+  	  	      <td>Karlstad</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Hullsta Sollefteå</td>
+  	  	      <td>Sollefteå</td>
+  	  	      <td>Sollefteå</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Stefans</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>19.30-23.00</td>
+  	          <td>Looking Back Band</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>18.30-22.00</td>
+  	          <td>Donnez</td>
+  	  	      <td>Oasen Nordmaling</td>
+  	  	      <td>Nordmaling</td>
+  	  	      <td>Nordmaling</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>14.00-18.00</td>
+  	          <td>Junix</td>
+  	  	      <td>Parken Gävle</td>
+  	  	      <td>Gävle</td>
+  	  	      <td>Gävle</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td></td>
+  	          <td>Wahlströms</td>
+  	  	      <td>Sandra Kalmar</td>
+  	  	      <td>Kalmar</td>
+  	  	      <td>Kalmar</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Lasse Stefanz</td>
+  	  	      <td>Seghalla Dans & Loge</td>
+  	  	      <td>Slätthög</td>
+  	  	      <td>Värnamo</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td></td>
+  	          <td>Perikles</td>
+  	  	      <td>Skeppet Simrishamn</td>
+  	  	      <td>Simrishamn</td>
+  	  	      <td>Simrishamn</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Black Jack</td>
+  	  	      <td>Sägnernas Hus</td>
+  	  	      <td>Sandhem</td>
+  	  	      <td>Mullsjö</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Micke Ahlgrens</td>
+  	  	      <td>Träffen Nyköping</td>
+  	  	      <td>Nyköping</td>
+  	  	      <td>Nyköping</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>18.30-22.00</td>
+  	          <td>Liljas</td>
+  	  	      <td>Tuna bygdegård Vimmerby</td>
+  	  	      <td>Tuna</td>
+  	  	      <td>Vimmerby</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Sounders</td>
+  	  	      <td>Tydingesjön</td>
+  	  	      <td>Broby</td>
+  	  	      <td>Östra Göinge</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td></td>
+  	          <td>Holidays</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>5</td>
+  	  	      <td></td>
+  	          <td>Framed</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Streaplers</td>
+  	  	      <td>Blackstad bygdegård</td>
+  	  	      <td>Blackstad</td>
+  	  	      <td>Västervik</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>20.00-01.00</td>
+  	          <td>Kindbergs</td>
+  	  	      <td>Boråsparken</td>
+  	  	      <td>Borås</td>
+  	  	      <td>Borås</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>20.00-01.00</td>
+  	          <td>Wahlströms</td>
+  	  	      <td>Boråsparken</td>
+  	  	      <td>Borås</td>
+  	  	      <td>Borås</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Brunnsparken</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Leif-Tommys</td>
+  	  	      <td>Delsbo bygdegård</td>
+  	  	      <td>Delsbo</td>
+  	  	      <td>Hudiksvall</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Folkets Hus Forshaga</td>
+  	  	      <td>Forshaga</td>
+  	  	      <td>Forshaga</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>20.00-23.30</td>
+  	          <td>Serenad</td>
+  	  	      <td>Folkets Hus Skelleftehamn</td>
+  	  	      <td>Skelleftehamn</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Glenn-Endys</td>
+  	  	      <td>Folkets Park Ljungsbro</td>
+  	  	      <td>Ljungsbro</td>
+  	  	      <td>Linköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Claes Lövgrens</td>
+  	  	      <td>Folkets Park Trollhättan</td>
+  	  	      <td>Trollhättan</td>
+  	  	      <td>Trollhättan</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Donnez</td>
+  	  	      <td>Folkparken Skellefteå</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>21.30-01.30</td>
+  	          <td>Lasse Stefanz</td>
+  	  	      <td>Granada Lönsboda</td>
+  	  	      <td>Lönsboda</td>
+  	  	      <td>Osby</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td></td>
+  	          <td>Scotts</td>
+  	  	      <td>Hotell 11 Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Matz Rogers</td>
+  	  	      <td>Kristallen Nybro</td>
+  	  	      <td>Nybro</td>
+  	  	      <td>Nybro</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Finezze</td>
+  	  	      <td>Kulturhuset Åsele</td>
+  	  	      <td>Åsele</td>
+  	  	      <td>Åsele</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td></td>
+  	          <td>Foxie</td>
+  	  	      <td>Kärragärde La'a</td>
+  	  	      <td>Hökerum</td>
+  	  	      <td>Ulricehamn</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td></td>
+  	          <td>Date</td>
+  	  	      <td>Lane Loge</td>
+  	  	      <td>Lane</td>
+  	  	      <td>Uddevalla</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td></td>
+  	          <td>Expanders</td>
+  	  	      <td>Näskottshallen</td>
+  	  	      <td>Nälden</td>
+  	  	      <td>Krokom</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td></td>
+  	          <td>Jannez</td>
+  	  	      <td>Näskottshallen</td>
+  	  	      <td>Nälden</td>
+  	  	      <td>Krokom</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td></td>
+  	          <td>Mickeys</td>
+  	  	      <td>Näskottshallen</td>
+  	  	      <td>Nälden</td>
+  	  	      <td>Krokom</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>22.00-02.00</td>
+  	          <td>Bob Stevens</td>
+  	  	      <td>Olstorp Tidan</td>
+  	  	      <td>Tidan</td>
+  	  	      <td>Skövde</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Skåningarna</td>
+  	  	      <td>Ramshall </td>
+  	  	      <td>Veinge</td>
+  	  	      <td>Laholm</td>
+  	  	      <td>Halland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>22.00-02.00</td>
+  	          <td>Avant</td>
+  	  	      <td>Ripan Luleå</td>
+  	  	      <td>Luleå</td>
+  	  	      <td>Luleå</td>
+  	  	      <td>Norrbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td></td>
+  	          <td>Barbados</td>
+  	  	      <td>Rättviksparken</td>
+  	  	      <td>Rättvik</td>
+  	  	      <td>Rättvik</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Ej fastställt</td>
+  	  	      <td>Sjötofta Fritid</td>
+  	  	      <td>Sävshult</td>
+  	  	      <td>Tranemo</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td></td>
+  	          <td>Holidays</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td></td>
+  	          <td>Framed</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>6</td>
+  	  	      <td>18.30-21.30</td>
+  	          <td>Ola & Jag</td>
+  	  	      <td>Årsunda IP</td>
+  	  	      <td>Årsunda</td>
+  	  	      <td>Sandviken</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Excess</td>
+  	  	      <td>Alingsåsparken</td>
+  	  	      <td>Alingsås</td>
+  	  	      <td>Alingsås</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td></td>
+  	          <td>Titanix</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Karl-Erik Stenlund</td>
+  	  	      <td>Festplatsen Vännäsby</td>
+  	  	      <td>Vännäsby</td>
+  	  	      <td>Vännäs</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Strike</td>
+  	  	      <td>Folkan Östersund</td>
+  	  	      <td>Östersund</td>
+  	  	      <td>Östersund</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>17.00-20.30</td>
+  	          <td>Orient</td>
+  	  	      <td>Folkets Hus Alvesta</td>
+  	  	      <td>Alvesta</td>
+  	  	      <td>Alvesta</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>15.00-19.00</td>
+  	          <td>Bengt Hedin & Co</td>
+  	  	      <td>Folkets Hus Arkelstorp</td>
+  	  	      <td>Arkelstorp</td>
+  	  	      <td>Kristianstad</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Skåningarna</td>
+  	  	      <td>Folkets Hus Blomstermåla</td>
+  	  	      <td>Blomstermåla</td>
+  	  	      <td>Mönsterås</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>15.00-18.00</td>
+  	          <td>Jiges</td>
+  	  	      <td>Folkets Hus Kallhäll</td>
+  	  	      <td>Kallhäll</td>
+  	  	      <td>Järfälla</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Callinaz</td>
+  	  	      <td>Folkets Park Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Kindbergs</td>
+  	  	      <td>Folkparken Gemla</td>
+  	  	      <td>Gemla</td>
+  	  	      <td>Växjö</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Donnez</td>
+  	  	      <td>GT-gården Jättendal</td>
+  	  	      <td>Jättendal</td>
+  	  	      <td>Nordanstig</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>16.00-20.00</td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Idrottshallen Månkarbo</td>
+  	  	      <td>Månkarbo</td>
+  	  	      <td>Tierp</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Drifters</td>
+  	  	      <td>Kolsnäslogen</td>
+  	  	      <td>Sunne</td>
+  	  	      <td>Sunne</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Ej fastställt</td>
+  	  	      <td>Norrmalmia Piteå</td>
+  	  	      <td>Piteå</td>
+  	  	      <td>Piteå</td>
+  	  	      <td>Norrbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Casanovas</td>
+  	  	      <td>Parken Gävle</td>
+  	  	      <td>Gävle</td>
+  	  	      <td>Gävle</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Perikles</td>
+  	  	      <td>Parken Götene</td>
+  	  	      <td>Götene</td>
+  	  	      <td>Götene</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Edwings</td>
+  	  	      <td>PRO-huset Nyköping</td>
+  	  	      <td>Nyköping</td>
+  	  	      <td>Nyköping</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Kenneth & Annika</td>
+  	  	      <td>Tuben Farsta</td>
+  	  	      <td>Farsta</td>
+  	  	      <td>Farsta</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Bob Stevens</td>
+  	  	      <td>Törringelund</td>
+  	  	      <td>Oxie</td>
+  	  	      <td>Malmö</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td></td>
+  	          <td>Carlzons</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td></td>
+  	          <td>Holidays</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>7</td>
+  	  	      <td></td>
+  	          <td>Leif Kronlund Storband</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>8</td>
+  	  	      <td>14.00-17.00</td>
+  	          <td>Samzons</td>
+  	  	      <td>Allhuset Södertälje</td>
+  	  	      <td>Södertälje</td>
+  	  	      <td>Södertälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>8</td>
+  	  	      <td></td>
+  	          <td>Drifters</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>8</td>
+  	  	      <td></td>
+  	          <td>Micke Ahlgrens</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>8</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Agneta & Peter</td>
+  	  	      <td>Folkparken Skellefteå</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>8</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Möklintagården</td>
+  	  	      <td>Möklinta</td>
+  	  	      <td>Sala</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>8</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Donnez</td>
+  	  	      <td>Tidaholmsparken</td>
+  	  	      <td>Tidaholm</td>
+  	  	      <td>Tidaholm</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>8</td>
+  	  	      <td>17.00-20.30</td>
+  	          <td>Memorys</td>
+  	  	      <td>Tingvalla Åstorp PRO</td>
+  	  	      <td>Åstorp</td>
+  	  	      <td>Åstorp</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>8</td>
+  	  	      <td></td>
+  	          <td>Carlzons</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>8</td>
+  	  	      <td></td>
+  	          <td>Holidays</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>8</td>
+  	  	      <td></td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>8</td>
+  	  	      <td></td>
+  	          <td>Hedins</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td></td>
+  	          <td>Drifters</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td></td>
+  	          <td>Micke Ahlgrens</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Junix</td>
+  	  	      <td>Brunnsparken</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Sandbergs</td>
+  	  	      <td>Folkets Hus Hallunda</td>
+  	  	      <td>Hallunda</td>
+  	  	      <td>Botkyrka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Matz Rogers</td>
+  	  	      <td>Folkets Park Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td>15.00-19.00</td>
+  	          <td>Tuboys</td>
+  	  	      <td>Folkets Park Sjöbo</td>
+  	  	      <td>Sjöbo</td>
+  	  	      <td>Sjöbo</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td></td>
+  	          <td>Orient</td>
+  	  	      <td>Granada Lönsboda PRO</td>
+  	  	      <td>Lönsboda</td>
+  	  	      <td>Osby</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Holens</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Claes Lövgrens</td>
+  	  	      <td>Sundspärlan</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Leif Hermanssons</td>
+  	  	      <td>Ulvsättra loge</td>
+  	  	      <td>Kallhäll</td>
+  	  	      <td>Järfälla</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td></td>
+  	          <td>Carlzons</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td></td>
+  	          <td>Holidays</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td></td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>9</td>
+  	  	      <td></td>
+  	          <td>Hedins</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Arosdansen Syrianska Kulturcentret </td>
+  	  	      <td>Västerås</td>
+  	  	      <td>Västerås</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Agneta & Peter</td>
+  	  	      <td>Bergeforsparken</td>
+  	  	      <td>Sörberge</td>
+  	  	      <td>Timrå</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td></td>
+  	          <td>Date</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Holens</td>
+  	  	      <td>Folkets Hus Järbo</td>
+  	  	      <td>Järbo</td>
+  	  	      <td>Sandviken</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td>18.00-23.00</td>
+  	          <td>Casanovas</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td>18.00-23.00</td>
+  	          <td>Wahlströms</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td>18.00-21.00</td>
+  	          <td>Janders</td>
+  	  	      <td>Gnistan Örnsköldsvik</td>
+  	  	      <td>Örnsköldsvik</td>
+  	  	      <td>Örnsköldsvik</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Hazzes</td>
+  	  	      <td>Karlsholme</td>
+  	  	      <td>Mariestad</td>
+  	  	      <td>Mariestad</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Sven-Rogers</td>
+  	  	      <td>Lyransgården</td>
+  	  	      <td>Fåker</td>
+  	  	      <td>Östersund</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td>17.00-20.00</td>
+  	          <td>Cedrix</td>
+  	  	      <td>Löfstad Loge</td>
+  	  	      <td>Löfstad</td>
+  	  	      <td>Norrköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Ej fastställt</td>
+  	  	      <td>Tydingesjön</td>
+  	  	      <td>Broby</td>
+  	  	      <td>Östra Göinge</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td></td>
+  	          <td>Carlzons</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td></td>
+  	          <td>Jannez</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td></td>
+  	          <td>Voize</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>10</td>
+  	  	      <td></td>
+  	          <td>Hedins</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>11</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Claes Lövgrens</td>
+  	  	      <td>Barva bygdegård</td>
+  	  	      <td>Barva</td>
+  	  	      <td>Eskilstuna</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>11</td>
+  	  	      <td>13.00.16.00</td>
+  	          <td>Patrick Eklöf</td>
+  	  	      <td>Cabinen Märsta</td>
+  	  	      <td>Märsta</td>
+  	  	      <td>Sigtuna</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>11</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Martinez</td>
+  	  	      <td>Folkets Hus Ramvik</td>
+  	  	      <td>Ramvik</td>
+  	  	      <td>Härnösand</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>11</td>
+  	  	      <td>13.00-17.00</td>
+  	          <td>Znits</td>
+  	  	      <td>Fyris park</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>11</td>
+  	  	      <td>18.30-22.30</td>
+  	          <td>Engdahls</td>
+  	  	      <td>Granbacken Löberöd</td>
+  	  	      <td>Löberöd</td>
+  	  	      <td>Eslöv</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>11</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Jannez</td>
+  	  	      <td>Gröna lund</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>11</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Leif Hermanssons</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>11</td>
+  	  	      <td>12.00-15.00</td>
+  	          <td>Hazzes</td>
+  	  	      <td>Möllan</td>
+  	  	      <td>Mölndal</td>
+  	  	      <td>Mölndal</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>11</td>
+  	  	      <td></td>
+  	          <td>Carlzons</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>11</td>
+  	  	      <td></td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Viking Grace</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>11</td>
+  	  	      <td></td>
+  	          <td>Hedins</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>19:00-22:30</td>
+  	          <td>Ola & Jag</td>
+  	  	      <td>Bygdegården Kaxås</td>
+  	  	      <td>Kaxås</td>
+  	  	      <td>Krokom</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Martinez</td>
+  	  	      <td>Casino Cosmopol Sundsvall</td>
+  	  	      <td>Sundsvall</td>
+  	  	      <td>Sundsvall</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Fernandoz</td>
+  	  	      <td>Danshallen Belganet</td>
+  	  	      <td>Hallabro</td>
+  	  	      <td>Ronneby</td>
+  	  	      <td>Blekinge</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Claes Lövgrens</td>
+  	  	      <td>Danshallen Karlskoga</td>
+  	  	      <td>Karlskoga</td>
+  	  	      <td>Karlskoga</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Date</td>
+  	  	      <td>Folkets Hus Ersboda</td>
+  	  	      <td>Umeå</td>
+  	  	      <td>Umeå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>20.00-00.00</td>
+  	          <td>Expanders</td>
+  	  	      <td>Folkets Park Ljungsbro</td>
+  	  	      <td>Ljungsbro</td>
+  	  	      <td>Linköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>21.00-02.00</td>
+  	          <td>Blender</td>
+  	  	      <td>Folkets Park Mörrum</td>
+  	  	      <td>Mörrum</td>
+  	  	      <td>Karlshamn</td>
+  	  	      <td>Blekinge</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Zethzons</td>
+  	  	      <td>Fältöversten Dansträffen</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Svante & Co</td>
+  	  	      <td>Granbacken Löberöd</td>
+  	  	      <td>Löberöd</td>
+  	  	      <td>Eslöv</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Tomaz & Co</td>
+  	  	      <td>Hjorten Nyköping</td>
+  	  	      <td>Nyköping</td>
+  	  	      <td>Nyköpng</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Kungälvsparken</td>
+  	  	      <td>Kungälv</td>
+  	  	      <td>Kungälv</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Patrick Eklöf</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>19.30-23.00</td>
+  	          <td>Rose-Maries</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Holens</td>
+  	  	      <td>Rättviksparken</td>
+  	  	      <td>Rättvik</td>
+  	  	      <td>Rättvik</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Lasse Stefanz</td>
+  	  	      <td>Sägnernas Hus</td>
+  	  	      <td>Sandhem</td>
+  	  	      <td>Mullsjö</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Mats Bergmans</td>
+  	  	      <td>Tydingesjön</td>
+  	  	      <td>Broby</td>
+  	  	      <td>Östra Göinge</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>12</td>
+  	  	      <td></td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Black Jack</td>
+  	  	      <td>Almesåsens festplats</td>
+  	  	      <td>Helås</td>
+  	  	      <td>Vara</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>21.00-02.00</td>
+  	          <td>Date</td>
+  	  	      <td>Aspåsnäset</td>
+  	  	      <td>Aspås</td>
+  	  	      <td>Krokom</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>21.00-02.00</td>
+  	          <td>Highlights</td>
+  	  	      <td>Aspåsnäset</td>
+  	  	      <td>Aspås</td>
+  	  	      <td>Krokom</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Scotts</td>
+  	  	      <td>Björnholmens Loge</td>
+  	  	      <td>Äng</td>
+  	  	      <td>Nässjö</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Blender</td>
+  	  	      <td>Blomsterhultslogen</td>
+  	  	      <td>Blomsterhult</td>
+  	  	      <td>Karlstad</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Thor Görans & Agneta Olsson</td>
+  	  	      <td>Brunnsparken</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Charlotte Stålgren Music and Band</td>
+  	  	      <td>Casino Cosmopol Sundsvall</td>
+  	  	      <td>Sundsvall</td>
+  	  	      <td>Sundsvall</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td></td>
+  	          <td>Dreams</td>
+  	  	      <td>Ebba dansklubb</td>
+  	  	      <td>Tullinge</td>
+  	  	      <td>Botkyrka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td></td>
+  	          <td>Likes</td>
+  	  	      <td>Folkets Park Mörrum</td>
+  	  	      <td>Mörrum</td>
+  	  	      <td>Karlshamn</td>
+  	  	      <td>Blekinge</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Skåningarna</td>
+  	  	      <td>Folkets Park Ödeshög</td>
+  	  	      <td>Ödeshög</td>
+  	  	      <td>Ödeshög</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Donnez</td>
+  	  	      <td>Fyris park</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>19.00-24.00</td>
+  	          <td>Casanovas</td>
+  	  	      <td>Gamleby Folkpark</td>
+  	  	      <td>Gamleby</td>
+  	  	      <td>Västervik</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>19.00-24.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Gamleby Folkpark</td>
+  	  	      <td>Gamleby</td>
+  	  	      <td>Västervik</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Claes Lövgrens</td>
+  	  	      <td>Kungälvsparken</td>
+  	  	      <td>Kungälv</td>
+  	  	      <td>Kungälv</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Kärrasand</td>
+  	  	      <td>Urshult</td>
+  	  	      <td>Tingsryd</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Fernandoz</td>
+  	  	      <td>Skoga bygdegård</td>
+  	  	      <td>Ekshärad</td>
+  	  	      <td>Hagfors</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Martinez</td>
+  	  	      <td>Tallbacken Ånge</td>
+  	  	      <td>Ånge</td>
+  	  	      <td>Ånge</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Bob Stevens</td>
+  	  	      <td>Tingvalla Åstorp</td>
+  	  	      <td>Åstorp</td>
+  	  	      <td>Åstorp</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Flamingokvintetten</td>
+  	  	      <td>Utängens Loge</td>
+  	  	      <td>Tanumshede</td>
+  	  	      <td>Tanum</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td></td>
+  	          <td>Callinaz</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td></td>
+  	          <td>Larz Kristerz</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>13</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Gideons</td>
+  	  	      <td>Vilans bygdegård</td>
+  	  	      <td>Ålberga</td>
+  	  	      <td>Eskilstuna</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Alingsåsparken</td>
+  	  	      <td>Alingsås</td>
+  	  	      <td>Alingsås</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Barva bygdegård</td>
+  	  	      <td>Barva</td>
+  	  	      <td>Eskilstuna</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td></td>
+  	          <td>Titanix</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td>17.00-20.30</td>
+  	          <td>Gott & Blandat</td>
+  	  	      <td>Folkets Hus Konga</td>
+  	  	      <td>Konga</td>
+  	  	      <td>Tingsryd</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Jontez</td>
+  	  	      <td>Folkets Park Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Sounders</td>
+  	  	      <td>Folkets Park Herrljunga</td>
+  	  	      <td>Herrljunga</td>
+  	  	      <td>Herrljunga</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Casanovas</td>
+  	  	      <td>Folkets Park Ljungsbro</td>
+  	  	      <td>Ljungsbro</td>
+  	  	      <td>Linköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Skåningarna</td>
+  	  	      <td>Granada Lönsboda</td>
+  	  	      <td>Lönsboda</td>
+  	  	      <td>Osby</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td></td>
+  	          <td>Kindbergs</td>
+  	  	      <td>Skälby loge</td>
+  	  	      <td>Kalmar</td>
+  	  	      <td>Kalmar</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Holidays</td>
+  	  	      <td>Törringelund</td>
+  	  	      <td>Oxie</td>
+  	  	      <td>Malmö</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td></td>
+  	          <td>Callinaz</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td></td>
+  	          <td>Hedins</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>14</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Ånäsparken Kovland</td>
+  	  	      <td>Kovland</td>
+  	  	      <td>Sundsvall</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>15</td>
+  	  	      <td></td>
+  	          <td>Donnez</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>15</td>
+  	  	      <td></td>
+  	          <td>Mats Bergmans</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>15</td>
+  	  	      <td>20.00-23.00</td>
+  	          <td>Only on a monday</td>
+  	  	      <td>Chicago</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>15</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Falköpingsparken</td>
+  	  	      <td>Falköping</td>
+  	  	      <td>Falköping</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>15</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Junix</td>
+  	  	      <td>Folkets Park Sala</td>
+  	  	      <td>Sala</td>
+  	  	      <td>Sala</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>15</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Ola & Jag</td>
+  	  	      <td>Folkparken Skellefteå</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>15</td>
+  	  	      <td></td>
+  	          <td>Thor Görans & Agneta Olsson</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>16</td>
+  	  	      <td></td>
+  	          <td>Donnez</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>16</td>
+  	  	      <td></td>
+  	          <td>Mats Bergmans</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>16</td>
+  	  	      <td>15.00-19.00</td>
+  	          <td>Erik Arnolds</td>
+  	  	      <td>Folkets Park Sjöbo</td>
+  	  	      <td>Sjöbo</td>
+  	  	      <td>Sjöbo</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>16</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Expanders</td>
+  	  	      <td>Lagårn Skultuna</td>
+  	  	      <td>Skultuna</td>
+  	  	      <td>Västerås</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>16</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Kjell Dahls</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>16</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Sundspärlan</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>16</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Gideons</td>
+  	  	      <td>Ulvsättra loge</td>
+  	  	      <td>Kallhäll</td>
+  	  	      <td>Järfälla</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>16</td>
+  	  	      <td></td>
+  	          <td>Drifters</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>16</td>
+  	  	      <td></td>
+  	          <td>Thor Görans & Agneta Olsson</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td></td>
+  	          <td>Titanix</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Eringsboda Brunn</td>
+  	  	      <td>Eringsboda</td>
+  	  	      <td>Ronneby</td>
+  	  	      <td>Blekinge</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>18.30-22.00</td>
+  	          <td>Sandins</td>
+  	  	      <td>Folkets Hus Bollsta</td>
+  	  	      <td>Bollstabruk</td>
+  	  	      <td>Kramfors</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Lennart Erlandssons</td>
+  	  	      <td>Folkets Park Degerfors</td>
+  	  	      <td>Degerfors</td>
+  	  	      <td>Degerfors</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Candys</td>
+  	  	      <td>Folkets Park Perstorp</td>
+  	  	      <td>Perstorp</td>
+  	  	      <td>Perstorp</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>18.00-23.00</td>
+  	          <td>Excess</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>18.00-23.00</td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Kindbergs</td>
+  	  	      <td>Gbg Motionsbugg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Lars Erikssons</td>
+  	  	      <td>Kolbäcksparken</td>
+  	  	      <td>Kolbäck</td>
+  	  	      <td>Hallstahammar</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>17.00-20.00</td>
+  	          <td>Kenneth Hertz</td>
+  	  	      <td>Löfstad Loge</td>
+  	  	      <td>Löfstad</td>
+  	  	      <td>Norrköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Stickan & Classe</td>
+  	  	      <td>Mossbrott</td>
+  	  	      <td>Vara</td>
+  	  	      <td>Vara</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Kenneths</td>
+  	  	      <td>Orrnäset</td>
+  	  	      <td>Högboda</td>
+  	  	      <td>Kil </td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td></td>
+  	          <td>Trebello</td>
+  	  	      <td>Stena Danica</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Charlies</td>
+  	  	      <td>Tydingesjön</td>
+  	  	      <td>Broby</td>
+  	  	      <td>Östra Göinge</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>17</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Ingvar & Co</td>
+  	  	      <td>Tölögården</td>
+  	  	      <td>Kungsbacka</td>
+  	  	      <td>Kungsbacka</td>
+  	  	      <td>Halland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>18</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Donnez</td>
+  	  	      <td>Barva bygdegård</td>
+  	  	      <td>Barva</td>
+  	  	      <td>Eskilstuna</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>18</td>
+  	  	      <td>16.00-20.00</td>
+  	          <td>Nordhs</td>
+  	  	      <td>Folkets Park Knislinge</td>
+  	  	      <td>Knislinge</td>
+  	  	      <td>Östra Göinge</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>18</td>
+  	  	      <td>17.00-20.00</td>
+  	          <td>Kalle & Stefan</td>
+  	  	      <td>Folkets Park Trollhättan</td>
+  	  	      <td>Trollhättan</td>
+  	  	      <td>Trollhättan</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>18</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Matz Rogers</td>
+  	  	      <td>Folkets Park Åseda</td>
+  	  	      <td>Åseda</td>
+  	  	      <td>Uppvidinge</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>18</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Kenneths</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>18</td>
+  	  	      <td>13.00-17.00</td>
+  	          <td>Holens</td>
+  	  	      <td>Fyris park</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>18</td>
+  	  	      <td>18.30-22.30</td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Granbacken Löberöd</td>
+  	  	      <td>Löberöd</td>
+  	  	      <td>Eslöv</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>18</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Inges</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>18</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Valhalla Sandviken </td>
+  	  	      <td>Sandviken</td>
+  	  	      <td>Sandviken</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Black Jack</td>
+  	  	      <td>Bergviksparken</td>
+  	  	      <td>Bergvik</td>
+  	  	      <td>Söderhamn</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Casanovas</td>
+  	  	      <td>Blomsterhultslogen</td>
+  	  	      <td>Blomsterhult</td>
+  	  	      <td>Karlstad</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Wizex</td>
+  	  	      <td>Casino Cosmopol Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Shoodix</td>
+  	  	      <td>Edelweiss Helsingborg</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Skåningarna</td>
+  	  	      <td>Folkets Hus Alvesta Club68</td>
+  	  	      <td>Alvesta</td>
+  	  	      <td>Alvesta</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Tornex</td>
+  	  	      <td>Folkets Hus Haparanda</td>
+  	  	      <td>Haparanda</td>
+  	  	      <td>Haparanda</td>
+  	  	      <td>Norrbotten</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Jonnys</td>
+  	  	      <td>Folkets Hus Hargshamn</td>
+  	  	      <td>Hargshamn</td>
+  	  	      <td>Östhammar</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Holens</td>
+  	  	      <td>Folkets Hus Hällefors</td>
+  	  	      <td>Hällefors</td>
+  	  	      <td>Hällefors</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Strixz</td>
+  	  	      <td>Folkets Hus Strömsund</td>
+  	  	      <td>Strömsund</td>
+  	  	      <td>Strömsund</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Ola & Jag</td>
+  	  	      <td>Folkets Park Avesta</td>
+  	  	      <td>Avesta</td>
+  	  	      <td>Avesta</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>20.00-01.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Folkets Park Ljungsbro</td>
+  	  	      <td>Ljungsbro</td>
+  	  	      <td>Linköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>20.00-01.00</td>
+  	          <td>Sounders</td>
+  	  	      <td>Folkets Park Ljungsbro</td>
+  	  	      <td>Ljungsbro</td>
+  	  	      <td>Linköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>20.00-01.00</td>
+  	          <td>Streaplers</td>
+  	  	      <td>Folkets Park Ljungsbro</td>
+  	  	      <td>Ljungsbro</td>
+  	  	      <td>Linköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>14.00-17.00</td>
+  	          <td>Kjell Dahls</td>
+  	  	      <td>Folkets Park Vingåker</td>
+  	  	      <td>Vingåker</td>
+  	  	      <td>Vingåker</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Bex:s</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>19.30-23.00</td>
+  	          <td>Claes Lövgrens</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Cedrix</td>
+  	  	      <td>Nybo bygdegård</td>
+  	  	      <td>Gustafs</td>
+  	  	      <td>Säter</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Blender</td>
+  	  	      <td>Parken Oskarshamn</td>
+  	  	      <td>Oskarshamn</td>
+  	  	      <td>Oskarshamn</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>15.00-18.30</td>
+  	          <td>Memorys</td>
+  	  	      <td>Pårydsparken</td>
+  	  	      <td>Påryd</td>
+  	  	      <td>Kalmar</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Donnez</td>
+  	  	      <td>Sägnernas Hus</td>
+  	  	      <td>Sandhem</td>
+  	  	      <td>Mullsjö</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Glenn-Endys</td>
+  	  	      <td>Tydingesjön</td>
+  	  	      <td>Broby</td>
+  	  	      <td>Östra Göinge</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Lasse Stefanz</td>
+  	  	      <td>Täfteå Loge</td>
+  	  	      <td>Täfteå</td>
+  	  	      <td>Umeå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td></td>
+  	          <td>Micke Ahlgrens</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>20.00-02.00</td>
+  	          <td>Likes</td>
+  	  	      <td>Vombs foder</td>
+  	  	      <td>Veberöd</td>
+  	  	      <td>Lund</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>19</td>
+  	  	      <td>20.00-02.00</td>
+  	          <td>Perikles</td>
+  	  	      <td>Vombs foder</td>
+  	  	      <td>Veberöd</td>
+  	  	      <td>Lund</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Fernandoz</td>
+  	  	      <td>Almesåsens festplats</td>
+  	  	      <td>Helås</td>
+  	  	      <td>Vara</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>21.45-01.45</td>
+  	          <td>Gideons</td>
+  	  	      <td>Bankiren Västerås</td>
+  	  	      <td>Västerås</td>
+  	  	      <td>Västerås</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Jannez</td>
+  	  	      <td>Blomsterhultslogen</td>
+  	  	      <td>Blomsterhult</td>
+  	  	      <td>Karlstad</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Wahlströms</td>
+  	  	      <td>Brunnsparken</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Jontez</td>
+  	  	      <td>Ettringstorp Loge</td>
+  	  	      <td>Ettringstorp</td>
+  	  	      <td>Boxholm</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Highlights</td>
+  	  	      <td>Folkets Hus Bromölla</td>
+  	  	      <td>Bromölla</td>
+  	  	      <td>Bromölla</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Wretaz</td>
+  	  	      <td>Folkets Hus Vrena</td>
+  	  	      <td>Vrena</td>
+  	  	      <td>Nyköping</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-01.00</td>
+  	          <td>Blender</td>
+  	  	      <td>Folkets Park Ljungsbro</td>
+  	  	      <td>Ljungsbro</td>
+  	  	      <td>Linköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-01.00</td>
+  	          <td>Donnez</td>
+  	  	      <td>Folkets Park Ljungsbro</td>
+  	  	      <td>Ljungsbro</td>
+  	  	      <td>Linköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-01.00</td>
+  	          <td>Rivalerna</td>
+  	  	      <td>Folkets Park Ljungsbro</td>
+  	  	      <td>Ljungsbro</td>
+  	  	      <td>Linköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-01.00</td>
+  	          <td>Thor Görans & Agneta Olsson</td>
+  	  	      <td>Folkets Park Ljungsbro</td>
+  	  	      <td>Ljungsbro</td>
+  	  	      <td>Linköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Scotts</td>
+  	  	      <td>Folkets Park Vretstorp</td>
+  	  	      <td>Vretstorp</td>
+  	  	      <td>Hallsberg</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td></td>
+  	          <td>Likes</td>
+  	  	      <td>Folkparken Gemla</td>
+  	  	      <td>Gemla</td>
+  	  	      <td>Växjö</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td></td>
+  	          <td>Larz Kristerz</td>
+  	  	      <td>Fröjdholmen</td>
+  	  	      <td>Myrviken</td>
+  	  	      <td>Berg</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Claes Lövgrens</td>
+  	  	      <td>Fyris park</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Mittbandet</td>
+  	  	      <td>Gimåfors bygdegård</td>
+  	  	      <td>Gimåfors</td>
+  	  	      <td>Ånge</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td></td>
+  	          <td>BarraBazz</td>
+  	  	      <td>GT-gården Tännäs</td>
+  	  	      <td>Tännäs</td>
+  	  	      <td>Härjedalen</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>22.00-02.00</td>
+  	          <td>Kindbergs</td>
+  	  	      <td>Hamnpaviljongen Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Black Jack</td>
+  	  	      <td>Hanssons Loge</td>
+  	  	      <td>Långsele</td>
+  	  	      <td>Sollefteå</td>
+  	  	      <td>Västernorrland  </td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-00.30</td>
+  	          <td>Kjell Dahls</td>
+  	  	      <td>Häradshammars bygdegård</td>
+  	  	      <td>Vikbolandet</td>
+  	  	      <td>Norrköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Alvenfors</td>
+  	  	      <td>Liseberg Polketten</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Foxie</td>
+  	  	      <td>Liseberg Polketten</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Ramshall </td>
+  	  	      <td>Veinge</td>
+  	  	      <td>Laholm</td>
+  	  	      <td>Halland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Mats Bergmans</td>
+  	  	      <td>Rangelstorps loge</td>
+  	  	      <td>Mariannelund</td>
+  	  	      <td>Eksjö</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Flamingokvintetten</td>
+  	  	      <td>Sjötofta Fritid</td>
+  	  	      <td>Sävshult</td>
+  	  	      <td>Tranemo</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Glenn-Endys</td>
+  	  	      <td>Utängens Loge</td>
+  	  	      <td>Tanumshede</td>
+  	  	      <td>Tanum</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Kalle & Stefan</td>
+  	  	      <td>Vallmogården Malung</td>
+  	  	      <td>Malung</td>
+  	  	      <td>Malung</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td></td>
+  	          <td>Martinez</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-02.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Vombs foder</td>
+  	  	      <td>Veberöd</td>
+  	  	      <td>Lund</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td>20.00-02.00</td>
+  	          <td>Streaplers</td>
+  	  	      <td>Vombs foder</td>
+  	  	      <td>Veberöd</td>
+  	  	      <td>Lund</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>20</td>
+  	  	      <td></td>
+  	          <td>Lasse Stefanz</td>
+  	  	      <td>Western Farm Boden</td>
+  	  	      <td>Boden</td>
+  	  	      <td>Boden</td>
+  	  	      <td>Norrbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Jannez</td>
+  	  	      <td>Alingsåsparken</td>
+  	  	      <td>Alingsås</td>
+  	  	      <td>Alingsås</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td></td>
+  	          <td>Titanix</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Mannerz</td>
+  	  	      <td>Ekebyskolan Vallentuna</td>
+  	  	      <td>Vallentuna</td>
+  	  	      <td>Vallentuna</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td>15.00-19.00</td>
+  	          <td>Orient</td>
+  	  	      <td>Folkets Hus Arkelstorp</td>
+  	  	      <td>Arkelstorp</td>
+  	  	      <td>Kristianstad</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Skåningarna</td>
+  	  	      <td>Folkets Park Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Streaplers</td>
+  	  	      <td>Folkets Park Mörrum</td>
+  	  	      <td>Mörrum</td>
+  	  	      <td>Karlshamn</td>
+  	  	      <td>Blekinge</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Blender</td>
+  	  	      <td>Folkparken Gemla</td>
+  	  	      <td>Gemla</td>
+  	  	      <td>Växjö</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Christerz</td>
+  	  	      <td>Hårkvallen Lit</td>
+  	  	      <td>Lit</td>
+  	  	      <td>Östersund</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td></td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Liljekonvaljeholmen Uppsala</td>
+  	  	      <td>Sunnersta</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Donnez</td>
+  	  	      <td>Stallet Vassmolösa</td>
+  	  	      <td>Vassmolösa</td>
+  	  	      <td>Kalmar</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Törringelund</td>
+  	  	      <td>Oxie</td>
+  	  	      <td>Malmö</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Holens</td>
+  	  	      <td>Upperudslogen</td>
+  	  	      <td>Molkom</td>
+  	  	      <td>Karlstad</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td></td>
+  	          <td>Ballroom Big Band</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>21</td>
+  	  	      <td></td>
+  	          <td>Martinez</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>22</td>
+  	  	      <td></td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>22</td>
+  	  	      <td></td>
+  	          <td>Sandins</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>22</td>
+  	  	      <td>20.00-23.00</td>
+  	          <td>Gentle Combo Band</td>
+  	  	      <td>Chicago</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>22</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Bendix</td>
+  	  	      <td>Folkparken Skellefteå</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>22</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Bob Stevens</td>
+  	  	      <td>Tidaholmsparken</td>
+  	  	      <td>Tidaholm</td>
+  	  	      <td>Tidaholm</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>22</td>
+  	  	      <td></td>
+  	          <td>Martinez</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>22</td>
+  	  	      <td></td>
+  	          <td>Micke Ahlgrens</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td></td>
+  	          <td>Matz Bladhs</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td></td>
+  	          <td>Sandins</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Holens</td>
+  	  	      <td>Folkets Park Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td>15.00-19.00</td>
+  	          <td>Bengt Hedin & Co</td>
+  	  	      <td>Folkets Park Sjöbo</td>
+  	  	      <td>Sjöbo</td>
+  	  	      <td>Sjöbo</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Engdahls</td>
+  	  	      <td>Sundspärlan</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Löpsjötorparns</td>
+  	  	      <td>Ulvsättra loge</td>
+  	  	      <td>Kallhäll</td>
+  	  	      <td>Järfälla</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td></td>
+  	          <td>Martinez</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td></td>
+  	          <td>Micke Ahlgrens</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td>21.00-00.30</td>
+  	          <td>Dur-X</td>
+  	  	      <td>Västerhagen</td>
+  	  	      <td>Haverdal</td>
+  	  	      <td>Halmstad</td>
+  	  	      <td>Halland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td>21.00-00.30</td>
+  	          <td>Perikles</td>
+  	  	      <td>Västerhagen</td>
+  	  	      <td>Haverdal</td>
+  	  	      <td>Halmstad</td>
+  	  	      <td>Halland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>23</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Highlights</td>
+  	  	      <td>Åsliden</td>
+  	  	      <td>Nor</td>
+  	  	      <td>Ljusdal</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Blender</td>
+  	  	      <td>Folkets Hus Skelleftehamn</td>
+  	  	      <td>Skelleftehamn</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Thoniez</td>
+  	  	      <td>Folkets Park Degerfors</td>
+  	  	      <td>Degerfors</td>
+  	  	      <td>Degerfors</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>18.00-23.00</td>
+  	          <td>Finix</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>18.00-23.00</td>
+  	          <td>Highlights</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>18.00-21.00</td>
+  	          <td>Serenad</td>
+  	  	      <td>Gnistan Örnsköldsvik</td>
+  	  	      <td>Örnsköldsvik</td>
+  	  	      <td>Örnsköldsvik</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Junix</td>
+  	  	      <td>Hanssons Loge</td>
+  	  	      <td>Långsele</td>
+  	  	      <td>Sollefteå</td>
+  	  	      <td>Västernorrland  </td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Kjell Dahls</td>
+  	  	      <td>Kolbäcksparken</td>
+  	  	      <td>Kolbäck</td>
+  	  	      <td>Hallstahammar</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Streaplers</td>
+  	  	      <td>Kärrasand</td>
+  	  	      <td>Urshult</td>
+  	  	      <td>Tingsryd</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Gideons</td>
+  	  	      <td>Lohärads bygdegård</td>
+  	  	      <td>Lohärad</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>17.00-20.00</td>
+  	          <td>Lars Erikssons</td>
+  	  	      <td>Löfstad Loge</td>
+  	  	      <td>Löfstad</td>
+  	  	      <td>Norrköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Bendéns</td>
+  	  	      <td>Mossbrott</td>
+  	  	      <td>Vara</td>
+  	  	      <td>Vara</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Mogna Män</td>
+  	  	      <td>Timmele festplats</td>
+  	  	      <td>Timmele</td>
+  	  	      <td>Ulricehamn</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Hazzes</td>
+  	  	      <td>Tydingesjön</td>
+  	  	      <td>Broby</td>
+  	  	      <td>Östra Göinge</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>24</td>
+  	  	      <td></td>
+  	          <td>Larz Kristerz</td>
+  	  	      <td>Åkerlänna bygdegård</td>
+  	  	      <td>Bälinge</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Blender</td>
+  	  	      <td>Aspåsnäset</td>
+  	  	      <td>Aspås</td>
+  	  	      <td>Krokom</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Micke Ahlgrens</td>
+  	  	      <td>Barva bygdegård</td>
+  	  	      <td>Barva</td>
+  	  	      <td>Eskilstuna</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Stickan & Classe</td>
+  	  	      <td>Björkbacken Hynnenäs</td>
+  	  	      <td>Hynnenäs</td>
+  	  	      <td>Alvesta</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Date</td>
+  	  	      <td>Dalaborgsparken</td>
+  	  	      <td>Vänersborg</td>
+  	  	      <td>Vänersborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Junix</td>
+  	  	      <td>Folkets Hus Kusmark</td>
+  	  	      <td>Kusmark</td>
+  	  	      <td>Skellefteå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Christerz</td>
+  	  	      <td>Folkets Hus Ramvik</td>
+  	  	      <td>Ramvik</td>
+  	  	      <td>Härnösand</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Lennartz</td>
+  	  	      <td>Föreningsborg Bettna</td>
+  	  	      <td>Bettna</td>
+  	  	      <td>Flen </td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Bob Stevens</td>
+  	  	      <td>Granbacken Löberöd</td>
+  	  	      <td>Löberöd</td>
+  	  	      <td>Eslöv</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Gröna lund</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>16.00-20.00</td>
+  	          <td>Kenneth Hertz</td>
+  	  	      <td>Idrottshallen Månkarbo</td>
+  	  	      <td>Månkarbo</td>
+  	  	      <td>Tierp</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td></td>
+  	          <td>Larz Kristerz</td>
+  	  	      <td>Kristinehamn Arena</td>
+  	  	      <td>Kristinehamn</td>
+  	  	      <td>Kristinehamn</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td></td>
+  	          <td>Streaplers</td>
+  	  	      <td>Kungälvsparken</td>
+  	  	      <td>Kungälv</td>
+  	  	      <td>Kungälv</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Parken Götene</td>
+  	  	      <td>Götene</td>
+  	  	      <td>Götene</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Claes Lövgrens</td>
+  	  	      <td>Säterdalen</td>
+  	  	      <td>Säter</td>
+  	  	      <td>Säter</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tor</td><td>25</td>
+  	  	      <td></td>
+  	          <td>Voize</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td></td>
+  	          <td>Grönwalls</td>
+  	  	      <td>Bellevueparken</td>
+  	  	      <td>Karlshamn</td>
+  	  	      <td>Karlshamn</td>
+  	  	      <td>Blekinge</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td></td>
+  	          <td>Lasse Stefanz</td>
+  	  	      <td>Bellevueparken</td>
+  	  	      <td>Karlshamn</td>
+  	  	      <td>Karlshamn</td>
+  	  	      <td>Blekinge</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td></td>
+  	          <td>Streaplers</td>
+  	  	      <td>Bergs festplats</td>
+  	  	      <td>Råssbyn</td>
+  	  	      <td>Uddevalla</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Drifters</td>
+  	  	      <td>Björknäsparken</td>
+  	  	      <td>Boden</td>
+  	  	      <td>Boden</td>
+  	  	      <td>Norrbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Glenn-Endys</td>
+  	  	      <td>Danshallen Belganet</td>
+  	  	      <td>Hallabro</td>
+  	  	      <td>Ronneby</td>
+  	  	      <td>Blekinge</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td></td>
+  	          <td>Larz Kristerz</td>
+  	  	      <td>Folkets Park Knislinge</td>
+  	  	      <td>Knislinge</td>
+  	  	      <td>Östra Göinge</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td></td>
+  	          <td>Titanix</td>
+  	  	      <td>Gamleby Folkpark</td>
+  	  	      <td>Gamleby</td>
+  	  	      <td>Västervik</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Blender</td>
+  	  	      <td>Gräsmyr loge</td>
+  	  	      <td>Gräsmyr</td>
+  	  	      <td>Nordmaling</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td></td>
+  	          <td>Framed</td>
+  	  	      <td>Hotell Nordevik</td>
+  	  	      <td>Skärhamn</td>
+  	  	      <td>Tjörn</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>15.00-18.30</td>
+  	          <td>Erik Arnolds</td>
+  	  	      <td>Kristallen Nybro</td>
+  	  	      <td>Nybro</td>
+  	  	      <td>Nybro</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Casanovas</td>
+  	  	      <td>Kungälvsparken</td>
+  	  	      <td>Kungälv</td>
+  	  	      <td>Kungälv</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Skåningarna</td>
+  	  	      <td>Liseberg Polketten</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Expanders</td>
+  	  	      <td>Logen Käcktjärn</td>
+  	  	      <td>Bölebyn</td>
+  	  	      <td>Piteå</td>
+  	  	      <td>Norrbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Lars Erikssons</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>19.30-23.00</td>
+  	          <td>Hedins</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Donnez</td>
+  	  	      <td>Skälby loge</td>
+  	  	      <td>Kalmar</td>
+  	  	      <td>Kalmar</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Söderbärkeparken</td>
+  	  	      <td>Söderbärke  </td>
+  	  	      <td>Smedjebacken</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Jannez</td>
+  	  	      <td>Tallbacken Ånge</td>
+  	  	      <td>Ånge</td>
+  	  	      <td>Ånge</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Chiquita</td>
+  	  	      <td>Tydingesjön</td>
+  	  	      <td>Broby</td>
+  	  	      <td>Östra Göinge</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Fre</td><td>26</td>
+  	  	      <td></td>
+  	          <td>Voize</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Dolbyz</td>
+  	  	      <td>Alvestayran</td>
+  	  	      <td>Alvesta</td>
+  	  	      <td>Alvesta</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Kindbergs</td>
+  	  	      <td>Blomsterhultslogen</td>
+  	  	      <td>Blomsterhult</td>
+  	  	      <td>Karlstad</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Brunnsparken</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Ekliden</td>
+  	  	      <td>Västra Harg</td>
+  	  	      <td>Mjölby</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td></td>
+  	          <td>Black Jack</td>
+  	  	      <td>Eringsboda Brunn</td>
+  	  	      <td>Eringsboda</td>
+  	  	      <td>Ronneby</td>
+  	  	      <td>Blekinge</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Glenn-Endys</td>
+  	  	      <td>Ettringstorp Loge</td>
+  	  	      <td>Ettringstorp</td>
+  	  	      <td>Boxholm</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Ej fastställt</td>
+  	  	      <td>Folkets Hus Erikslund</td>
+  	  	      <td>Erikslund</td>
+  	  	      <td>Ånge</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td></td>
+  	          <td>Lasse Stefanz</td>
+  	  	      <td>Folkets Park Fågelfors</td>
+  	  	      <td>Fågelfors</td>
+  	  	      <td>Högsby</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Janders</td>
+  	  	      <td>Fromhedens Danspaviljong</td>
+  	  	      <td>Fromheden</td>
+  	  	      <td>Norsjö</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Thor Görans & Agneta Olsson</td>
+  	  	      <td>Fyris park</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Wizex</td>
+  	  	      <td>Grännäsparken Valdemarsvik</td>
+  	  	      <td>Valdemarsvik</td>
+  	  	      <td>Valdemarsvik</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Jannez</td>
+  	  	      <td>Hanssons Loge</td>
+  	  	      <td>Långsele</td>
+  	  	      <td>Sollefteå</td>
+  	  	      <td>Västernorrland  </td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Bob Stevens</td>
+  	  	      <td>Hasslerudsparken</td>
+  	  	      <td>Nysäter</td>
+  	  	      <td>Säffle</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td></td>
+  	          <td>Framed</td>
+  	  	      <td>Hotell Nordevik</td>
+  	  	      <td>Skärhamn</td>
+  	  	      <td>Tjörn</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td></td>
+  	          <td>Date</td>
+  	  	      <td>Köket Uddevalla</td>
+  	  	      <td>Uddevalla</td>
+  	  	      <td>Uddevalla</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Pia Pihlgrens</td>
+  	  	      <td>Liseberg Polketten</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Serenad</td>
+  	  	      <td>Logen Käcktjärn</td>
+  	  	      <td>Bölebyn</td>
+  	  	      <td>Piteå</td>
+  	  	      <td>Norrbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Dreams</td>
+  	  	      <td>Mannes Loge</td>
+  	  	      <td>Boda, Svärdsjö</td>
+  	  	      <td>Falun</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Oreparken</td>
+  	  	      <td>Furudal</td>
+  	  	      <td>Rättvik</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Streaplers</td>
+  	  	      <td>Råglannaparken</td>
+  	  	      <td>Främmestad</td>
+  	  	      <td>Essunga</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td></td>
+  	          <td>Perikles</td>
+  	  	      <td>Tingvalla Tomelilla</td>
+  	  	      <td>Tomelilla</td>
+  	  	      <td>Tomelilla</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Skåningarna</td>
+  	  	      <td>Tingvalla Åstorp</td>
+  	  	      <td>Åstorp</td>
+  	  	      <td>Åstorp</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Blender</td>
+  	  	      <td>Tors loge</td>
+  	  	      <td>Torsåker</td>
+  	  	      <td>Hofors</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>21.00-01.00</td>
+  	          <td>Drifters</td>
+  	  	      <td>Täfteå Loge</td>
+  	  	      <td>Täfteå</td>
+  	  	      <td>Umeå</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Claes Lövgrens</td>
+  	  	      <td>Upperudslogen</td>
+  	  	      <td>Molkom</td>
+  	  	      <td>Karlstad</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td></td>
+  	          <td>Matz Rogers</td>
+  	  	      <td>Utängens Loge</td>
+  	  	      <td>Tanumshede</td>
+  	  	      <td>Tanum</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td></td>
+  	          <td>Voize</td>
+  	  	      <td>Viking Rosella</td>
+  	  	      <td>Kapellskär</td>
+  	  	      <td>Norrtälje</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td></td>
+  	          <td>Scotts</td>
+  	  	      <td>Vittingeparken</td>
+  	  	      <td>Vittinge</td>
+  	  	      <td>Heby</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Lör</td><td>27</td>
+  	  	      <td></td>
+  	          <td>Bjarnez</td>
+  	  	      <td>Åsebro Festplats</td>
+  	  	      <td>Åsebro</td>
+  	  	      <td>Mellerud</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>28</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Likes</td>
+  	  	      <td>Alingsåsparken</td>
+  	  	      <td>Alingsås</td>
+  	  	      <td>Alingsås</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>28</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Mickes</td>
+  	  	      <td>Festplatsen Vännäsby</td>
+  	  	      <td>Vännäsby</td>
+  	  	      <td>Vännäs</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>28</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Framed</td>
+  	  	      <td>Folkets Park Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Hedemora</td>
+  	  	      <td>Dalarna</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>28</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Wahlströms</td>
+  	  	      <td>Folkets Park Vadstena</td>
+  	  	      <td>Vadstena</td>
+  	  	      <td>Vadstena</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>28</td>
+  	  	      <td>17.00-21.00</td>
+  	          <td>Sannex</td>
+  	  	      <td>Folkparken Gemla</td>
+  	  	      <td>Gemla</td>
+  	  	      <td>Växjö</td>
+  	  	      <td>Kronoberg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>28</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Hembygdsgården Gräsmark</td>
+  	  	      <td>Gräsmark</td>
+  	  	      <td>Sunne</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>28</td>
+  	  	      <td></td>
+  	          <td>Kindbergs</td>
+  	  	      <td>Liljekonvaljeholmen Uppsala</td>
+  	  	      <td>Sunnersta</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>28</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Finix</td>
+  	  	      <td>Liljekonvaljeholmen Uppsala</td>
+  	  	      <td>Sunnersta</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>28</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Micke Ahlgrens</td>
+  	  	      <td>Stallet Vassmolösa</td>
+  	  	      <td>Vassmolösa</td>
+  	  	      <td>Kalmar</td>
+  	  	      <td>Kalmar</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Sön</td><td>28</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Engdahls</td>
+  	  	      <td>Törringelund</td>
+  	  	      <td>Oxie</td>
+  	  	      <td>Malmö</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Sön</td><td>28</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Samzons</td>
+  	  	      <td>Upperudslogen</td>
+  	  	      <td>Molkom</td>
+  	  	      <td>Karlstad</td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>29</td>
+  	  	      <td></td>
+  	          <td>Hedins</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>29</td>
+  	  	      <td></td>
+  	          <td>Sounders</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>29</td>
+  	  	      <td>20.00-23.00</td>
+  	          <td>Tommy Löbel Swing Band</td>
+  	  	      <td>Chicago</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>29</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Micke Ahlgrens</td>
+  	  	      <td>Falköpingsparken</td>
+  	  	      <td>Falköping</td>
+  	  	      <td>Falköping</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>29</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Matz Rogers</td>
+  	  	      <td>Folkets Park Sala</td>
+  	  	      <td>Sala</td>
+  	  	      <td>Sala</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Mån</td><td>29</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Jönköpings storband</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Mån</td><td>29</td>
+  	  	      <td></td>
+  	          <td>Mats Bergmans</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Bergviksparken</td>
+  	  	      <td>Bergvik</td>
+  	  	      <td>Söderhamn</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td></td>
+  	          <td>Hedins</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td></td>
+  	          <td>Sounders</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>19.30-23.30</td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Broby Bettna</td>
+  	  	      <td>Bettna</td>
+  	  	      <td>Flen</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Gideons</td>
+  	  	      <td>Brunnsparken</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>15.00-19.00</td>
+  	          <td>Tripz</td>
+  	  	      <td>Folkets Park Sjöbo</td>
+  	  	      <td>Sjöbo</td>
+  	  	      <td>Sjöbo</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Mats Bergmans</td>
+  	  	      <td>Hågelbyparken</td>
+  	  	      <td>Tumba</td>
+  	  	      <td>Botkyrka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Jannez</td>
+  	  	      <td>Lagårn Skultuna</td>
+  	  	      <td>Skultuna</td>
+  	  	      <td>Västerås</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>13.00-17.00</td>
+  	          <td>Micke Ahlgrens</td>
+  	  	      <td>Liljekonvaljeholmen Uppsala</td>
+  	  	      <td>Sunnersta</td>
+  	  	      <td>Uppsala</td>
+  	  	      <td>Uppsala</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Leif Hermanssons</td>
+  	  	      <td>Medborgarhuset Alvik</td>
+  	  	      <td>Bromma</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Fernandoz</td>
+  	  	      <td>Sundspärlan</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Helsingborg</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Holens</td>
+  	  	      <td>Ulvsättra loge</td>
+  	  	      <td>Kallhäll</td>
+  	  	      <td>Järfälla</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td></td>
+  	          <td>Larz Kristerz</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>21.00-00.30</td>
+  	          <td>C-Laget</td>
+  	  	      <td>Västerhagen</td>
+  	  	      <td>Haverdal</td>
+  	  	      <td>Halmstad</td>
+  	  	      <td>Halland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>21.00-00.30</td>
+  	          <td>Date</td>
+  	  	      <td>Västerhagen</td>
+  	  	      <td>Haverdal</td>
+  	  	      <td>Halmstad</td>
+  	  	      <td>Halland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Tis</td><td>30</td>
+  	  	      <td>20.00-24.00</td>
+  	          <td>Blender</td>
+  	  	      <td>Åsliden</td>
+  	  	      <td>Nor</td>
+  	  	      <td>Ljusdal</td>
+  	  	      <td>Gävleborg</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td></td>
+  	          <td>Framed</td>
+  	  	      <td>Birka</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Fernandoz</td>
+  	  	      <td>Eringsboda Brunn</td>
+  	  	      <td>Eringsboda</td>
+  	  	      <td>Ronneby</td>
+  	  	      <td>Blekinge</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>18.30-22.00</td>
+  	          <td>Serenad</td>
+  	  	      <td>Folkets Hus Bollsta</td>
+  	  	      <td>Bollstabruk</td>
+  	  	      <td>Kramfors</td>
+  	  	      <td>Västernorrland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Lars Erikssons</td>
+  	  	      <td>Folkets Park Degerfors</td>
+  	  	      <td>Degerfors</td>
+  	  	      <td>Degerfors</td>
+  	  	      <td>Örebro</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>18.00-23.00</td>
+  	          <td>Jannez</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>18.00-23.00</td>
+  	          <td>Martinez</td>
+  	  	      <td>Fröjden Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <td>Jönköping</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Ola & Jag</td>
+  	  	      <td>Gräsmyr loge</td>
+  	  	      <td>Gräsmyr</td>
+  	  	      <td>Nordmaling</td>
+  	  	      <td>Västerbotten</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>19.00-23.00</td>
+  	          <td>Scotts</td>
+  	  	      <td>Gröna lund</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>BarraBazz</td>
+  	  	      <td>Grönänge</td>
+  	  	      <td>Dvärsätt</td>
+  	  	      <td>Krokom</td>
+  	  	      <td>Jämtland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>19.00-22.30</td>
+  	          <td>Janders</td>
+  	  	      <td>Hanssons Loge</td>
+  	  	      <td>Långsele</td>
+  	  	      <td>Sollefteå</td>
+  	  	      <td>Västernorrland  </td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>13.30-17.00</td>
+  	          <td>Cedrix</td>
+  	  	      <td>Kolbäcksparken</td>
+  	  	      <td>Kolbäck</td>
+  	  	      <td>Hallstahammar</td>
+  	  	      <td>Västmanland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>11.00-14.00</td>
+  	          <td>Trebello</td>
+  	  	      <td>Liseberg Polketten</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>17.00-20.00</td>
+  	          <td>Eklöfs</td>
+  	  	      <td>Löfstad Loge</td>
+  	  	      <td>Löfstad</td>
+  	  	      <td>Norrköping</td>
+  	  	      <td>Östergötland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Kenneths</td>
+  	  	      <td>Mossbrott</td>
+  	  	      <td>Vara</td>
+  	  	      <td>Vara</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>18.00-21.30</td>
+  	          <td>Svantes</td>
+  	  	      <td>Orrnäset</td>
+  	  	      <td>Högboda</td>
+  	  	      <td>Kil </td>
+  	  	      <td>Värmland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td></td>
+  	          <td>Neon Duo</td>
+  	  	      <td>Stena Danica</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Göteborg</td>
+  	  	      <td>Västra Götaland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>18.00-22.00</td>
+  	          <td>Orient</td>
+  	  	      <td>Tydingesjön</td>
+  	  	      <td>Broby</td>
+  	  	      <td>Östra Göinge</td>
+  	  	      <td>Skåne</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>13.00-16.00</td>
+  	          <td>Bosse Franks</td>
+  	  	      <td>Tystberga bygdegård</td>
+  	  	      <td>Tystberga</td>
+  	  	      <td>Nyköping</td>
+  	  	      <td>Södermanland</td>
+  	  	      <!--<td>pro</td>-->
+              <td>PRO</td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="odd">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td>19.00-22.00</td>
+  	          <td>Tång & Co</td>
+  	  	      <td>Tölögården</td>
+  	  	      <td>Kungsbacka</td>
+  	  	      <td>Kungsbacka</td>
+  	  	      <td>Halland</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td></td>
+  	          <td>Larz Kristerz</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+  	  	    <tr class="even">
+  	  	      <td>Ons</td><td>31</td>
+  	  	      <td></td>
+  	          <td>Per-Håkans</td>
+  	  	      <td>Viking Cinderella</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <td>Stockholm</td>
+  	  	      <!--<td></td>-->
+              <td></td>
+  	  	    </tr>
+  	  	    
+	        </table>
+	      </div>
+	      
+           <div style="float: left; margin: 20px 0 0 100px;">
+             <script type="text/javascript">
+             <!--
+             google_ad_client = "pub-4401922600038659";
+             /* Danslogen - spelplaner - fot 468x60, skapad 2009-05-07 */
+             google_ad_slot = "9367106385";
+             google_ad_width = 468;
+             google_ad_height = 60;
+             //-->
+             </script>
+             <script type="text/javascript"
+             src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+             </script>
+           </div>
+           
+    <div style="float:left; margin: 20px 0 0 110px;">
+     <a href="http://ad.zanox.com/ppc/?32539309C761087406T"><img src="http://ad.zanox.com/ppv/?32539309C761087406" align="bottom" width="480" height="280" border="0" hspace="1" alt="Q2 2014 Image Banner 480 x 280"></a>
+    </div>
+    
+  </div>
+  
+  <div id="dances_right_column">
+  
+  <div style="float: right; width: 120px; margin: 10px 0 0 0;">
+    <script type="text/javascript"><!--
+    google_ad_client = "ca-pub-4401922600038659";
+    /* Danslogen Dansprogram Höger */
+    google_ad_slot = "2060121715";
+    google_ad_width = 120;
+    google_ad_height = 600;
+    //-->
+    </script>
+    <script type="text/javascript"
+    src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+  </div>
+  
+  </div>
+  
+    <div style="clear: both;"></div>
+  </div>
+  
+  <div id="cookie_message" style="float: left; position: absolute; top: 0; display: none; width: 1000px; margin: 0; padding: 5px 0; background-color: #8589cd; color: white;">
+	    <p style="font-size: 0.9em; margin: 0 0 0 10px; padding: 0; font-weight: bold;">
+	    Vi tar hjälp av cookies för att tillhandahålla våra tjänster. Genom att använda våra tjänster godkänner du att vi använder cookies
+	    <!--<a style="background-color: lightgrey; padding: 1px 3px;" href="/cookies">Läs mer</a>&nbsp;-->
+      <a style="background-color: lightgrey; padding: 1px 3px;" href="" onclick="set_cookie_message_hide(); null;">OK</a></p>
+    </div>
+  </div>    
+  
+  	    
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4056085-1']);
+    _gaq.push(['_trackPageview']);
+  
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  
+  	  </body>
+  	  
+  	  </html>
+  	    
