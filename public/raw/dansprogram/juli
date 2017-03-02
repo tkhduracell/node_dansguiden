@@ -3,7 +3,7 @@
   	    <head>
   	      <title>Dansa till dansband i juli</title>
   	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="spelplaner över danser till dansband i Sverige">
+<meta name="description" content="spelplaner Ã¶ver danser till dansband i Sverige">
 <meta name="keywords" content="spelplan, spelplaner, dans, dansprogram, dansguide, dansband, dansbandsmusik, danser">
 <link rel="stylesheet" href="/css/main.css" type="text/css">
 
@@ -65,14 +65,14 @@
         
         <div style="float: right;  width: 150px; margin: 0 10px 0 20px; padding: 0;">
 	        <p style="float: right; margin: 0; padding: 3px 0 0 0;">
-	          <a href="/medlemskap" title="Medlemskap på Danslogen">Bli medlem</a> |
-            <a href="/loggain/dansprogram/juli" title="Logga in på Danslogen">Logga in</a>
+	          <a href="/medlemskap" title="Medlemskap pÃ¥ Danslogen">Bli medlem</a> |
+            <a href="/loggain/dansprogram/juli" title="Logga in pÃ¥ Danslogen">Logga in</a>
           </p>
         </div>
          
      <div style="float: right; width: 200px; margin: 0; padding: 0;">
           <p style="float: right; margin: 0; padding: 3px 0 0 0;"><a href="https://www.facebook.com/groups/184346350635/" 
-          title="Gå till Danslogens facebooksida" target="_blank">Danslogen på facebook</a></p>
+          title="GÃ¥ till Danslogens facebooksida" target="_blank">Danslogen pÃ¥ facebook</a></p>
         </div>
     
 		  </div>
@@ -80,7 +80,7 @@
       <div style="clear: both; float: left; width: 100%;">
         <div id="_logotype" style="float: left; width: 220px;">
           <a style="border: 0;" href="/" title="Danslogens hemsida"><img style="margin: 0 0 0 10px; border: 0;" 
-          src="/images/logotype/danslogen_logotyp_3.jpg" alt="Danslogen för dig som gillar att dansa till dansband"></a>
+          src="/images/logotype/danslogen_logotyp_3.jpg" alt="Danslogen fÃ¶r dig som gillar att dansa till dansband"></a>
           </p>
         </div>
 
@@ -99,17 +99,17 @@
   
 			    <li ><a href="/" title="Till startsidan">Hem</a></li>
 			    
-			    <li ><a href="/bildgalleri" title="Bildgalleri över danser">Bildgalleri</a></li>
+			    <li ><a href="/bildgalleri" title="Bildgalleri Ã¶ver danser">Bildgalleri</a></li>
 			    
-			    <li ><a href="/dansband" title="Register över dansband">Dansband</a></li>
+			    <li ><a href="/dansband" title="Register Ã¶ver dansband">Dansband</a></li>
 			    
-			    <li ><a href="/dansnyheter" title="Dansnyheter om danställen och dansband">Dansnyheter</a></li>
+			    <li ><a href="/dansnyheter" title="Dansnyheter om danstÃ¤llen och dansband">Dansnyheter</a></li>
 			    
-			    <li style="background-color: #EFEFFF;"><a href="/dansprogram" title="Register över dansspelningar">Dansprogram</a></li>
+			    <li style="background-color: #EFEFFF;"><a href="/dansprogram" title="Register Ã¶ver dansspelningar">Dansprogram</a></li>
 			    
-			    <li ><a href="/dansstallen" title="Register över dansställen">Dansställen</a></li>
+			    <li ><a href="/dansstallen" title="Register Ã¶ver dansstÃ¤llen">DansstÃ¤llen</a></li>
 			    
-			    <li ><a href="/evenemang" title="List över dansevenemang">Evenemang</a></li>
+			    <li ><a href="/evenemang" title="List Ã¶ver dansevenemang">Evenemang</a></li>
 			    
 			    <li ><a href="/forum" title="Diskussionsforum om dans">Forum</a></li>
 			    
@@ -129,75 +129,75 @@
   
     <form style="margin: 0;" method="post" action="/dansprogram/sok">
       <input style="width: 95px;" type="text" name="seek_playing" value="">
-      <input style="width: auto;" type="submit" name="submit_seek_playing" value="Sök">
-      <input style="margin-top: 3px;" type="checkbox" name="seek_playing_only_word" value="yes" >&nbsp;Sök bara på hela ord
+      <input style="width: auto;" type="submit" name="submit_seek_playing" value="SÃ¶k">
+      <input style="margin-top: 3px;" type="checkbox" name="seek_playing_only_word" value="yes" >&nbsp;SÃ¶k bara pÃ¥ hela ord
     </form>
   
     <ul style="margin: 5px 0 10px 0;">
       <li><a href="/dansprogram/idag" title="Dagens danser">Idag</a></li>
       <li><a href="/dansprogram/imorgon" title="Danser i morgon">I morgon</a></li>
-      <li><a href="/dansprogram/kommande_vecka" title="Danser från idag och en vecka framåt">En vecka framåt</a></li>
-      <li><a href="/dansprogram/kommande_2_veckor" title="Danser från idag och två veckor framåt">Två veckor framåt</a></li>
+      <li><a href="/dansprogram/kommande_vecka" title="Danser frÃ¥n idag och en vecka framÃ¥t">En vecka framÃ¥t</a></li>
+      <li><a href="/dansprogram/kommande_2_veckor" title="Danser frÃ¥n idag och tvÃ¥ veckor framÃ¥t">TvÃ¥ veckor framÃ¥t</a></li>
     </ul>
   
   <p style="margin: 5px 0 2px 0; font-weight: bold;">Veckodag</p>
     <ul>
   
-	  <li><a href="/dansprogram/onsdag" title="Danser på onsdag">Onsdag</a></li>
+	  <li><a href="/dansprogram/onsdag" title="Danser pÃ¥ onsdag">Onsdag</a></li>
 	  
-	  <li><a href="/dansprogram/torsdag" title="Danser på torsdag">Torsdag</a></li>
+	  <li><a href="/dansprogram/torsdag" title="Danser pÃ¥ torsdag">Torsdag</a></li>
 	  
-	  <li><a href="/dansprogram/fredag" title="Danser på fredag">Fredag</a></li>
+	  <li><a href="/dansprogram/fredag" title="Danser pÃ¥ fredag">Fredag</a></li>
 	  
-	  <li><a href="/dansprogram/lordag" title="Danser på lördag">Lördag</a></li>
+	  <li><a href="/dansprogram/lordag" title="Danser pÃ¥ lÃ¶rdag">LÃ¶rdag</a></li>
 	  
-	  <li><a href="/dansprogram/sondag" title="Danser på söndag">Söndag</a></li>
+	  <li><a href="/dansprogram/sondag" title="Danser pÃ¥ sÃ¶ndag">SÃ¶ndag</a></li>
 	  
-	  <li><a href="/dansprogram/mandag" title="Danser på måndag">Måndag</a></li>
+	  <li><a href="/dansprogram/mandag" title="Danser pÃ¥ mÃ¥ndag">MÃ¥ndag</a></li>
 	  
-	  <li><a href="/dansprogram/tisdag" title="Danser på tisdag">Tisdag</a></li>
+	  <li><a href="/dansprogram/tisdag" title="Danser pÃ¥ tisdag">Tisdag</a></li>
 	  
     </ul>
   
-    <p style="margin: 5px 0 2px 0; font-weight: bold;">Månadsvis</p>
+    <p style="margin: 5px 0 2px 0; font-weight: bold;">MÃ¥nadsvis</p>
     <ul>
     
-      <li><a href="/dansprogram/mars" title="Danser i mars månad ">Mars</a></li>
+      <li><a href="/dansprogram/mars" title="Danser i mars mÃ¥nad ">Mars</a></li>
       
-      <li><a href="/dansprogram/april" title="Danser i april månad ">April</a></li>
+      <li><a href="/dansprogram/april" title="Danser i april mÃ¥nad ">April</a></li>
       
-      <li><a href="/dansprogram/maj" title="Danser i maj månad ">Maj</a></li>
+      <li><a href="/dansprogram/maj" title="Danser i maj mÃ¥nad ">Maj</a></li>
       
-      <li><a href="/dansprogram/juni" title="Danser i juni månad ">Juni</a></li>
+      <li><a href="/dansprogram/juni" title="Danser i juni mÃ¥nad ">Juni</a></li>
       
-      <li><a href="/dansprogram/juli" title="Danser i juli månad ">Juli</a></li>
+      <li><a href="/dansprogram/juli" title="Danser i juli mÃ¥nad ">Juli</a></li>
       
-      <li><a href="/dansprogram/augusti" title="Danser i augusti månad ">Augusti</a></li>
+      <li><a href="/dansprogram/augusti" title="Danser i augusti mÃ¥nad ">Augusti</a></li>
       
-      <li><a href="/dansprogram/september" title="Danser i september månad ">September</a></li>
+      <li><a href="/dansprogram/september" title="Danser i september mÃ¥nad ">September</a></li>
       
-      <li><a href="/dansprogram/oktober" title="Danser i oktober månad ">Oktober</a></li>
+      <li><a href="/dansprogram/oktober" title="Danser i oktober mÃ¥nad ">Oktober</a></li>
       
-      <li><a href="/dansprogram/november" title="Danser i november månad ">November</a></li>
+      <li><a href="/dansprogram/november" title="Danser i november mÃ¥nad ">November</a></li>
       
-      <li><a href="/dansprogram/december" title="Danser i december månad ">December</a></li>
+      <li><a href="/dansprogram/december" title="Danser i december mÃ¥nad ">December</a></li>
       
     	  </ul>
     	  <h3>2018</h3>
     	  <ul>
     	  
-      <li><a href="/dansprogram/januari" title="Danser i januari månad 2018">Januari</a></li>
+      <li><a href="/dansprogram/januari" title="Danser i januari mÃ¥nad 2018">Januari</a></li>
       
     </ul>
     
-    <p style="margin: 5px 0 2px 0; font-weight: bold;">Dans på båt</p>
+    <p style="margin: 5px 0 2px 0; font-weight: bold;">Dans pÃ¥ bÃ¥t</p>
     <ul>
-      <li><a href="/dansprogram/batar" title="Danser på båt">Båtar</a></li>
+      <li><a href="/dansprogram/batar" title="Danser pÃ¥ bÃ¥t">BÃ¥tar</a></li>
     </ul>
   
     <p style="margin: 5px 0 2px 0; font-weight: bold;">Geografiskt</p>
     <ul>
-      <li><a href="/dansprogram/lan" title="Danser länsvis">Via län</a></li>
+      <li><a href="/dansprogram/lan" title="Danser lÃ¤nsvis">Via lÃ¤n</a></li>
     </ul>
   
   <p style="margin: 5px 0 2px 0; font-weight: bold;">Evenemang - galor</p>
@@ -217,7 +217,7 @@
   
 	      <div style="float: left; width: 690px;">
 	        <div style="float: right; border: 1px solid gray; padding: 3px; background-color: #F6EDBC;">
-	          <p style="text-align: center;">Sortera kolumn genom att klicka på dess rubrik</p>
+	          <p style="text-align: center;">Sortera kolumn genom att klicka pÃ¥ dess rubrik</p>
 	        </div>
 	        <h2 style="width: 300px; margin: 5px 0 0 0;">Danser i juli</h2>
 	      
@@ -227,12 +227,12 @@
 	          <tr class="headline">
 	            <th colspan="2">Datum</th>
 	            <th style="width: 75px;">Tid</th>
-	            <th style="width: 145px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/juli/sort/dansband/" title="Sortera listan på dansband ">Dansband</a></th>
-	            <th style="width: 125px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowup.gif" alt=""><a href="/dansprogram/juli/sort/dansstalle/fallande" title="Sortera listan på dansställe fallande">Dansställe</a></th>
-	            <th style="width: 90px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/juli/sort/ort/" title="Sortera listan pö ort ">Ort</a></th>
-	            <th style="width: 80px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/juli/sort/kommun/" title="Sortera listan på kommun ">Kommun</a></th>
-	            <th style="width: 90px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/juli/sort/lan/" title="Sortera listan på län ">Län</a></th>
-	            <th style="width: 40px;">Övrigt</th>
+	            <th style="width: 145px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/juli/sort/dansband/" title="Sortera listan pÃ¥ dansband ">Dansband</a></th>
+	            <th style="width: 125px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowup.gif" alt=""><a href="/dansprogram/juli/sort/dansstalle/fallande" title="Sortera listan pÃ¥ dansstÃ¤lle fallande">DansstÃ¤lle</a></th>
+	            <th style="width: 90px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/juli/sort/ort/" title="Sortera listan pÃ¶ ort ">Ort</a></th>
+	            <th style="width: 80px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/juli/sort/kommun/" title="Sortera listan pÃ¥ kommun ">Kommun</a></th>
+	            <th style="width: 90px;"><img style="padding: 0 5px 2px 0;" src="/images/layoute/searcharrowright.gif" alt=""><a href="/dansprogram/juli/sort/lan/" title="Sortera listan pÃ¥ lÃ¤n ">LÃ¤n</a></th>
+	            <th style="width: 40px;">Ã–vrigt</th>
 	          </tr>
 	      
 	          <tr style="background-color: #FEFFC3;">
@@ -240,91 +240,91 @@
 	          </tr>
 	          
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Perikles</td>
-  	  	      <td>Aspåsnäset</td>
-  	  	      <td>Aspås</td>
+  	  	      <td>AspÃ¥snÃ¤set</td>
+  	  	      <td>AspÃ¥s</td>
   	  	      <td>Krokom</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td></td>
   	          <td>Barbados</td>
   	  	      <td>Boggbergets festplats</td>
   	  	      <td>Evertsberg</td>
-  	  	      <td>Älvdalen</td>
+  	  	      <td>Ã„lvdalen</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td></td>
   	          <td>Lasse Stefanz</td>
-  	  	      <td>Ekbacken Skirö</td>
-  	  	      <td>Skirö</td>
+  	  	      <td>Ekbacken SkirÃ¶</td>
+  	  	      <td>SkirÃ¶</td>
   	  	      <td>Vetlanda</td>
-  	  	      <td>Jönköping</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Chuck Berry Mania</td>
   	  	      <td>Ekliden</td>
-  	  	      <td>Västra Harg</td>
-  	  	      <td>Mjölby</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>VÃ¤stra Harg</td>
+  	  	      <td>MjÃ¶lby</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Dennis & The Rocktones</td>
   	  	      <td>Ekliden</td>
-  	  	      <td>Västra Harg</td>
-  	  	      <td>Mjölby</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>VÃ¤stra Harg</td>
+  	  	      <td>MjÃ¶lby</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td></td>
   	          <td>Samzons</td>
   	  	      <td>Folkets Park Nora</td>
   	  	      <td>Nora</td>
   	  	      <td>Nora</td>
-  	  	      <td>Örebro</td>
+  	  	      <td>Ã–rebro</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Wizex</td>
-  	  	      <td>Godegårds festplats</td>
-  	  	      <td>Godegård</td>
+  	  	      <td>GodegÃ¥rds festplats</td>
+  	  	      <td>GodegÃ¥rd</td>
   	  	      <td>Motala</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td></td>
   	          <td>Blender</td>
   	  	      <td>Hedevi Ullared</td>
@@ -336,7 +336,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td></td>
   	          <td>Larz Kristerz</td>
   	  	      <td>Hedevi Ullared</td>
@@ -348,7 +348,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td></td>
   	          <td>Magnus Carlsson</td>
   	  	      <td>Hedevi Ullared</td>
@@ -360,22 +360,22 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>20.00-24.00</td>
-  	          <td>Skåningarna</td>
-  	  	      <td>Kungälvsparken</td>
-  	  	      <td>Kungälv</td>
-  	  	      <td>Kungälv</td>
-  	  	      <td>Västra Götaland</td>
+  	          <td>SkÃ¥ningarna</td>
+  	  	      <td>KungÃ¤lvsparken</td>
+  	  	      <td>KungÃ¤lv</td>
+  	  	      <td>KungÃ¤lv</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Dannez</td>
-  	  	      <td>Kärrasand</td>
+  	  	      <td>KÃ¤rrasand</td>
   	  	      <td>Urshult</td>
   	  	      <td>Tingsryd</td>
   	  	      <td>Kronoberg</td>
@@ -384,10 +384,10 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Humbles</td>
-  	  	      <td>Kärrasand</td>
+  	  	      <td>KÃ¤rrasand</td>
   	  	      <td>Urshult</td>
   	  	      <td>Tingsryd</td>
   	  	      <td>Kronoberg</td>
@@ -396,23 +396,23 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>19.00-22.00</td>
   	          <td>Ola & Jag</td>
-  	  	      <td>Logen Käcktjärn</td>
-  	  	      <td>Bölebyn</td>
-  	  	      <td>Piteå</td>
+  	  	      <td>Logen KÃ¤cktjÃ¤rn</td>
+  	  	      <td>BÃ¶lebyn</td>
+  	  	      <td>PiteÃ¥</td>
   	  	      <td>Norrbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Finix</td>
-  	  	      <td>Lundegård</td>
-  	  	      <td>Köpingsvik</td>
+  	  	      <td>LundegÃ¥rd</td>
+  	  	      <td>KÃ¶pingsvik</td>
   	  	      <td>Borgholm</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -420,11 +420,11 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Voyage</td>
-  	  	      <td>Lundegård</td>
-  	  	      <td>Köpingsvik</td>
+  	  	      <td>LundegÃ¥rd</td>
+  	  	      <td>KÃ¶pingsvik</td>
   	  	      <td>Borgholm</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -432,31 +432,31 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td></td>
   	          <td>Casanovas</td>
-  	  	      <td>Lysingsbadet Västervik</td>
-  	  	      <td>Västervik</td>
-  	  	      <td>Västervik</td>
+  	  	      <td>Lysingsbadet VÃ¤stervik</td>
+  	  	      <td>VÃ¤stervik</td>
+  	  	      <td>VÃ¤stervik</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>20.30-00.30</td>
   	          <td>Matz Bladhs</td>
-  	  	      <td>Rydsnäs loge</td>
-  	  	      <td>Rydnäs</td>
+  	  	      <td>RydsnÃ¤s loge</td>
+  	  	      <td>RydnÃ¤s</td>
   	  	      <td>Ydre</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Micke Ahlgrens</td>
   	  	      <td>Skansen Galejan</td>
@@ -468,79 +468,79 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Sannex</td>
   	  	      <td>Skruvstadparken</td>
   	  	      <td>Skruvstad</td>
   	  	      <td>Grums</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>21.00-01.00</td>
-  	          <td>Per-Håkans</td>
-  	  	      <td>Tallbacken Ånge</td>
-  	  	      <td>Ånge</td>
-  	  	      <td>Ånge</td>
-  	  	      <td>Västernorrland</td>
+  	          <td>Per-HÃ¥kans</td>
+  	  	      <td>Tallbacken Ã…nge</td>
+  	  	      <td>Ã…nge</td>
+  	  	      <td>Ã…nge</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Mats Bergmans</td>
-  	  	      <td>Täfteå Loge</td>
-  	  	      <td>Täfteå</td>
-  	  	      <td>Umeå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>TÃ¤fteÃ¥ Loge</td>
+  	  	      <td>TÃ¤fteÃ¥</td>
+  	  	      <td>UmeÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td></td>
   	          <td>Likes</td>
   	  	      <td>Viking Rosella</td>
-  	  	      <td>Kapellskär</td>
-  	  	      <td>Norrtälje</td>
+  	  	      <td>KapellskÃ¤r</td>
+  	  	      <td>NorrtÃ¤lje</td>
   	  	      <td>Stockholm</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td></td>
   	          <td>Martinez</td>
   	  	      <td>Vildmannahallen Storuman</td>
   	  	      <td>Storuman</td>
   	  	      <td>Storuman</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>1</td>
+  	  	      <td>LÃ¶r</td><td>1</td>
   	  	      <td></td>
-  	          <td>Thor Görans & Agneta Olsson</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
   	  	      <td>Vildmannahallen Storuman</td>
   	  	      <td>Storuman</td>
   	  	      <td>Storuman</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td></td>
   	          <td>Engdahls</td>
   	  	      <td>Birka</td>
@@ -552,11 +552,11 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td>17.00-21.00</td>
   	          <td>Hasse Peters</td>
-  	  	      <td>Björkbacken Hynnenäs</td>
-  	  	      <td>Hynnenäs</td>
+  	  	      <td>BjÃ¶rkbacken HynnenÃ¤s</td>
+  	  	      <td>HynnenÃ¤s</td>
   	  	      <td>Alvesta</td>
   	  	      <td>Kronoberg</td>
   	  	      <!--<td></td>-->
@@ -564,7 +564,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td></td>
   	          <td>Doktor Krall</td>
   	  	      <td>Dansbanan Brandbergen</td>
@@ -576,59 +576,59 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Sannex</td>
   	  	      <td>Folkets Park Aneby</td>
   	  	      <td>Aneby</td>
   	  	      <td>Aneby</td>
-  	  	      <td>Jönköping</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td>18.30-21.30</td>
   	          <td>Mickes</td>
-  	  	      <td>Forsmonöjet</td>
+  	  	      <td>ForsmonÃ¶jet</td>
   	  	      <td>Forsmo</td>
-  	  	      <td>Sollefteå</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>SollefteÃ¥</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td>19.00-22.30</td>
-  	          <td>Ej fastställt</td>
-  	  	      <td>Hårkvallen Lit</td>
+  	          <td>Ej faststÃ¤llt</td>
+  	  	      <td>HÃ¥rkvallen Lit</td>
   	  	      <td>Lit</td>
-  	  	      <td>Östersund</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>Ã–stersund</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td>19.00-22.30</td>
   	          <td>Serenad</td>
   	  	      <td>Logen Ljusvattnet</td>
-  	  	      <td>Burträsk</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>BurtrÃ¤sk</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td>21.30-01.30</td>
   	          <td>Blender</td>
-  	  	      <td>Lundegård</td>
-  	  	      <td>Köpingsvik</td>
+  	  	      <td>LundegÃ¥rd</td>
+  	  	      <td>KÃ¶pingsvik</td>
   	  	      <td>Borgholm</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -636,23 +636,23 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Excess</td>
   	  	      <td>Rahms loge</td>
   	  	      <td>Forsa</td>
   	  	      <td>Hudiksvall</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td>18.00-22.00</td>
-  	          <td>Skåningarna</td>
-  	  	      <td>Stallet Vassmolösa</td>
-  	  	      <td>Vassmolösa</td>
+  	          <td>SkÃ¥ningarna</td>
+  	  	      <td>Stallet VassmolÃ¶sa</td>
+  	  	      <td>VassmolÃ¶sa</td>
   	  	      <td>Kalmar</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -660,31 +660,31 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td></td>
   	          <td>Fernandoz</td>
   	  	      <td>Uddeholmsladan Hagfors</td>
   	  	      <td>Hagfors</td>
   	  	      <td>Hagfors</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Hilltons</td>
   	  	      <td>Upperudslogen</td>
   	  	      <td>Molkom</td>
   	  	      <td>Karlstad</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td></td>
   	          <td>Likes</td>
   	  	      <td>Viking Cinderella</td>
@@ -696,31 +696,31 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td>19.00-22.30</td>
   	          <td>Janders</td>
-  	  	      <td>Ånäsparken Kovland</td>
+  	  	      <td>Ã…nÃ¤sparken Kovland</td>
   	  	      <td>Kovland</td>
   	  	      <td>Sundsvall</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>2</td>
+  	  	      <td>SÃ¶n</td><td>2</td>
   	  	      <td>17.00-21.00</td>
   	          <td>Holens</td>
-  	  	      <td>Ön Hedesunda</td>
+  	  	      <td>Ã–n Hedesunda</td>
   	  	      <td>Hedesunda</td>
-  	  	      <td>Gävle</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vle</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>3</td>
+  	  	      <td>MÃ¥n</td><td>3</td>
   	  	      <td></td>
   	          <td>Engdahls</td>
   	  	      <td>Birka</td>
@@ -732,11 +732,11 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>3</td>
+  	  	      <td>MÃ¥n</td><td>3</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Highlights</td>
-  	  	      <td>Lundegård</td>
-  	  	      <td>Köpingsvik</td>
+  	  	      <td>LundegÃ¥rd</td>
+  	  	      <td>KÃ¶pingsvik</td>
   	  	      <td>Borgholm</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -744,11 +744,11 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>3</td>
+  	  	      <td>MÃ¥n</td><td>3</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Sannex</td>
-  	  	      <td>Lundegård</td>
-  	  	      <td>Köpingsvik</td>
+  	  	      <td>LundegÃ¥rd</td>
+  	  	      <td>KÃ¶pingsvik</td>
   	  	      <td>Borgholm</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -756,7 +756,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>3</td>
+  	  	      <td>MÃ¥n</td><td>3</td>
   	  	      <td>20.00-23.00</td>
   	          <td>Leif Kronlund Storband</td>
   	  	      <td>Skansen Galejan</td>
@@ -768,19 +768,19 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>3</td>
+  	  	      <td>MÃ¥n</td><td>3</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Junix</td>
   	  	      <td>Tidaholmsparken</td>
   	  	      <td>Tidaholm</td>
   	  	      <td>Tidaholm</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>3</td>
+  	  	      <td>MÃ¥n</td><td>3</td>
   	  	      <td></td>
   	          <td>Likes</td>
   	  	      <td>Viking Cinderella</td>
@@ -807,10 +807,10 @@
   	  	      <td>Tis</td><td>4</td>
   	  	      <td>18.30-22.30</td>
   	          <td>Mats Bergmans</td>
-  	  	      <td>Björka Loge</td>
-  	  	      <td>Hardeberga, Södra Sandby</td>
+  	  	      <td>BjÃ¶rka Loge</td>
+  	  	      <td>Hardeberga, SÃ¶dra Sandby</td>
   	  	      <td>Lund</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -818,9 +818,9 @@
   	  	    <tr class="even">
   	  	      <td>Tis</td><td>4</td>
   	  	      <td>18.30</td>
-  	          <td>Ej fastställt</td>
-  	  	      <td>Bredasjön Holmsjö</td>
-  	  	      <td>Holmsjö</td>
+  	          <td>Ej faststÃ¤llt</td>
+  	  	      <td>BredasjÃ¶n HolmsjÃ¶</td>
+  	  	      <td>HolmsjÃ¶</td>
   	  	      <td>Karlskrona</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
@@ -834,7 +834,7 @@
   	  	      <td>Broby Bettna</td>
   	  	      <td>Bettna</td>
   	  	      <td>Flen</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -842,11 +842,11 @@
   	  	    <tr class="even">
   	  	      <td>Tis</td><td>4</td>
   	  	      <td></td>
-  	          <td>Skåningarna</td>
+  	          <td>SkÃ¥ningarna</td>
   	  	      <td>Kul-i-juli Helsingborg</td>
   	  	      <td>Helsingborg</td>
   	  	      <td>Helsingorg</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -855,8 +855,8 @@
   	  	      <td>Tis</td><td>4</td>
   	  	      <td>21.30-01.30</td>
   	          <td>Perikles</td>
-  	  	      <td>Lundegård</td>
-  	  	      <td>Köpingsvik</td>
+  	  	      <td>LundegÃ¥rd</td>
+  	  	      <td>KÃ¶pingsvik</td>
   	  	      <td>Borgholm</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -879,7 +879,7 @@
   	  	      <td>Tis</td><td>4</td>
   	  	      <td>21.00-00.30</td>
   	          <td>Black Jack</td>
-  	  	      <td>Västerhagen</td>
+  	  	      <td>VÃ¤sterhagen</td>
   	  	      <td>Haverdal</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halland</td>
@@ -891,7 +891,7 @@
   	  	      <td>Tis</td><td>4</td>
   	  	      <td>21.00-00.30</td>
   	          <td>Dur-X</td>
-  	  	      <td>Västerhagen</td>
+  	  	      <td>VÃ¤sterhagen</td>
   	  	      <td>Haverdal</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halland</td>
@@ -903,10 +903,10 @@
   	  	      <td>Tis</td><td>4</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Jannez</td>
-  	  	      <td>Åsliden</td>
+  	  	      <td>Ã…sliden</td>
   	  	      <td>Nor</td>
   	  	      <td>Ljusdal</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -927,7 +927,7 @@
   	  	      <td>Ons</td><td>5</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Streaplers</td>
-  	  	      <td>Björknäsparken</td>
+  	  	      <td>BjÃ¶rknÃ¤sparken</td>
   	  	      <td>Boden</td>
   	  	      <td>Boden</td>
   	  	      <td>Norrbotten</td>
@@ -942,7 +942,7 @@
   	  	      <td>Borensbergsparken</td>
   	  	      <td>Borensberg</td>
   	  	      <td>Motala</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -954,7 +954,7 @@
   	  	      <td>Folkets Park Degerfors</td>
   	  	      <td>Degerfors</td>
   	  	      <td>Degerfors</td>
-  	  	      <td>Örebro</td>
+  	  	      <td>Ã–rebro</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -962,8 +962,8 @@
   	  	    <tr class="odd">
   	  	      <td>Ons</td><td>5</td>
   	  	      <td>19.00-23.00</td>
-  	          <td>Thor Görans & Agneta Olsson</td>
-  	  	      <td>Gröna lund</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
+  	  	      <td>GrÃ¶na lund</td>
   	  	      <td>Stockholm</td>
   	  	      <td>Stockholm</td>
   	  	      <td>Stockholm</td>
@@ -975,10 +975,10 @@
   	  	      <td>Ons</td><td>5</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Martinez</td>
-  	  	      <td>Gårdsjö loge</td>
-  	  	      <td>Gårdserud</td>
+  	  	      <td>GÃ¥rdsjÃ¶ loge</td>
+  	  	      <td>GÃ¥rdserud</td>
   	  	      <td>Sunne</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -988,9 +988,9 @@
   	  	      <td>19.00-22.30</td>
   	          <td>Serenad</td>
   	  	      <td>Hanssons Loge</td>
-  	  	      <td>Långsele</td>
-  	  	      <td>Sollefteå</td>
-  	  	      <td>Västernorrland  </td>
+  	  	      <td>LÃ¥ngsele</td>
+  	  	      <td>SollefteÃ¥</td>
+  	  	      <td>VÃ¤sternorrland  </td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -999,8 +999,8 @@
   	  	      <td>Ons</td><td>5</td>
   	  	      <td></td>
   	          <td>Jannez</td>
-  	  	      <td>Hjortnäs Brygga</td>
-  	  	      <td>Hjortnäs</td>
+  	  	      <td>HjortnÃ¤s Brygga</td>
+  	  	      <td>HjortnÃ¤s</td>
   	  	      <td>Leksand</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td></td>-->
@@ -1011,10 +1011,10 @@
   	  	      <td>Ons</td><td>5</td>
   	  	      <td>13.30-17.00</td>
   	          <td>Matz Rogers</td>
-  	  	      <td>Kolbäcksparken</td>
-  	  	      <td>Kolbäck</td>
+  	  	      <td>KolbÃ¤cksparken</td>
+  	  	      <td>KolbÃ¤ck</td>
   	  	      <td>Hallstahammar</td>
-  	  	      <td>Västmanland</td>
+  	  	      <td>VÃ¤stmanland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -1024,9 +1024,9 @@
   	  	      <td>19.00-23.00</td>
   	          <td>Blender</td>
   	  	      <td>Liseberg Polketten</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1035,8 +1035,8 @@
   	  	      <td>Ons</td><td>5</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Dreams</td>
-  	  	      <td>Lundegård</td>
-  	  	      <td>Köpingsvik</td>
+  	  	      <td>LundegÃ¥rd</td>
+  	  	      <td>KÃ¶pingsvik</td>
   	  	      <td>Borgholm</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -1047,8 +1047,8 @@
   	  	      <td>Ons</td><td>5</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Expanders</td>
-  	  	      <td>Lundegård</td>
-  	  	      <td>Köpingsvik</td>
+  	  	      <td>LundegÃ¥rd</td>
+  	  	      <td>KÃ¶pingsvik</td>
   	  	      <td>Borgholm</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -1061,7 +1061,7 @@
   	          <td>Mats Bergmans</td>
   	  	      <td>Lyktan Vilshult</td>
   	  	      <td>Vilshult</td>
-  	  	      <td>Olofström</td>
+  	  	      <td>OlofstrÃ¶m</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
               <td></td>
@@ -1070,11 +1070,11 @@
   	  	    <tr class="odd">
   	  	      <td>Ons</td><td>5</td>
   	  	      <td>17.00-20.00</td>
-  	          <td>Eklöfs</td>
-  	  	      <td>Löfstad Loge</td>
-  	  	      <td>Löfstad</td>
-  	  	      <td>Norrköping</td>
-  	  	      <td>Östergötland</td>
+  	          <td>EklÃ¶fs</td>
+  	  	      <td>LÃ¶fstad Loge</td>
+  	  	      <td>LÃ¶fstad</td>
+  	  	      <td>NorrkÃ¶ping</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -1086,7 +1086,7 @@
   	  	      <td>Mossbrott</td>
   	  	      <td>Vara</td>
   	  	      <td>Vara</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1095,10 +1095,10 @@
   	  	      <td>Ons</td><td>5</td>
   	  	      <td>14.00-17.00</td>
   	          <td>Cedrix</td>
-  	  	      <td>Norrgårdsängen</td>
+  	  	      <td>NorrgÃ¥rdsÃ¤ngen</td>
   	  	      <td>Norra Valkebo</td>
-  	  	      <td>Linköping</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>LinkÃ¶ping</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -1107,10 +1107,10 @@
   	  	      <td>Ons</td><td>5</td>
   	  	      <td>19.00-22.00</td>
   	          <td>BarraBazz</td>
-  	  	      <td>Tallbacken Ånge</td>
-  	  	      <td>Ånge</td>
-  	  	      <td>Ånge</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>Tallbacken Ã…nge</td>
+  	  	      <td>Ã…nge</td>
+  	  	      <td>Ã…nge</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -1119,10 +1119,10 @@
   	  	      <td>Ons</td><td>5</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Ingvar Fahsts</td>
-  	  	      <td>Tydingesjön</td>
+  	  	      <td>TydingesjÃ¶n</td>
   	  	      <td>Broby</td>
-  	  	      <td>Östra Göinge</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã–stra GÃ¶inge</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1131,10 +1131,10 @@
   	  	      <td>Ons</td><td>5</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Fernandoz</td>
-  	  	      <td>Vallsjöbaden</td>
-  	  	      <td>Sävsjö</td>
-  	  	      <td>Sävsjö</td>
-  	  	      <td>Jönköping</td>
+  	  	      <td>VallsjÃ¶baden</td>
+  	  	      <td>SÃ¤vsjÃ¶</td>
+  	  	      <td>SÃ¤vsjÃ¶</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1155,10 +1155,10 @@
   	  	      <td>Tor</td><td>6</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Matz Bladhs</td>
-  	  	      <td>Barva bygdegård</td>
+  	  	      <td>Barva bygdegÃ¥rd</td>
   	  	      <td>Barva</td>
   	  	      <td>Eskilstuna</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1179,10 +1179,10 @@
   	  	      <td>Tor</td><td>6</td>
   	  	      <td></td>
   	          <td>Mickeys</td>
-  	  	      <td>Bygdegården Arvesund</td>
+  	  	      <td>BygdegÃ¥rden Arvesund</td>
   	  	      <td>Mattmar</td>
-  	  	      <td>Åre</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>Ã…re</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1193,8 +1193,8 @@
   	          <td>Perikles</td>
   	  	      <td>Ekebo</td>
   	  	      <td>Munka Ljungby</td>
-  	  	      <td>Ängelholm</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã„ngelholm</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1202,11 +1202,11 @@
   	  	    <tr class="odd">
   	  	      <td>Tor</td><td>6</td>
   	  	      <td></td>
-  	          <td>Thor Görans & Agneta Olsson</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
   	  	      <td>Ekebo</td>
   	  	      <td>Munka Ljungby</td>
-  	  	      <td>Ängelholm</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã„ngelholm</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1214,11 +1214,11 @@
   	  	    <tr class="even">
   	  	      <td>Tor</td><td>6</td>
   	  	      <td>19.00-23.00</td>
-  	          <td>Claes Lövgrens</td>
+  	          <td>Claes LÃ¶vgrens</td>
   	  	      <td>Folkets Park Ljungsbro</td>
   	  	      <td>Ljungsbro</td>
-  	  	      <td>Linköping</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>LinkÃ¶ping</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1227,10 +1227,10 @@
   	  	      <td>Tor</td><td>6</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Streaplers</td>
-  	  	      <td>Folkparken Skellefteå</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>Folkparken SkellefteÃ¥</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1239,10 +1239,10 @@
   	  	      <td>Tor</td><td>6</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Holens</td>
-  	  	      <td>Gammelgården Torsåker</td>
-  	  	      <td>Torsåker</td>
+  	  	      <td>GammelgÃ¥rden TorsÃ¥ker</td>
+  	  	      <td>TorsÃ¥ker</td>
   	  	      <td>Hofors</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1251,7 +1251,7 @@
   	  	      <td>Tor</td><td>6</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Finix</td>
-  	  	      <td>Hågelbyparken</td>
+  	  	      <td>HÃ¥gelbyparken</td>
   	  	      <td>Tumba</td>
   	  	      <td>Botkyrka</td>
   	  	      <td>Stockholm</td>
@@ -1265,8 +1265,8 @@
   	          <td>Jannez</td>
   	  	      <td>Laduholmen Forsbacka</td>
   	  	      <td>Forsbacka</td>
-  	  	      <td>Gävle</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vle</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1288,9 +1288,9 @@
   	  	      <td>19.00-23.00</td>
   	          <td>Kindbergs</td>
   	  	      <td>Liseberg Polketten</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1299,8 +1299,8 @@
   	  	      <td>Tor</td><td>6</td>
   	  	      <td>21.30-01.30</td>
   	          <td>Casanovas</td>
-  	  	      <td>Lundegård</td>
-  	  	      <td>Köpingsvik</td>
+  	  	      <td>LundegÃ¥rd</td>
+  	  	      <td>KÃ¶pingsvik</td>
   	  	      <td>Borgholm</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -1311,10 +1311,10 @@
   	  	      <td>Tor</td><td>6</td>
   	  	      <td></td>
   	          <td>Mats Bergmans</td>
-  	  	      <td>Ransäters hembygdsgård</td>
-  	  	      <td>Ransäter</td>
+  	  	      <td>RansÃ¤ters hembygdsgÃ¥rd</td>
+  	  	      <td>RansÃ¤ter</td>
   	  	      <td>Munkfors</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1346,8 +1346,8 @@
   	  	    <tr class="odd">
   	  	      <td>Fre</td><td>7</td>
   	  	      <td>20.00-24.00</td>
-  	          <td>Ej fastställt</td>
-  	  	      <td>Björknäsparken</td>
+  	          <td>Ej faststÃ¤llt</td>
+  	  	      <td>BjÃ¶rknÃ¤sparken</td>
   	  	      <td>Boden</td>
   	  	      <td>Boden</td>
   	  	      <td>Norrbotten</td>
@@ -1360,9 +1360,9 @@
   	  	      <td></td>
   	          <td>Mickeys</td>
   	  	      <td>Dundermarknaden</td>
-  	  	      <td>Strömsund</td>
-  	  	      <td>Strömsund</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>StrÃ¶msund</td>
+  	  	      <td>StrÃ¶msund</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1373,8 +1373,8 @@
   	          <td>Engdahls</td>
   	  	      <td>Ekebo</td>
   	  	      <td>Munka Ljungby</td>
-  	  	      <td>Ängelholm</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã„ngelholm</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1385,8 +1385,8 @@
   	          <td>Larz Kristerz</td>
   	  	      <td>Ekebo</td>
   	  	      <td>Munka Ljungby</td>
-  	  	      <td>Ängelholm</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã„ngelholm</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1397,8 +1397,8 @@
   	          <td>Perikles</td>
   	  	      <td>Ekebo</td>
   	  	      <td>Munka Ljungby</td>
-  	  	      <td>Ängelholm</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã„ngelholm</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1409,8 +1409,8 @@
   	          <td>Sannex</td>
   	  	      <td>Ekebo</td>
   	  	      <td>Munka Ljungby</td>
-  	  	      <td>Ängelholm</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã„ngelholm</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1422,7 +1422,7 @@
   	  	      <td>Kustladan Docksta</td>
   	  	      <td>Docksta</td>
   	  	      <td>Kramfors</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1431,7 +1431,7 @@
   	  	      <td>Fre</td><td>7</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Glenn-Endys</td>
-  	  	      <td>Kärrasand</td>
+  	  	      <td>KÃ¤rrasand</td>
   	  	      <td>Urshult</td>
   	  	      <td>Tingsryd</td>
   	  	      <td>Kronoberg</td>
@@ -1442,10 +1442,10 @@
   	  	    <tr class="even">
   	  	      <td>Fre</td><td>7</td>
   	  	      <td>21.00-01.00</td>
-  	          <td>Ej fastställt</td>
-  	  	      <td>Logen Käcktjärn</td>
-  	  	      <td>Bölebyn</td>
-  	  	      <td>Piteå</td>
+  	          <td>Ej faststÃ¤llt</td>
+  	  	      <td>Logen KÃ¤cktjÃ¤rn</td>
+  	  	      <td>BÃ¶lebyn</td>
+  	  	      <td>PiteÃ¥</td>
   	  	      <td>Norrbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
@@ -1455,8 +1455,8 @@
   	  	      <td>Fre</td><td>7</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Jannez</td>
-  	  	      <td>Lundegård</td>
-  	  	      <td>Köpingsvik</td>
+  	  	      <td>LundegÃ¥rd</td>
+  	  	      <td>KÃ¶pingsvik</td>
   	  	      <td>Borgholm</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -1467,8 +1467,8 @@
   	  	      <td>Fre</td><td>7</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Kindbergs</td>
-  	  	      <td>Lundegård</td>
-  	  	      <td>Köpingsvik</td>
+  	  	      <td>LundegÃ¥rd</td>
+  	  	      <td>KÃ¶pingsvik</td>
   	  	      <td>Borgholm</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -1479,10 +1479,10 @@
   	  	      <td>Fre</td><td>7</td>
   	  	      <td></td>
   	          <td>Holidays</td>
-  	  	      <td>Ransäters hembygdsgård</td>
-  	  	      <td>Ransäter</td>
+  	  	      <td>RansÃ¤ters hembygdsgÃ¥rd</td>
+  	  	      <td>RansÃ¤ter</td>
   	  	      <td>Munkfors</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1491,10 +1491,10 @@
   	  	      <td>Fre</td><td>7</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Lasse Stefanz</td>
-  	  	      <td>Råglannaparken</td>
-  	  	      <td>Främmestad</td>
+  	  	      <td>RÃ¥glannaparken</td>
+  	  	      <td>FrÃ¤mmestad</td>
   	  	      <td>Essunga</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -1503,9 +1503,9 @@
   	  	      <td>Fre</td><td>7</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Hedins</td>
-  	  	      <td>Rättviksparken</td>
-  	  	      <td>Rättvik</td>
-  	  	      <td>Rättvik</td>
+  	  	      <td>RÃ¤ttviksparken</td>
+  	  	      <td>RÃ¤ttvik</td>
+  	  	      <td>RÃ¤ttvik</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
@@ -1527,8 +1527,8 @@
   	  	      <td>Fre</td><td>7</td>
   	  	      <td>13.30-17.00</td>
   	          <td>Holens</td>
-  	  	      <td>Söderbärkeparken</td>
-  	  	      <td>Söderbärke  </td>
+  	  	      <td>SÃ¶derbÃ¤rkeparken</td>
+  	  	      <td>SÃ¶derbÃ¤rke  </td>
   	  	      <td>Smedjebacken</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td>pro</td>-->
@@ -1538,8 +1538,8 @@
   	  	    <tr class="odd">
   	  	      <td>Fre</td><td>7</td>
   	  	      <td>18.30-22.00</td>
-  	          <td>Tång & Co</td>
-  	  	      <td>Tuna bygdegård Vimmerby</td>
+  	          <td>TÃ¥ng & Co</td>
+  	  	      <td>Tuna bygdegÃ¥rd Vimmerby</td>
   	  	      <td>Tuna</td>
   	  	      <td>Vimmerby</td>
   	  	      <td>Kalmar</td>
@@ -1551,16 +1551,16 @@
   	  	      <td>Fre</td><td>7</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Sandins</td>
-  	  	      <td>Tydingesjön</td>
+  	  	      <td>TydingesjÃ¶n</td>
   	  	      <td>Broby</td>
-  	  	      <td>Östra Göinge</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã–stra GÃ¶inge</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td></td>
   	          <td>Micke Ahlgrens</td>
   	  	      <td>Birka</td>
@@ -1572,139 +1572,139 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Blender</td>
-  	  	      <td>Björnholmens Loge</td>
-  	  	      <td>Äng</td>
-  	  	      <td>Nässjö</td>
-  	  	      <td>Jönköping</td>
+  	  	      <td>BjÃ¶rnholmens Loge</td>
+  	  	      <td>Ã„ng</td>
+  	  	      <td>NÃ¤ssjÃ¶</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td></td>
   	          <td>Drifters</td>
   	  	      <td>Boggbergets festplats</td>
   	  	      <td>Evertsberg</td>
-  	  	      <td>Älvdalen</td>
+  	  	      <td>Ã„lvdalen</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Expanders</td>
   	  	      <td>Bredsele Park</td>
   	  	      <td>Kusfors</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td></td>
   	          <td>Mickeys</td>
-  	  	      <td>Bygdegården Olden</td>
+  	  	      <td>BygdegÃ¥rden Olden</td>
   	  	      <td>Olden</td>
   	  	      <td>Krokom</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td></td>
-  	          <td>Grönwalls</td>
+  	          <td>GrÃ¶nwalls</td>
   	  	      <td>Ekebo</td>
   	  	      <td>Munka Ljungby</td>
-  	  	      <td>Ängelholm</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã„ngelholm</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td></td>
   	          <td>Jannez</td>
   	  	      <td>Ekebo</td>
   	  	      <td>Munka Ljungby</td>
-  	  	      <td>Ängelholm</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã„ngelholm</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td></td>
   	          <td>Kindbergs</td>
   	  	      <td>Ekebo</td>
   	  	      <td>Munka Ljungby</td>
-  	  	      <td>Ängelholm</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã„ngelholm</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td></td>
   	          <td>Lasse Stefanz</td>
   	  	      <td>Ekebo</td>
   	  	      <td>Munka Ljungby</td>
-  	  	      <td>Ängelholm</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã„ngelholm</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td></td>
   	          <td>Perikles</td>
   	  	      <td>Ekebo</td>
   	  	      <td>Munka Ljungby</td>
-  	  	      <td>Ängelholm</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã„ngelholm</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>18.00-21.00</td>
   	          <td>Edwings</td>
   	  	      <td>Ekudden</td>
-  	  	      <td>Forssjö</td>
+  	  	      <td>ForssjÃ¶</td>
   	  	      <td>Katrineholm</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Holens</td>
   	  	      <td>Ettringstorp Loge</td>
   	  	      <td>Ettringstorp</td>
   	  	      <td>Boxholm</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Barbados</td>
   	  	      <td>Folkets Park Knutby</td>
@@ -1716,23 +1716,23 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Larz Kristerz</td>
   	  	      <td>Folkets Park Vretstorp</td>
   	  	      <td>Vretstorp</td>
   	  	      <td>Hallsberg</td>
-  	  	      <td>Örebro</td>
+  	  	      <td>Ã–rebro</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>20.00-00.30</td>
   	          <td>Glenn-Endys</td>
-  	  	      <td>Fågelsångs festplats</td>
-  	  	      <td>Våxtorp</td>
+  	  	      <td>FÃ¥gelsÃ¥ngs festplats</td>
+  	  	      <td>VÃ¥xtorp</td>
   	  	      <td>Laholm</td>
   	  	      <td>Halland</td>
   	  	      <!--<td></td>-->
@@ -1740,22 +1740,22 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Scotts</td>
   	  	      <td>Hanssons Loge</td>
-  	  	      <td>Långsele</td>
-  	  	      <td>Sollefteå</td>
-  	  	      <td>Västernorrland  </td>
+  	  	      <td>LÃ¥ngsele</td>
+  	  	      <td>SollefteÃ¥</td>
+  	  	      <td>VÃ¤sternorrland  </td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Black Jack</td>
-  	  	      <td>Kärrasand</td>
+  	  	      <td>KÃ¤rrasand</td>
   	  	      <td>Urshult</td>
   	  	      <td>Tingsryd</td>
   	  	      <td>Kronoberg</td>
@@ -1764,19 +1764,19 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>20.00-24.00</td>
-  	          <td>Claes Lövgrens</td>
+  	          <td>Claes LÃ¶vgrens</td>
   	  	      <td>Rangelstorps loge</td>
   	  	      <td>Mariannelund</td>
-  	  	      <td>Eksjö</td>
-  	  	      <td>Jönköping</td>
+  	  	      <td>EksjÃ¶</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Martinez</td>
   	  	      <td>Skansen Galejan</td>
@@ -1788,55 +1788,55 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Streaplers</td>
-  	  	      <td>Täfteå Loge</td>
-  	  	      <td>Täfteå</td>
-  	  	      <td>Umeå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>TÃ¤fteÃ¥ Loge</td>
+  	  	      <td>TÃ¤fteÃ¥</td>
+  	  	      <td>UmeÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Matz Bladhs</td>
   	  	      <td>Upperudslogen</td>
   	  	      <td>Molkom</td>
   	  	      <td>Karlstad</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>8</td>
+  	  	      <td>LÃ¶r</td><td>8</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Chiquita</td>
-  	  	      <td>Utängens Loge</td>
+  	  	      <td>UtÃ¤ngens Loge</td>
   	  	      <td>Tanumshede</td>
   	  	      <td>Tanum</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Jannez</td>
-  	  	      <td>Alingsåsparken</td>
-  	  	      <td>Alingsås</td>
-  	  	      <td>Alingsås</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>AlingsÃ¥sparken</td>
+  	  	      <td>AlingsÃ¥s</td>
+  	  	      <td>AlingsÃ¥s</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td></td>
   	          <td>Micke Ahlgrens</td>
   	  	      <td>Birka</td>
@@ -1848,11 +1848,11 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Sannex</td>
-  	  	      <td>Folkets Park Mörrum</td>
-  	  	      <td>Mörrum</td>
+  	  	      <td>Folkets Park MÃ¶rrum</td>
+  	  	      <td>MÃ¶rrum</td>
   	  	      <td>Karlshamn</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
@@ -1860,71 +1860,71 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td>18.30-21.30</td>
   	          <td>Serenad</td>
-  	  	      <td>Forsmonöjet</td>
+  	  	      <td>ForsmonÃ¶jet</td>
   	  	      <td>Forsmo</td>
-  	  	      <td>Sollefteå</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>SollefteÃ¥</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Sandins</td>
-  	  	      <td>Hembygdsgården Gräsmark</td>
-  	  	      <td>Gräsmark</td>
+  	  	      <td>HembygdsgÃ¥rden GrÃ¤smark</td>
+  	  	      <td>GrÃ¤smark</td>
   	  	      <td>Sunne</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td></td>
   	          <td>Lasse Stefanz</td>
-  	  	      <td>Kulla Rörum</td>
-  	  	      <td>Rörum</td>
+  	  	      <td>Kulla RÃ¶rum</td>
+  	  	      <td>RÃ¶rum</td>
   	  	      <td>Simrishamn</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td>19.00-22.30</td>
   	          <td>Ola & Jag</td>
   	  	      <td>Logen Ljusvattnet</td>
-  	  	      <td>Burträsk</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>BurtrÃ¤sk</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td>18.00-22.00</td>
-  	          <td>Ej fastställt</td>
+  	          <td>Ej faststÃ¤llt</td>
   	  	      <td>Rahms loge</td>
   	  	      <td>Forsa</td>
   	  	      <td>Hudiksvall</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Glenn-Endys</td>
-  	  	      <td>Stallet Vassmolösa</td>
-  	  	      <td>Vassmolösa</td>
+  	  	      <td>Stallet VassmolÃ¶sa</td>
+  	  	      <td>VassmolÃ¶sa</td>
   	  	      <td>Kalmar</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -1932,31 +1932,31 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Engdahls</td>
-  	  	      <td>Törringelund</td>
+  	  	      <td>TÃ¶rringelund</td>
   	  	      <td>Oxie</td>
-  	  	      <td>Malmö</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>MalmÃ¶</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Musikanterna</td>
   	  	      <td>Upperudslogen</td>
   	  	      <td>Molkom</td>
   	  	      <td>Karlstad</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td></td>
   	          <td>Date</td>
   	  	      <td>Viking Cinderella</td>
@@ -1968,19 +1968,19 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>9</td>
+  	  	      <td>SÃ¶n</td><td>9</td>
   	  	      <td>17.00-21.00</td>
   	          <td>Samzons</td>
-  	  	      <td>Ön Hedesunda</td>
+  	  	      <td>Ã–n Hedesunda</td>
   	  	      <td>Hedesunda</td>
-  	  	      <td>Gävle</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vle</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>10</td>
+  	  	      <td>MÃ¥n</td><td>10</td>
   	  	      <td></td>
   	          <td>Hedins</td>
   	  	      <td>Birka</td>
@@ -1992,22 +1992,22 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>10</td>
+  	  	      <td>MÃ¥n</td><td>10</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Matz Rogers</td>
-  	  	      <td>Falköpingsparken</td>
-  	  	      <td>Falköping</td>
-  	  	      <td>Falköping</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>FalkÃ¶pingsparken</td>
+  	  	      <td>FalkÃ¶ping</td>
+  	  	      <td>FalkÃ¶ping</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>10</td>
+  	  	      <td>MÃ¥n</td><td>10</td>
   	  	      <td></td>
   	          <td>Sannex</td>
-  	  	      <td>Hotell Tylösand</td>
+  	  	      <td>Hotell TylÃ¶sand</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halland</td>
@@ -2016,7 +2016,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>10</td>
+  	  	      <td>MÃ¥n</td><td>10</td>
   	  	      <td>20.00-23.00</td>
   	          <td>Leif Kronlund Storband</td>
   	  	      <td>Skansen Galejan</td>
@@ -2028,19 +2028,19 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>10</td>
+  	  	      <td>MÃ¥n</td><td>10</td>
   	  	      <td>13.30-17.00</td>
   	          <td>Junix</td>
-  	  	      <td>Svedboäng</td>
-  	  	      <td>Västerfärnebo</td>
+  	  	      <td>SvedboÃ¤ng</td>
+  	  	      <td>VÃ¤sterfÃ¤rnebo</td>
   	  	      <td>Sala</td>
-  	  	      <td>Västmanland</td>
+  	  	      <td>VÃ¤stmanland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>10</td>
+  	  	      <td>MÃ¥n</td><td>10</td>
   	  	      <td></td>
   	          <td>Date</td>
   	  	      <td>Viking Cinderella</td>
@@ -2067,8 +2067,8 @@
   	  	      <td>Tis</td><td>11</td>
   	  	      <td>18.30</td>
   	          <td>Trasthes</td>
-  	  	      <td>Bredasjön Holmsjö</td>
-  	  	      <td>Holmsjö</td>
+  	  	      <td>BredasjÃ¶n HolmsjÃ¶</td>
+  	  	      <td>HolmsjÃ¶</td>
   	  	      <td>Karlskrona</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
@@ -2078,11 +2078,11 @@
   	  	    <tr class="even">
   	  	      <td>Tis</td><td>11</td>
   	  	      <td>19.30-23.30</td>
-  	          <td>Ej fastställt</td>
+  	          <td>Ej faststÃ¤llt</td>
   	  	      <td>Broby Bettna</td>
   	  	      <td>Bettna</td>
   	  	      <td>Flen</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2091,7 +2091,7 @@
   	  	      <td>Tis</td><td>11</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Donnez</td>
-  	  	      <td>Hågelbyparken</td>
+  	  	      <td>HÃ¥gelbyparken</td>
   	  	      <td>Tumba</td>
   	  	      <td>Botkyrka</td>
   	  	      <td>Stockholm</td>
@@ -2103,10 +2103,10 @@
   	  	      <td>Tis</td><td>11</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Finix</td>
-  	  	      <td>Lagårn Skultuna</td>
+  	  	      <td>LagÃ¥rn Skultuna</td>
   	  	      <td>Skultuna</td>
-  	  	      <td>Västerås</td>
-  	  	      <td>Västmanland</td>
+  	  	      <td>VÃ¤sterÃ¥s</td>
+  	  	      <td>VÃ¤stmanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2115,10 +2115,10 @@
   	  	      <td>Tis</td><td>11</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Mickeys</td>
-  	  	      <td>Lagårn Skultuna</td>
+  	  	      <td>LagÃ¥rn Skultuna</td>
   	  	      <td>Skultuna</td>
-  	  	      <td>Västerås</td>
-  	  	      <td>Västmanland</td>
+  	  	      <td>VÃ¤sterÃ¥s</td>
+  	  	      <td>VÃ¤stmanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2130,7 +2130,7 @@
   	  	      <td>Lane Loge</td>
   	  	      <td>Lane</td>
   	  	      <td>Uddevalla</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2163,7 +2163,7 @@
   	  	      <td>Tis</td><td>11</td>
   	  	      <td>21.00-00.30</td>
   	          <td>C-Laget</td>
-  	  	      <td>Västerhagen</td>
+  	  	      <td>VÃ¤sterhagen</td>
   	  	      <td>Haverdal</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halland</td>
@@ -2174,8 +2174,8 @@
   	  	    <tr class="even">
   	  	      <td>Tis</td><td>11</td>
   	  	      <td>21.00-00.30</td>
-  	          <td>Per-Håkans</td>
-  	  	      <td>Västerhagen</td>
+  	          <td>Per-HÃ¥kans</td>
+  	  	      <td>VÃ¤sterhagen</td>
   	  	      <td>Haverdal</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halland</td>
@@ -2187,10 +2187,10 @@
   	  	      <td>Tis</td><td>11</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Perikles</td>
-  	  	      <td>Åsliden</td>
+  	  	      <td>Ã…sliden</td>
   	  	      <td>Nor</td>
   	  	      <td>Ljusdal</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2200,9 +2200,9 @@
   	  	      <td></td>
   	          <td>Martinez</td>
   	  	      <td>Ava havsbad</td>
-  	  	      <td>Lögdeå</td>
+  	  	      <td>LÃ¶gdeÃ¥</td>
   	  	      <td>Nordmaling</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2226,7 +2226,7 @@
   	  	      <td>Borensbergsparken</td>
   	  	      <td>Borensberg</td>
   	  	      <td>Motala</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2238,7 +2238,7 @@
   	  	      <td>Folkets Park Degerfors</td>
   	  	      <td>Degerfors</td>
   	  	      <td>Degerfors</td>
-  	  	      <td>Örebro</td>
+  	  	      <td>Ã–rebro</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2247,10 +2247,10 @@
   	  	      <td>Ons</td><td>12</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Perikles</td>
-  	  	      <td>Furuviken Hällesjö</td>
-  	  	      <td>Hällesjö</td>
-  	  	      <td>Bräcke</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>Furuviken HÃ¤llesjÃ¶</td>
+  	  	      <td>HÃ¤llesjÃ¶</td>
+  	  	      <td>BrÃ¤cke</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2259,10 +2259,10 @@
   	  	      <td>Ons</td><td>12</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Expanders</td>
-  	  	      <td>Gräsmyr loge</td>
-  	  	      <td>Gräsmyr</td>
+  	  	      <td>GrÃ¤smyr loge</td>
+  	  	      <td>GrÃ¤smyr</td>
   	  	      <td>Nordmaling</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2271,10 +2271,10 @@
   	  	      <td>Ons</td><td>12</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Pia Pihlgrens</td>
-  	  	      <td>Gårdsjö loge</td>
-  	  	      <td>Gårdserud</td>
+  	  	      <td>GÃ¥rdsjÃ¶ loge</td>
+  	  	      <td>GÃ¥rdserud</td>
   	  	      <td>Sunne</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2284,9 +2284,9 @@
   	  	      <td>19.00-22.30</td>
   	          <td>Donnez</td>
   	  	      <td>Hanssons Loge</td>
-  	  	      <td>Långsele</td>
-  	  	      <td>Sollefteå</td>
-  	  	      <td>Västernorrland  </td>
+  	  	      <td>LÃ¥ngsele</td>
+  	  	      <td>SollefteÃ¥</td>
+  	  	      <td>VÃ¤sternorrland  </td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2295,8 +2295,8 @@
   	  	      <td>Ons</td><td>12</td>
   	  	      <td></td>
   	          <td>Sannex</td>
-  	  	      <td>Hjortnäs Brygga</td>
-  	  	      <td>Hjortnäs</td>
+  	  	      <td>HjortnÃ¤s Brygga</td>
+  	  	      <td>HjortnÃ¤s</td>
   	  	      <td>Leksand</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td></td>-->
@@ -2307,10 +2307,10 @@
   	  	      <td>Ons</td><td>12</td>
   	  	      <td>13.30-17.00</td>
   	          <td>Sandins</td>
-  	  	      <td>Kolbäcksparken</td>
-  	  	      <td>Kolbäck</td>
+  	  	      <td>KolbÃ¤cksparken</td>
+  	  	      <td>KolbÃ¤ck</td>
   	  	      <td>Hallstahammar</td>
-  	  	      <td>Västmanland</td>
+  	  	      <td>VÃ¤stmanland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -2322,7 +2322,7 @@
   	  	      <td>Lane Loge</td>
   	  	      <td>Lane</td>
   	  	      <td>Uddevalla</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2331,10 +2331,10 @@
   	  	      <td>Ons</td><td>12</td>
   	  	      <td>17.00-20.00</td>
   	          <td>Edwings</td>
-  	  	      <td>Löfstad Loge</td>
-  	  	      <td>Löfstad</td>
-  	  	      <td>Norrköping</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>LÃ¶fstad Loge</td>
+  	  	      <td>LÃ¶fstad</td>
+  	  	      <td>NorrkÃ¶ping</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -2346,7 +2346,7 @@
   	  	      <td>Mossbrott</td>
   	  	      <td>Vara</td>
   	  	      <td>Vara</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2355,10 +2355,10 @@
   	  	      <td>Ons</td><td>12</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Lars Erikssons</td>
-  	  	      <td>Orrnäset</td>
-  	  	      <td>Högboda</td>
+  	  	      <td>OrrnÃ¤set</td>
+  	  	      <td>HÃ¶gboda</td>
   	  	      <td>Kil </td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2367,10 +2367,10 @@
   	  	      <td>Ons</td><td>12</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Anna & Co</td>
-  	  	      <td>Tydingesjön</td>
+  	  	      <td>TydingesjÃ¶n</td>
   	  	      <td>Broby</td>
-  	  	      <td>Östra Göinge</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã–stra GÃ¶inge</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2379,10 +2379,10 @@
   	  	      <td>Ons</td><td>12</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Mats Bergmans</td>
-  	  	      <td>Vallsjöbaden</td>
-  	  	      <td>Sävsjö</td>
-  	  	      <td>Sävsjö</td>
-  	  	      <td>Jönköping</td>
+  	  	      <td>VallsjÃ¶baden</td>
+  	  	      <td>SÃ¤vsjÃ¶</td>
+  	  	      <td>SÃ¤vsjÃ¶</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2402,11 +2402,11 @@
   	  	    <tr class="odd">
   	  	      <td>Tor</td><td>13</td>
   	  	      <td>19.00-23.00</td>
-  	          <td>Claes Lövgrens</td>
-  	  	      <td>Barva bygdegård</td>
+  	          <td>Claes LÃ¶vgrens</td>
+  	  	      <td>Barva bygdegÃ¥rd</td>
   	  	      <td>Barva</td>
   	  	      <td>Eskilstuna</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2427,8 +2427,8 @@
   	  	      <td>Tor</td><td>13</td>
   	  	      <td>19.00</td>
   	          <td>Kindbergs</td>
-  	  	      <td>Bredasjön Holmsjö</td>
-  	  	      <td>Holmsjö</td>
+  	  	      <td>BredasjÃ¶n HolmsjÃ¶</td>
+  	  	      <td>HolmsjÃ¶</td>
   	  	      <td>Karlskrona</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
@@ -2441,8 +2441,8 @@
   	          <td>Mats Bergmans</td>
   	  	      <td>Folkets Park Ljungsbro</td>
   	  	      <td>Ljungsbro</td>
-  	  	      <td>Linköping</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>LinkÃ¶ping</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2451,8 +2451,8 @@
   	  	      <td>Tor</td><td>13</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Micke Ahlgrens</td>
-  	  	      <td>Folkets Park Åseda</td>
-  	  	      <td>Åseda</td>
+  	  	      <td>Folkets Park Ã…seda</td>
+  	  	      <td>Ã…seda</td>
   	  	      <td>Uppvidinge</td>
   	  	      <td>Kronoberg</td>
   	  	      <!--<td></td>-->
@@ -2463,10 +2463,10 @@
   	  	      <td>Tor</td><td>13</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Donnez</td>
-  	  	      <td>Folkparken Skellefteå</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>Folkparken SkellefteÃ¥</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2475,10 +2475,10 @@
   	  	      <td>Tor</td><td>13</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Rios</td>
-  	  	      <td>Fröjden Jönköping</td>
-  	  	      <td>Jönköping</td>
-  	  	      <td>Jönköping</td>
-  	  	      <td>Jönköping</td>
+  	  	      <td>FrÃ¶jden JÃ¶nkÃ¶ping</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2487,10 +2487,10 @@
   	  	      <td>Tor</td><td>13</td>
   	  	      <td>14.00-17.00</td>
   	          <td>Elisabeth Lords</td>
-  	  	      <td>Föreningsborg Bettna</td>
+  	  	      <td>FÃ¶reningsborg Bettna</td>
   	  	      <td>Bettna</td>
   	  	      <td>Flen </td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -2499,10 +2499,10 @@
   	  	      <td>Tor</td><td>13</td>
   	  	      <td>18.00-21.30</td>
   	          <td>BarraBazz</td>
-  	  	      <td>Gammelgården Torsåker</td>
-  	  	      <td>Torsåker</td>
+  	  	      <td>GammelgÃ¥rden TorsÃ¥ker</td>
+  	  	      <td>TorsÃ¥ker</td>
   	  	      <td>Hofors</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2511,10 +2511,10 @@
   	  	      <td>Tor</td><td>13</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Jannez</td>
-  	  	      <td>Gräsmyr loge</td>
-  	  	      <td>Gräsmyr</td>
+  	  	      <td>GrÃ¤smyr loge</td>
+  	  	      <td>GrÃ¤smyr</td>
   	  	      <td>Nordmaling</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2522,8 +2522,8 @@
   	  	    <tr class="odd">
   	  	      <td>Tor</td><td>13</td>
   	  	      <td>19.00-23.00</td>
-  	          <td>Wahlströms</td>
-  	  	      <td>Hågelbyparken</td>
+  	          <td>WahlstrÃ¶ms</td>
+  	  	      <td>HÃ¥gelbyparken</td>
   	  	      <td>Tumba</td>
   	  	      <td>Botkyrka</td>
   	  	      <td>Stockholm</td>
@@ -2537,8 +2537,8 @@
   	          <td>Drifters</td>
   	  	      <td>Laduholmen Forsbacka</td>
   	  	      <td>Forsbacka</td>
-  	  	      <td>Gävle</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vle</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2550,7 +2550,7 @@
   	  	      <td>Lane Loge</td>
   	  	      <td>Lane</td>
   	  	      <td>Uddevalla</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2562,7 +2562,7 @@
   	  	      <td>Lane Loge</td>
   	  	      <td>Lane</td>
   	  	      <td>Uddevalla</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2583,7 +2583,7 @@
   	  	      <td>Tor</td><td>13</td>
   	  	      <td>13.00-17.00</td>
   	          <td>Matz Rogers</td>
-  	  	      <td>Ängby park Knivsta</td>
+  	  	      <td>Ã„ngby park Knivsta</td>
   	  	      <td>Knivsta</td>
   	  	      <td>Knivsta</td>
   	  	      <td>Uppsala</td>
@@ -2595,7 +2595,7 @@
   	  	      <td>Fre</td><td>14</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Martinez</td>
-  	  	      <td>Björknäsparken</td>
+  	  	      <td>BjÃ¶rknÃ¤sparken</td>
   	  	      <td>Boden</td>
   	  	      <td>Boden</td>
   	  	      <td>Norrbotten</td>
@@ -2610,7 +2610,7 @@
   	  	      <td>Folkets Park Vadstena</td>
   	  	      <td>Vadstena</td>
   	  	      <td>Vadstena</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -2619,10 +2619,10 @@
   	  	      <td>Fre</td><td>14</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Donnez</td>
-  	  	      <td>Gräsmyr loge</td>
-  	  	      <td>Gräsmyr</td>
+  	  	      <td>GrÃ¤smyr loge</td>
+  	  	      <td>GrÃ¤smyr</td>
   	  	      <td>Nordmaling</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2634,7 +2634,7 @@
   	  	      <td>Kustladan Docksta</td>
   	  	      <td>Docksta</td>
   	  	      <td>Kramfors</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2656,9 +2656,9 @@
   	  	      <td>19.00-23.00</td>
   	          <td>Chiquita</td>
   	  	      <td>Liseberg Polketten</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2667,10 +2667,10 @@
   	  	      <td>Fre</td><td>14</td>
   	  	      <td></td>
   	          <td>Larz Kristerz</td>
-  	  	      <td>MerEl Arena Hällefors</td>
-  	  	      <td>Hällefors</td>
-  	  	      <td>Hällefors</td>
-  	  	      <td>Örebro</td>
+  	  	      <td>MerEl Arena HÃ¤llefors</td>
+  	  	      <td>HÃ¤llefors</td>
+  	  	      <td>HÃ¤llefors</td>
+  	  	      <td>Ã–rebro</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2679,10 +2679,10 @@
   	  	      <td>Fre</td><td>14</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Jannez</td>
-  	  	      <td>Sandviken Östersund</td>
+  	  	      <td>Sandviken Ã–stersund</td>
   	  	      <td>Sandviken</td>
-  	  	      <td>Östersund</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>Ã–stersund</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2690,8 +2690,8 @@
   	  	    <tr class="even">
   	  	      <td>Fre</td><td>14</td>
   	  	      <td>20.00-24.00</td>
-  	          <td>Per-Håkans</td>
-  	  	      <td>Skälby loge</td>
+  	          <td>Per-HÃ¥kans</td>
+  	  	      <td>SkÃ¤lby loge</td>
   	  	      <td>Kalmar</td>
   	  	      <td>Kalmar</td>
   	  	      <td>Kalmar</td>
@@ -2703,8 +2703,8 @@
   	  	      <td>Fre</td><td>14</td>
   	  	      <td>13.30-17.00</td>
   	          <td>Lars Erikssons</td>
-  	  	      <td>Söderbärkeparken</td>
-  	  	      <td>Söderbärke  </td>
+  	  	      <td>SÃ¶derbÃ¤rkeparken</td>
+  	  	      <td>SÃ¶derbÃ¤rke  </td>
   	  	      <td>Smedjebacken</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td>pro</td>-->
@@ -2715,10 +2715,10 @@
   	  	      <td>Fre</td><td>14</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Drifters</td>
-  	  	      <td>Tallbacken Ånge</td>
-  	  	      <td>Ånge</td>
-  	  	      <td>Ånge</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>Tallbacken Ã…nge</td>
+  	  	      <td>Ã…nge</td>
+  	  	      <td>Ã…nge</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2727,10 +2727,10 @@
   	  	      <td>Fre</td><td>14</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Micke Ahlgrens</td>
-  	  	      <td>Tydingesjön</td>
+  	  	      <td>TydingesjÃ¶n</td>
   	  	      <td>Broby</td>
-  	  	      <td>Östra Göinge</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã–stra GÃ¶inge</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -2739,80 +2739,80 @@
   	  	      <td>Fre</td><td>14</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Blender</td>
-  	  	      <td>Älvstagården  </td>
-  	  	      <td>Jättendal</td>
+  	  	      <td>Ã„lvstagÃ¥rden  </td>
+  	  	      <td>JÃ¤ttendal</td>
   	  	      <td>Nordanstig</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Highlights</td>
   	  	      <td>Blomsterhultslogen</td>
   	  	      <td>Blomsterhult</td>
   	  	      <td>Karlstad</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td></td>
   	          <td>Larz Kristerz</td>
   	  	      <td>Boggbergets festplats</td>
   	  	      <td>Evertsberg</td>
-  	  	      <td>Älvdalen</td>
+  	  	      <td>Ã„lvdalen</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>20.00-23.30</td>
   	          <td>Junix</td>
-  	  	      <td>Delsbo bygdegård</td>
+  	  	      <td>Delsbo bygdegÃ¥rd</td>
   	  	      <td>Delsbo</td>
   	  	      <td>Hudiksvall</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td></td>
   	          <td>Lasse Stefanz</td>
   	  	      <td>Folkets Park Forshaga</td>
   	  	      <td>Forshaga</td>
   	  	      <td>Forshaga</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td></td>
   	          <td>Streaplers</td>
-  	  	      <td>Folkets Park Lidköping</td>
-  	  	      <td>Lidköping</td>
-  	  	      <td>Lidköping</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>Folkets Park LidkÃ¶ping</td>
+  	  	      <td>LidkÃ¶ping</td>
+  	  	      <td>LidkÃ¶ping</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td></td>
   	          <td>Mats Bergmans</td>
-  	  	      <td>Fågelsångs festplats</td>
-  	  	      <td>Våxtorp</td>
+  	  	      <td>FÃ¥gelsÃ¥ngs festplats</td>
+  	  	      <td>VÃ¥xtorp</td>
   	  	      <td>Laholm</td>
   	  	      <td>Halland</td>
   	  	      <!--<td></td>-->
@@ -2820,94 +2820,94 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td></td>
-  	          <td>Per-Håkans</td>
-  	  	      <td>Grännäsparken Valdemarsvik</td>
+  	          <td>Per-HÃ¥kans</td>
+  	  	      <td>GrÃ¤nnÃ¤sparken Valdemarsvik</td>
   	  	      <td>Valdemarsvik</td>
   	  	      <td>Valdemarsvik</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Blender</td>
-  	  	      <td>Gräsmyr loge</td>
-  	  	      <td>Gräsmyr</td>
+  	  	      <td>GrÃ¤smyr loge</td>
+  	  	      <td>GrÃ¤smyr</td>
   	  	      <td>Nordmaling</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>20.00-24.00</td>
-  	          <td>Claes Lövgrens</td>
-  	  	      <td>Kungälvsparken</td>
-  	  	      <td>Kungälv</td>
-  	  	      <td>Kungälv</td>
-  	  	      <td>Västra Götaland</td>
+  	          <td>Claes LÃ¶vgrens</td>
+  	  	      <td>KungÃ¤lvsparken</td>
+  	  	      <td>KungÃ¤lv</td>
+  	  	      <td>KungÃ¤lv</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td></td>
   	          <td>Martinez</td>
   	  	      <td>Paviljongen Sorsele</td>
   	  	      <td>Sorsele</td>
   	  	      <td>Sorsele</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>20.30-00.30</td>
   	          <td>Bob Stevens</td>
-  	  	      <td>Rydsnäs loge</td>
-  	  	      <td>Rydnäs</td>
+  	  	      <td>RydsnÃ¤s loge</td>
+  	  	      <td>RydnÃ¤s</td>
   	  	      <td>Ydre</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>22.00-02.00</td>
   	          <td>Sannex</td>
-  	  	      <td>Skålans bygdegård</td>
-  	  	      <td>Skålan</td>
+  	  	      <td>SkÃ¥lans bygdegÃ¥rd</td>
+  	  	      <td>SkÃ¥lan</td>
   	  	      <td>Berg</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Jannez</td>
   	  	      <td>Tors loge</td>
-  	  	      <td>Torsåker</td>
+  	  	      <td>TorsÃ¥ker</td>
   	  	      <td>Hofors</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>19.00</td>
-  	          <td>Micke Franzéns Duo</td>
-  	  	      <td>Trummenäs camping</td>
+  	          <td>Micke FranzÃ©ns Duo</td>
+  	  	      <td>TrummenÃ¤s camping</td>
   	  	      <td>Ramdala</td>
   	  	      <td>Karlskrona</td>
   	  	      <td>Blekinge</td>
@@ -2916,43 +2916,43 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>21.00-01.00</td>
-  	          <td>Thor Görans & Agneta Olsson</td>
-  	  	      <td>Täfteå Loge</td>
-  	  	      <td>Täfteå</td>
-  	  	      <td>Umeå</td>
-  	  	      <td>Västerbotten</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
+  	  	      <td>TÃ¤fteÃ¥ Loge</td>
+  	  	      <td>TÃ¤fteÃ¥</td>
+  	  	      <td>UmeÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td></td>
   	          <td>Casanovas</td>
   	  	      <td>Uddeholmsladan Hagfors</td>
   	  	      <td>Hagfors</td>
   	  	      <td>Hagfors</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td></td>
   	          <td>Kindbergs</td>
   	  	      <td>Uddeholmsladan Hagfors</td>
   	  	      <td>Hagfors</td>
   	  	      <td>Hagfors</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>21.30-02.00</td>
   	          <td>Donnez</td>
   	  	      <td>Udden Kangos</td>
@@ -2964,47 +2964,47 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Black Jack</td>
   	  	      <td>Upperudslogen</td>
   	  	      <td>Molkom</td>
   	  	      <td>Karlstad</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>15</td>
+  	  	      <td>LÃ¶r</td><td>15</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Micke Ahlgrens</td>
-  	  	      <td>Utängens Loge</td>
+  	  	      <td>UtÃ¤ngens Loge</td>
   	  	      <td>Tanumshede</td>
   	  	      <td>Tanum</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Kindbergs</td>
-  	  	      <td>Alingsåsparken</td>
-  	  	      <td>Alingsås</td>
-  	  	      <td>Alingsås</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>AlingsÃ¥sparken</td>
+  	  	      <td>AlingsÃ¥s</td>
+  	  	      <td>AlingsÃ¥s</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>17.00-21.00</td>
   	          <td>Kalle & Stefan</td>
-  	  	      <td>Björkbacken Hynnenäs</td>
-  	  	      <td>Hynnenäs</td>
+  	  	      <td>BjÃ¶rkbacken HynnenÃ¤s</td>
+  	  	      <td>HynnenÃ¤s</td>
   	  	      <td>Alvesta</td>
   	  	      <td>Kronoberg</td>
   	  	      <!--<td></td>-->
@@ -3012,55 +3012,55 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>18.00-22.00</td>
-  	          <td>Wahlströms</td>
+  	          <td>WahlstrÃ¶ms</td>
   	  	      <td>Folkets Park Aneby</td>
   	  	      <td>Aneby</td>
   	  	      <td>Aneby</td>
-  	  	      <td>Jönköping</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>18.30-21.30</td>
-  	          <td>Bälg-Ollez</td>
-  	  	      <td>Forsmonöjet</td>
+  	          <td>BÃ¤lg-Ollez</td>
+  	  	      <td>ForsmonÃ¶jet</td>
   	  	      <td>Forsmo</td>
-  	  	      <td>Sollefteå</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>SollefteÃ¥</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>18.00-22.00</td>
-  	          <td>Claes Lövgrens</td>
-  	  	      <td>Hembygdsgården Gräsmark</td>
-  	  	      <td>Gräsmark</td>
+  	          <td>Claes LÃ¶vgrens</td>
+  	  	      <td>HembygdsgÃ¥rden GrÃ¤smark</td>
+  	  	      <td>GrÃ¤smark</td>
   	  	      <td>Sunne</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>19.00-22.30</td>
   	          <td>Janders</td>
   	  	      <td>Logen Ljusvattnet</td>
-  	  	      <td>Burträsk</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>BurtrÃ¤sk</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Bob Stevens</td>
   	  	      <td>Orrskogen</td>
@@ -3072,7 +3072,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Casanovas</td>
   	  	      <td>Orrskogen</td>
@@ -3084,7 +3084,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Date</td>
   	  	      <td>Orrskogen</td>
@@ -3096,9 +3096,9 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>21.00-02.00</td>
-  	          <td>Grönwalls</td>
+  	          <td>GrÃ¶nwalls</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -3108,7 +3108,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Hanne Mette Band (N)</td>
   	  	      <td>Orrskogen</td>
@@ -3120,7 +3120,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Jive</td>
   	  	      <td>Orrskogen</td>
@@ -3132,7 +3132,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Ninnas</td>
   	  	      <td>Orrskogen</td>
@@ -3144,9 +3144,9 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>21.00-02.00</td>
-  	          <td>Russindalens Spelmän</td>
+  	          <td>Russindalens SpelmÃ¤n</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -3156,9 +3156,9 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>21.00-02.00</td>
-  	          <td>Skåningarna</td>
+  	          <td>SkÃ¥ningarna</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -3168,7 +3168,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>21.00-02.00</td>
   	          <td>Xplays</td>
   	  	      <td>Orrskogen</td>
@@ -3180,11 +3180,11 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Chiquita</td>
-  	  	      <td>Stallet Vassmolösa</td>
-  	  	      <td>Vassmolösa</td>
+  	  	      <td>Stallet VassmolÃ¶sa</td>
+  	  	      <td>VassmolÃ¶sa</td>
   	  	      <td>Kalmar</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -3192,55 +3192,55 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Mats Bergmans</td>
   	  	      <td>Stommens Loge</td>
   	  	      <td>Magra</td>
-  	  	      <td>Alingsås</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>AlingsÃ¥s</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Micke Ahlgrens</td>
-  	  	      <td>Törringelund</td>
+  	  	      <td>TÃ¶rringelund</td>
   	  	      <td>Oxie</td>
-  	  	      <td>Malmö</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>MalmÃ¶</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Strike</td>
   	  	      <td>Upperudslogen</td>
   	  	      <td>Molkom</td>
   	  	      <td>Karlstad</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>16</td>
+  	  	      <td>SÃ¶n</td><td>16</td>
   	  	      <td>19.00-22.30</td>
   	          <td>Junix</td>
-  	  	      <td>Ånäsparken Kovland</td>
+  	  	      <td>Ã…nÃ¤sparken Kovland</td>
   	  	      <td>Kovland</td>
   	  	      <td>Sundsvall</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-01.00</td>
   	          <td>Arvingarna</td>
   	  	      <td>Orrskogen</td>
@@ -3252,7 +3252,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-01.00</td>
   	          <td>CCA</td>
   	  	      <td>Orrskogen</td>
@@ -3264,7 +3264,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-01.00</td>
   	          <td>Flamingokvintetten</td>
   	  	      <td>Orrskogen</td>
@@ -3276,7 +3276,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-01.00</td>
   	          <td>Junix</td>
   	  	      <td>Orrskogen</td>
@@ -3288,7 +3288,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-01.00</td>
   	          <td>Mannerz</td>
   	  	      <td>Orrskogen</td>
@@ -3300,7 +3300,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-01.00</td>
   	          <td>Mickeys</td>
   	  	      <td>Orrskogen</td>
@@ -3312,7 +3312,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-01.00</td>
   	          <td>Orient</td>
   	  	      <td>Orrskogen</td>
@@ -3324,7 +3324,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-01.00</td>
   	          <td>Scotts</td>
   	  	      <td>Orrskogen</td>
@@ -3336,7 +3336,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-01.00</td>
   	          <td>Sounders</td>
   	  	      <td>Orrskogen</td>
@@ -3348,7 +3348,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-01.00</td>
   	          <td>Streaplers</td>
   	  	      <td>Orrskogen</td>
@@ -3360,9 +3360,9 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-01.00</td>
-  	          <td>Thor Görans & Agneta Olsson</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -3372,7 +3372,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Hans Martin (FIN)</td>
   	  	      <td>Orrskogen</td>
@@ -3384,7 +3384,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Tommys (FIN)</td>
   	  	      <td>Orrskogen</td>
@@ -3396,7 +3396,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>20.00-23.00</td>
   	          <td>Leif Kronlund Storband</td>
   	  	      <td>Skansen Galejan</td>
@@ -3408,13 +3408,13 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>17</td>
+  	  	      <td>MÃ¥n</td><td>17</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Holidays</td>
   	  	      <td>Tidaholmsparken</td>
   	  	      <td>Tidaholm</td>
   	  	      <td>Tidaholm</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3434,11 +3434,11 @@
   	  	    <tr class="even">
   	  	      <td>Tis</td><td>18</td>
   	  	      <td>18.30-22.30</td>
-  	          <td>Skåningarna</td>
-  	  	      <td>Björka Loge</td>
-  	  	      <td>Hardeberga, Södra Sandby</td>
+  	          <td>SkÃ¥ningarna</td>
+  	  	      <td>BjÃ¶rka Loge</td>
+  	  	      <td>Hardeberga, SÃ¶dra Sandby</td>
   	  	      <td>Lund</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3447,8 +3447,8 @@
   	  	      <td>Tis</td><td>18</td>
   	  	      <td>18.30</td>
   	          <td>Svennes</td>
-  	  	      <td>Bredasjön Holmsjö</td>
-  	  	      <td>Holmsjö</td>
+  	  	      <td>BredasjÃ¶n HolmsjÃ¶</td>
+  	  	      <td>HolmsjÃ¶</td>
   	  	      <td>Karlskrona</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
@@ -3462,7 +3462,7 @@
   	  	      <td>Broby Bettna</td>
   	  	      <td>Bettna</td>
   	  	      <td>Flen</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3506,7 +3506,7 @@
   	  	    <tr class="even">
   	  	      <td>Tis</td><td>18</td>
   	  	      <td>20.00-01.00</td>
-  	          <td>Bälgtrökken (N)</td>
+  	          <td>BÃ¤lgtrÃ¶kken (N)</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -3627,7 +3627,7 @@
   	  	      <td>Tis</td><td>18</td>
   	  	      <td>21.00-00.30</td>
   	          <td>Donnez</td>
-  	  	      <td>Västerhagen</td>
+  	  	      <td>VÃ¤sterhagen</td>
   	  	      <td>Haverdal</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halland</td>
@@ -3639,7 +3639,7 @@
   	  	      <td>Tis</td><td>18</td>
   	  	      <td>21.00-00.30</td>
   	          <td>Robbans</td>
-  	  	      <td>Västerhagen</td>
+  	  	      <td>VÃ¤sterhagen</td>
   	  	      <td>Haverdal</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halland</td>
@@ -3651,10 +3651,10 @@
   	  	      <td>Tis</td><td>18</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Titanix</td>
-  	  	      <td>Åsliden</td>
+  	  	      <td>Ã…sliden</td>
   	  	      <td>Nor</td>
   	  	      <td>Ljusdal</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3663,10 +3663,10 @@
   	  	      <td>Tis</td><td>18</td>
   	  	      <td></td>
   	          <td>Lasse Stefanz</td>
-  	  	      <td>Ön Hedesunda</td>
+  	  	      <td>Ã–n Hedesunda</td>
   	  	      <td>Hedesunda</td>
-  	  	      <td>Gävle</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vle</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3690,7 +3690,7 @@
   	  	      <td>Borensbergsparken</td>
   	  	      <td>Borensberg</td>
   	  	      <td>Motala</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3702,7 +3702,7 @@
   	  	      <td>Folkets Park Degerfors</td>
   	  	      <td>Degerfors</td>
   	  	      <td>Degerfors</td>
-  	  	      <td>Örebro</td>
+  	  	      <td>Ã–rebro</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3712,9 +3712,9 @@
   	  	      <td></td>
   	          <td>Martinez</td>
   	  	      <td>Folkparken Bursiljum</td>
-  	  	      <td>Burträsk</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>BurtrÃ¤sk</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3723,10 +3723,10 @@
   	  	      <td>Ons</td><td>19</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Jannez</td>
-  	  	      <td>Furuviken Hällesjö</td>
-  	  	      <td>Hällesjö</td>
-  	  	      <td>Bräcke</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>Furuviken HÃ¤llesjÃ¶</td>
+  	  	      <td>HÃ¤llesjÃ¶</td>
+  	  	      <td>BrÃ¤cke</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3735,8 +3735,8 @@
   	  	      <td>Ons</td><td>19</td>
   	  	      <td></td>
   	          <td>Larz Kristerz</td>
-  	  	      <td>Hjortnäs Brygga</td>
-  	  	      <td>Hjortnäs</td>
+  	  	      <td>HjortnÃ¤s Brygga</td>
+  	  	      <td>HjortnÃ¤s</td>
   	  	      <td>Leksand</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td></td>-->
@@ -3747,10 +3747,10 @@
   	  	      <td>Ons</td><td>19</td>
   	  	      <td>13.30-17.00</td>
   	          <td>Hedins</td>
-  	  	      <td>Kolbäcksparken</td>
-  	  	      <td>Kolbäck</td>
+  	  	      <td>KolbÃ¤cksparken</td>
+  	  	      <td>KolbÃ¤ck</td>
   	  	      <td>Hallstahammar</td>
-  	  	      <td>Västmanland</td>
+  	  	      <td>VÃ¤stmanland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -3758,10 +3758,10 @@
   	  	    <tr class="odd">
   	  	      <td>Ons</td><td>19</td>
   	  	      <td>18.30-22.30</td>
-  	          <td>Skåningarna</td>
+  	          <td>SkÃ¥ningarna</td>
   	  	      <td>Lyktan Vilshult</td>
   	  	      <td>Vilshult</td>
-  	  	      <td>Olofström</td>
+  	  	      <td>OlofstrÃ¶m</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
               <td></td>
@@ -3771,10 +3771,10 @@
   	  	      <td>Ons</td><td>19</td>
   	  	      <td>17.00-20.00</td>
   	          <td>Anders Nilssons</td>
-  	  	      <td>Löfstad Loge</td>
-  	  	      <td>Löfstad</td>
-  	  	      <td>Norrköping</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>LÃ¶fstad Loge</td>
+  	  	      <td>LÃ¶fstad</td>
+  	  	      <td>NorrkÃ¶ping</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -3786,7 +3786,7 @@
   	  	      <td>Mossbrott</td>
   	  	      <td>Vara</td>
   	  	      <td>Vara</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3794,7 +3794,7 @@
   	  	    <tr class="even">
   	  	      <td>Ons</td><td>19</td>
   	  	      <td>20.00-01.00</td>
-  	          <td>Anne Nørdsti  (N)</td>
+  	          <td>Anne NÃ¸rdsti  (N)</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -3866,7 +3866,7 @@
   	  	    <tr class="even">
   	  	      <td>Ons</td><td>19</td>
   	  	      <td>20.00-01.00</td>
-  	          <td>Högtryck (FIN)</td>
+  	          <td>HÃ¶gtryck (FIN)</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -3939,10 +3939,10 @@
   	  	      <td>Ons</td><td>19</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Gott & Blandat</td>
-  	  	      <td>Tydingesjön</td>
+  	  	      <td>TydingesjÃ¶n</td>
   	  	      <td>Broby</td>
-  	  	      <td>Östra Göinge</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã–stra GÃ¶inge</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3951,10 +3951,10 @@
   	  	      <td>Ons</td><td>19</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Matz Bladhs</td>
-  	  	      <td>Vallsjöbaden</td>
-  	  	      <td>Sävsjö</td>
-  	  	      <td>Sävsjö</td>
-  	  	      <td>Jönköping</td>
+  	  	      <td>VallsjÃ¶baden</td>
+  	  	      <td>SÃ¤vsjÃ¶</td>
+  	  	      <td>SÃ¤vsjÃ¶</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3974,11 +3974,11 @@
   	  	    <tr class="even">
   	  	      <td>Tor</td><td>20</td>
   	  	      <td>19.00-23.00</td>
-  	          <td>Thor Görans & Agneta Olsson</td>
-  	  	      <td>Barva bygdegård</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
+  	  	      <td>Barva bygdegÃ¥rd</td>
   	  	      <td>Barva</td>
   	  	      <td>Eskilstuna</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -3999,8 +3999,8 @@
   	  	      <td>Tor</td><td>20</td>
   	  	      <td>19.00</td>
   	          <td>Wideband</td>
-  	  	      <td>Bredasjön Holmsjö</td>
-  	  	      <td>Holmsjö</td>
+  	  	      <td>BredasjÃ¶n HolmsjÃ¶</td>
+  	  	      <td>HolmsjÃ¶</td>
   	  	      <td>Karlskrona</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
@@ -4011,10 +4011,10 @@
   	  	      <td>Tor</td><td>20</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Martinez</td>
-  	  	      <td>Bygdegården Arvesund</td>
+  	  	      <td>BygdegÃ¥rden Arvesund</td>
   	  	      <td>Mattmar</td>
-  	  	      <td>Åre</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>Ã…re</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4025,8 +4025,8 @@
   	          <td>Sounders</td>
   	  	      <td>Folkets Park Ljungsbro</td>
   	  	      <td>Ljungsbro</td>
-  	  	      <td>Linköping</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>LinkÃ¶ping</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4038,7 +4038,7 @@
   	  	      <td>Folkets Park Nora</td>
   	  	      <td>Nora</td>
   	  	      <td>Nora</td>
-  	  	      <td>Örebro</td>
+  	  	      <td>Ã–rebro</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4047,10 +4047,10 @@
   	  	      <td>Tor</td><td>20</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Casanovas</td>
-  	  	      <td>Folkparken Skellefteå</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>Folkparken SkellefteÃ¥</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4059,10 +4059,10 @@
   	  	      <td>Tor</td><td>20</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Lars Erikssons</td>
-  	  	      <td>Gammelgården Torsåker</td>
-  	  	      <td>Torsåker</td>
+  	  	      <td>GammelgÃ¥rden TorsÃ¥ker</td>
+  	  	      <td>TorsÃ¥ker</td>
   	  	      <td>Hofors</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4071,10 +4071,10 @@
   	  	      <td>Tor</td><td>20</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Blender</td>
-  	  	      <td>Gussjönoret</td>
-  	  	      <td>Gussjö</td>
-  	  	      <td>Härnösand</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>GussjÃ¶noret</td>
+  	  	      <td>GussjÃ¶</td>
+  	  	      <td>HÃ¤rnÃ¶sand</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4106,7 +4106,7 @@
   	  	    <tr class="odd">
   	  	      <td>Tor</td><td>20</td>
   	  	      <td>20.00-01.00</td>
-  	          <td>Bröderna Lindqvist</td>
+  	          <td>BrÃ¶derna Lindqvist</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -4214,7 +4214,7 @@
   	  	    <tr class="odd">
   	  	      <td>Tor</td><td>20</td>
   	  	      <td>20.00-01.00</td>
-  	          <td>Wahlströms</td>
+  	          <td>WahlstrÃ¶ms</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -4250,8 +4250,8 @@
   	  	    <tr class="even">
   	  	      <td>Fre</td><td>21</td>
   	  	      <td>20.00-24.00</td>
-  	          <td>Ej fastställt</td>
-  	  	      <td>Björknäsparken</td>
+  	          <td>Ej faststÃ¤llt</td>
+  	  	      <td>BjÃ¶rknÃ¤sparken</td>
   	  	      <td>Boden</td>
   	  	      <td>Boden</td>
   	  	      <td>Norrbotten</td>
@@ -4262,11 +4262,11 @@
   	  	    <tr class="odd">
   	  	      <td>Fre</td><td>21</td>
   	  	      <td>20.00-01.00</td>
-  	          <td>Ej fastställt</td>
+  	          <td>Ej faststÃ¤llt</td>
   	  	      <td>Hanssons Loge</td>
-  	  	      <td>Långsele</td>
-  	  	      <td>Sollefteå</td>
-  	  	      <td>Västernorrland  </td>
+  	  	      <td>LÃ¥ngsele</td>
+  	  	      <td>SollefteÃ¥</td>
+  	  	      <td>VÃ¤sternorrland  </td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4278,7 +4278,7 @@
   	  	      <td>Kustladan Docksta</td>
   	  	      <td>Docksta</td>
   	  	      <td>Kramfors</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4287,7 +4287,7 @@
   	  	      <td>Fre</td><td>21</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Matz Bladhs</td>
-  	  	      <td>Kärrasand</td>
+  	  	      <td>KÃ¤rrasand</td>
   	  	      <td>Urshult</td>
   	  	      <td>Tingsryd</td>
   	  	      <td>Kronoberg</td>
@@ -4300,9 +4300,9 @@
   	  	      <td>19.00-23.00</td>
   	          <td>Mats Bergmans</td>
   	  	      <td>Liseberg Polketten</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4406,7 +4406,7 @@
   	  	    <tr class="odd">
   	  	      <td>Fre</td><td>21</td>
   	  	      <td>20.00-02.00</td>
-  	          <td>Per-Håkans</td>
+  	          <td>Per-HÃ¥kans</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -4418,7 +4418,7 @@
   	  	    <tr class="odd">
   	  	      <td>Fre</td><td>21</td>
   	  	      <td>20.00-02.00</td>
-  	          <td>Starkens spelmän</td>
+  	          <td>Starkens spelmÃ¤n</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -4455,10 +4455,10 @@
   	  	      <td>Fre</td><td>21</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Blender</td>
-  	  	      <td>Sandviken Östersund</td>
+  	  	      <td>Sandviken Ã–stersund</td>
   	  	      <td>Sandviken</td>
-  	  	      <td>Östersund</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>Ã–stersund</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4479,7 +4479,7 @@
   	  	      <td>Fre</td><td>21</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Streaplers</td>
-  	  	      <td>Skälby loge</td>
+  	  	      <td>SkÃ¤lby loge</td>
   	  	      <td>Kalmar</td>
   	  	      <td>Kalmar</td>
   	  	      <td>Kalmar</td>
@@ -4490,11 +4490,11 @@
   	  	    <tr class="odd">
   	  	      <td>Fre</td><td>21</td>
   	  	      <td>19.00-22.30</td>
-  	          <td>Löpsjötorparns</td>
-  	  	      <td>Strömsunds Hembygsgård</td>
-  	  	      <td>Strömsund</td>
-  	  	      <td>Strömsund</td>
-  	  	      <td>Jämtland</td>
+  	          <td>LÃ¶psjÃ¶torparns</td>
+  	  	      <td>StrÃ¶msunds HembygsgÃ¥rd</td>
+  	  	      <td>StrÃ¶msund</td>
+  	  	      <td>StrÃ¶msund</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4503,9 +4503,9 @@
   	  	      <td>Fre</td><td>21</td>
   	  	      <td></td>
   	          <td>Micke Ahlgrens</td>
-  	  	      <td>Sågudden Särna</td>
-  	  	      <td>Särna</td>
-  	  	      <td>Älvdalen</td>
+  	  	      <td>SÃ¥gudden SÃ¤rna</td>
+  	  	      <td>SÃ¤rna</td>
+  	  	      <td>Ã„lvdalen</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td></td>-->
               <td></td>
@@ -4515,8 +4515,8 @@
   	  	      <td>Fre</td><td>21</td>
   	  	      <td>13.30-17.00</td>
   	          <td>Cedrix</td>
-  	  	      <td>Söderbärkeparken</td>
-  	  	      <td>Söderbärke  </td>
+  	  	      <td>SÃ¶derbÃ¤rkeparken</td>
+  	  	      <td>SÃ¶derbÃ¤rke  </td>
   	  	      <td>Smedjebacken</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td>pro</td>-->
@@ -4527,10 +4527,10 @@
   	  	      <td>Fre</td><td>21</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Holidays</td>
-  	  	      <td>Tydingesjön</td>
+  	  	      <td>TydingesjÃ¶n</td>
   	  	      <td>Broby</td>
-  	  	      <td>Östra Göinge</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã–stra GÃ¶inge</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -4550,10 +4550,10 @@
   	  	    <tr class="even">
   	  	      <td>Fre</td><td>21</td>
   	  	      <td></td>
-  	          <td>Christer Sjögren</td>
-  	  	      <td>Vikingalunden Väddö</td>
-  	  	      <td>Älmsta</td>
-  	  	      <td>Norrtälje</td>
+  	          <td>Christer SjÃ¶gren</td>
+  	  	      <td>Vikingalunden VÃ¤ddÃ¶</td>
+  	  	      <td>Ã„lmsta</td>
+  	  	      <td>NorrtÃ¤lje</td>
   	  	      <td>Stockholm</td>
   	  	      <!--<td></td>-->
               <td></td>
@@ -4563,9 +4563,9 @@
   	  	      <td>Fre</td><td>21</td>
   	  	      <td></td>
   	          <td>Nya Vikingarna</td>
-  	  	      <td>Vikingalunden Väddö</td>
-  	  	      <td>Älmsta</td>
-  	  	      <td>Norrtälje</td>
+  	  	      <td>Vikingalunden VÃ¤ddÃ¶</td>
+  	  	      <td>Ã„lmsta</td>
+  	  	      <td>NorrtÃ¤lje</td>
   	  	      <td>Stockholm</td>
   	  	      <!--<td></td>-->
               <td></td>
@@ -4575,80 +4575,80 @@
   	  	      <td>Fre</td><td>21</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Gideons</td>
-  	  	      <td>Vikingalunden Väddö</td>
-  	  	      <td>Älmsta</td>
-  	  	      <td>Norrtälje</td>
+  	  	      <td>Vikingalunden VÃ¤ddÃ¶</td>
+  	  	      <td>Ã„lmsta</td>
+  	  	      <td>NorrtÃ¤lje</td>
   	  	      <td>Stockholm</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>21.30-01.30</td>
   	          <td>Perikles</td>
-  	  	      <td>Björka Loge</td>
-  	  	      <td>Hardeberga, Södra Sandby</td>
+  	  	      <td>BjÃ¶rka Loge</td>
+  	  	      <td>Hardeberga, SÃ¶dra Sandby</td>
   	  	      <td>Lund</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td></td>
   	          <td>Mickeys</td>
-  	  	      <td>Björnlogen</td>
-  	  	      <td>Storåsen</td>
-  	  	      <td>Bräcke</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>BjÃ¶rnlogen</td>
+  	  	      <td>StorÃ¥sen</td>
+  	  	      <td>BrÃ¤cke</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Casanovas</td>
   	  	      <td>Bredsele Park</td>
   	  	      <td>Kusfors</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>18.00-21.00</td>
-  	          <td>Eklöfs</td>
+  	          <td>EklÃ¶fs</td>
   	  	      <td>Ekudden</td>
-  	  	      <td>Forssjö</td>
+  	  	      <td>ForssjÃ¶</td>
   	  	      <td>Katrineholm</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Fredahlz</td>
-  	  	      <td>Folkets Park Nävekvarn</td>
-  	  	      <td>Nävekvarn</td>
-  	  	      <td>Nyköping</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>Folkets Park NÃ¤vekvarn</td>
+  	  	      <td>NÃ¤vekvarn</td>
+  	  	      <td>NykÃ¶ping</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-00.30</td>
-  	          <td>Thor Görans & Agneta Olsson</td>
-  	  	      <td>Fågelsångs festplats</td>
-  	  	      <td>Våxtorp</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
+  	  	      <td>FÃ¥gelsÃ¥ngs festplats</td>
+  	  	      <td>VÃ¥xtorp</td>
   	  	      <td>Laholm</td>
   	  	      <td>Halland</td>
   	  	      <!--<td></td>-->
@@ -4656,7 +4656,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td></td>
   	          <td>Kindbergs</td>
   	  	      <td>Glommens brygga</td>
@@ -4668,34 +4668,34 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td></td>
   	          <td>Flamingokvintetten</td>
   	  	      <td>Hasselbackens festplats</td>
   	  	      <td>Regna</td>
-  	  	      <td>Finspång</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>FinspÃ¥ng</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Orient</td>
   	  	      <td>Klackabacken</td>
-  	  	      <td>Näsum</td>
-  	  	      <td>Bromölla</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>NÃ¤sum</td>
+  	  	      <td>BromÃ¶lla</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Streaplers</td>
-  	  	      <td>Kärrasand</td>
+  	  	      <td>KÃ¤rrasand</td>
   	  	      <td>Urshult</td>
   	  	      <td>Tingsryd</td>
   	  	      <td>Kronoberg</td>
@@ -4704,19 +4704,19 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Holidays</td>
   	  	      <td>Liseberg Polketten</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Blender</td>
   	  	      <td>Orrskogen</td>
@@ -4728,7 +4728,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Blue Hawaii (DK)</td>
   	  	      <td>Orrskogen</td>
@@ -4740,7 +4740,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Chiquita</td>
   	  	      <td>Orrskogen</td>
@@ -4752,9 +4752,9 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
-  	          <td>Christer Sjögren</td>
+  	          <td>Christer SjÃ¶gren</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -4764,9 +4764,9 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
-  	          <td>Claes Lövgrens</td>
+  	          <td>Claes LÃ¶vgrens</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -4776,7 +4776,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Donnez</td>
   	  	      <td>Orrskogen</td>
@@ -4788,9 +4788,9 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
-  	          <td>Ej fastställt</td>
+  	          <td>Ej faststÃ¤llt</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -4800,7 +4800,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Excess</td>
   	  	      <td>Orrskogen</td>
@@ -4812,7 +4812,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Fernandoz</td>
   	  	      <td>Orrskogen</td>
@@ -4824,7 +4824,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Gunhild Carling Family</td>
   	  	      <td>Orrskogen</td>
@@ -4836,9 +4836,9 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
-  	          <td>Järnbrukarna med Lelle</td>
+  	          <td>JÃ¤rnbrukarna med Lelle</td>
   	  	      <td>Orrskogen</td>
   	  	      <td>Malung</td>
   	  	      <td>Malung</td>
@@ -4848,7 +4848,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Nya Vikingarna</td>
   	  	      <td>Orrskogen</td>
@@ -4860,7 +4860,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-02.00</td>
   	          <td>Sannex</td>
   	  	      <td>Orrskogen</td>
@@ -4872,67 +4872,67 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-24.00</td>
-  	          <td>Per-Håkans</td>
+  	          <td>Per-HÃ¥kans</td>
   	  	      <td>Rangelstorps loge</td>
   	  	      <td>Mariannelund</td>
-  	  	      <td>Eksjö</td>
-  	  	      <td>Jönköping</td>
+  	  	      <td>EksjÃ¶</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>19.00-22.30</td>
-  	          <td>Löpsjötorparns</td>
-  	  	      <td>Rätans hembygdsgård</td>
-  	  	      <td>Rätansbyn</td>
+  	          <td>LÃ¶psjÃ¶torparns</td>
+  	  	      <td>RÃ¤tans hembygdsgÃ¥rd</td>
+  	  	      <td>RÃ¤tansbyn</td>
   	  	      <td>Berg</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Martinez</td>
-  	  	      <td>Täfteå Loge</td>
-  	  	      <td>Täfteå</td>
-  	  	      <td>Umeå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>TÃ¤fteÃ¥ Loge</td>
+  	  	      <td>TÃ¤fteÃ¥</td>
+  	  	      <td>UmeÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Bob Stevens</td>
   	  	      <td>Upperudslogen</td>
   	  	      <td>Molkom</td>
   	  	      <td>Karlstad</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>22</td>
+  	  	      <td>LÃ¶r</td><td>22</td>
   	  	      <td></td>
   	          <td>Mats Bergmans</td>
-  	  	      <td>Utängens Loge</td>
+  	  	      <td>UtÃ¤ngens Loge</td>
   	  	      <td>Tanumshede</td>
   	  	      <td>Tanum</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>23</td>
+  	  	      <td>SÃ¶n</td><td>23</td>
   	  	      <td></td>
   	          <td>Martinez</td>
   	  	      <td>Birka</td>
@@ -4944,11 +4944,11 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>23</td>
+  	  	      <td>SÃ¶n</td><td>23</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Kindbergs</td>
-  	  	      <td>Folkets Park Mörrum</td>
-  	  	      <td>Mörrum</td>
+  	  	      <td>Folkets Park MÃ¶rrum</td>
+  	  	      <td>MÃ¶rrum</td>
   	  	      <td>Karlshamn</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
@@ -4956,91 +4956,91 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>23</td>
+  	  	      <td>SÃ¶n</td><td>23</td>
   	  	      <td>18.30-21.30</td>
   	          <td>Hedins</td>
-  	  	      <td>Forsmonöjet</td>
+  	  	      <td>ForsmonÃ¶jet</td>
   	  	      <td>Forsmo</td>
-  	  	      <td>Sollefteå</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>SollefteÃ¥</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>23</td>
+  	  	      <td>SÃ¶n</td><td>23</td>
   	  	      <td></td>
   	          <td>Perikles</td>
-  	  	      <td>Kulla Rörum</td>
-  	  	      <td>Rörum</td>
+  	  	      <td>Kulla RÃ¶rum</td>
+  	  	      <td>RÃ¶rum</td>
   	  	      <td>Simrishamn</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>23</td>
+  	  	      <td>SÃ¶n</td><td>23</td>
   	  	      <td>19.00-22.30</td>
   	          <td>Mickes</td>
   	  	      <td>Logen Ljusvattnet</td>
-  	  	      <td>Burträsk</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>BurtrÃ¤sk</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>23</td>
+  	  	      <td>SÃ¶n</td><td>23</td>
   	  	      <td>18.00-22.00</td>
-  	          <td>Ej fastställt</td>
+  	          <td>Ej faststÃ¤llt</td>
   	  	      <td>Rahms loge</td>
   	  	      <td>Forsa</td>
   	  	      <td>Hudiksvall</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>23</td>
+  	  	      <td>SÃ¶n</td><td>23</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Holidays</td>
   	  	      <td>Stommens Loge</td>
   	  	      <td>Magra</td>
-  	  	      <td>Alingsås</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>AlingsÃ¥s</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>23</td>
+  	  	      <td>SÃ¶n</td><td>23</td>
   	  	      <td></td>
   	          <td>Donnez</td>
   	  	      <td>Uddeholmsladan Hagfors</td>
   	  	      <td>Hagfors</td>
   	  	      <td>Hagfors</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>23</td>
+  	  	      <td>SÃ¶n</td><td>23</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Junix</td>
   	  	      <td>Upperudslogen</td>
   	  	      <td>Molkom</td>
   	  	      <td>Karlstad</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>24</td>
+  	  	      <td>MÃ¥n</td><td>24</td>
   	  	      <td></td>
   	          <td>Martinez</td>
   	  	      <td>Birka</td>
@@ -5052,22 +5052,22 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>24</td>
+  	  	      <td>MÃ¥n</td><td>24</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Donnez</td>
-  	  	      <td>Falköpingsparken</td>
-  	  	      <td>Falköping</td>
-  	  	      <td>Falköping</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>FalkÃ¶pingsparken</td>
+  	  	      <td>FalkÃ¶ping</td>
+  	  	      <td>FalkÃ¶ping</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>24</td>
+  	  	      <td>MÃ¥n</td><td>24</td>
   	  	      <td></td>
   	          <td>Perikles</td>
-  	  	      <td>Hotell Tylösand</td>
+  	  	      <td>Hotell TylÃ¶sand</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halland</td>
@@ -5076,7 +5076,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>24</td>
+  	  	      <td>MÃ¥n</td><td>24</td>
   	  	      <td>20.00-23.00</td>
   	          <td>Leif Kronlund Storband</td>
   	  	      <td>Skansen Galejan</td>
@@ -5088,13 +5088,13 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>24</td>
+  	  	      <td>MÃ¥n</td><td>24</td>
   	  	      <td>13.30-17.00</td>
   	          <td>Gideons</td>
-  	  	      <td>Svedboäng</td>
-  	  	      <td>Västerfärnebo</td>
+  	  	      <td>SvedboÃ¤ng</td>
+  	  	      <td>VÃ¤sterfÃ¤rnebo</td>
   	  	      <td>Sala</td>
-  	  	      <td>Västmanland</td>
+  	  	      <td>VÃ¤stmanland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -5115,8 +5115,8 @@
   	  	      <td>Tis</td><td>25</td>
   	  	      <td>18.30</td>
   	          <td>Orient</td>
-  	  	      <td>Bredasjön Holmsjö</td>
-  	  	      <td>Holmsjö</td>
+  	  	      <td>BredasjÃ¶n HolmsjÃ¶</td>
+  	  	      <td>HolmsjÃ¶</td>
   	  	      <td>Karlskrona</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
@@ -5130,7 +5130,7 @@
   	  	      <td>Broby Bettna</td>
   	  	      <td>Bettna</td>
   	  	      <td>Flen</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5138,8 +5138,8 @@
   	  	    <tr class="odd">
   	  	      <td>Tis</td><td>25</td>
   	  	      <td>19.00-23.00</td>
-  	          <td>Thor Görans & Agneta Olsson</td>
-  	  	      <td>Hågelbyparken</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
+  	  	      <td>HÃ¥gelbyparken</td>
   	  	      <td>Tumba</td>
   	  	      <td>Botkyrka</td>
   	  	      <td>Stockholm</td>
@@ -5151,10 +5151,10 @@
   	  	      <td>Tis</td><td>25</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Blender</td>
-  	  	      <td>Lagårn Skultuna</td>
+  	  	      <td>LagÃ¥rn Skultuna</td>
   	  	      <td>Skultuna</td>
-  	  	      <td>Västerås</td>
-  	  	      <td>Västmanland</td>
+  	  	      <td>VÃ¤sterÃ¥s</td>
+  	  	      <td>VÃ¤stmanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5163,7 +5163,7 @@
   	  	      <td>Tis</td><td>25</td>
   	  	      <td>21.00-00.30</td>
   	          <td>Flamingokvintetten</td>
-  	  	      <td>Västerhagen</td>
+  	  	      <td>VÃ¤sterhagen</td>
   	  	      <td>Haverdal</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halland</td>
@@ -5175,7 +5175,7 @@
   	  	      <td>Tis</td><td>25</td>
   	  	      <td>21.00-00.30</td>
   	          <td>Liljedahls</td>
-  	  	      <td>Västerhagen</td>
+  	  	      <td>VÃ¤sterhagen</td>
   	  	      <td>Haverdal</td>
   	  	      <td>Halmstad</td>
   	  	      <td>Halland</td>
@@ -5187,10 +5187,10 @@
   	  	      <td>Tis</td><td>25</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Sannex</td>
-  	  	      <td>Åsliden</td>
+  	  	      <td>Ã…sliden</td>
   	  	      <td>Nor</td>
   	  	      <td>Ljusdal</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5199,10 +5199,10 @@
   	  	      <td>Tis</td><td>25</td>
   	  	      <td></td>
   	          <td>Larz Kristerz</td>
-  	  	      <td>Ön Hedesunda</td>
+  	  	      <td>Ã–n Hedesunda</td>
   	  	      <td>Hedesunda</td>
-  	  	      <td>Gävle</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vle</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5226,7 +5226,7 @@
   	  	      <td>Borensbergsparken</td>
   	  	      <td>Borensberg</td>
   	  	      <td>Motala</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5238,7 +5238,7 @@
   	  	      <td>Folkets Park Degerfors</td>
   	  	      <td>Degerfors</td>
   	  	      <td>Degerfors</td>
-  	  	      <td>Örebro</td>
+  	  	      <td>Ã–rebro</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5247,10 +5247,10 @@
   	  	      <td>Ons</td><td>26</td>
   	  	      <td></td>
   	          <td>Lasse Stefanz</td>
-  	  	      <td>Folkets Park Lidköping</td>
-  	  	      <td>Lidköping</td>
-  	  	      <td>Lidköping</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>Folkets Park LidkÃ¶ping</td>
+  	  	      <td>LidkÃ¶ping</td>
+  	  	      <td>LidkÃ¶ping</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5259,10 +5259,10 @@
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>19.00-22.30</td>
   	          <td>BarraBazz</td>
-  	  	      <td>Gräsmyr loge</td>
-  	  	      <td>Gräsmyr</td>
+  	  	      <td>GrÃ¤smyr loge</td>
+  	  	      <td>GrÃ¤smyr</td>
   	  	      <td>Nordmaling</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5271,7 +5271,7 @@
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Larz Kristerz</td>
-  	  	      <td>Gröna lund</td>
+  	  	      <td>GrÃ¶na lund</td>
   	  	      <td>Stockholm</td>
   	  	      <td>Stockholm</td>
   	  	      <td>Stockholm</td>
@@ -5283,10 +5283,10 @@
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Sannex</td>
-  	  	      <td>Gussjönoret</td>
-  	  	      <td>Gussjö</td>
-  	  	      <td>Härnösand</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>GussjÃ¶noret</td>
+  	  	      <td>GussjÃ¶</td>
+  	  	      <td>HÃ¤rnÃ¶sand</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5295,10 +5295,10 @@
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Kindbergs</td>
-  	  	      <td>Gårdsjö loge</td>
-  	  	      <td>Gårdserud</td>
+  	  	      <td>GÃ¥rdsjÃ¶ loge</td>
+  	  	      <td>GÃ¥rdserud</td>
   	  	      <td>Sunne</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5308,9 +5308,9 @@
   	  	      <td>19.00-22.30</td>
   	          <td>Bob Stevens</td>
   	  	      <td>Hanssons Loge</td>
-  	  	      <td>Långsele</td>
-  	  	      <td>Sollefteå</td>
-  	  	      <td>Västernorrland  </td>
+  	  	      <td>LÃ¥ngsele</td>
+  	  	      <td>SollefteÃ¥</td>
+  	  	      <td>VÃ¤sternorrland  </td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5319,8 +5319,8 @@
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>20.30-00.30</td>
   	          <td>Blender</td>
-  	  	      <td>Hjortnäs Brygga</td>
-  	  	      <td>Hjortnäs</td>
+  	  	      <td>HjortnÃ¤s Brygga</td>
+  	  	      <td>HjortnÃ¤s</td>
   	  	      <td>Leksand</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td></td>-->
@@ -5331,10 +5331,10 @@
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>13.30-17.00</td>
   	          <td>Jonnys</td>
-  	  	      <td>Kolbäcksparken</td>
-  	  	      <td>Kolbäck</td>
+  	  	      <td>KolbÃ¤cksparken</td>
+  	  	      <td>KolbÃ¤ck</td>
   	  	      <td>Hallstahammar</td>
-  	  	      <td>Västmanland</td>
+  	  	      <td>VÃ¤stmanland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -5344,9 +5344,9 @@
   	  	      <td>19.00-01.00</td>
   	          <td>Casanovas</td>
   	  	      <td>Lygnevi Loge</td>
-  	  	      <td>Sätila</td>
+  	  	      <td>SÃ¤tila</td>
   	  	      <td>Marks</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5356,9 +5356,9 @@
   	  	      <td>19.00-01.00</td>
   	          <td>Perikles</td>
   	  	      <td>Lygnevi Loge</td>
-  	  	      <td>Sätila</td>
+  	  	      <td>SÃ¤tila</td>
   	  	      <td>Marks</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5367,10 +5367,10 @@
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>17.00-20.00</td>
   	          <td>Palmqvistarna</td>
-  	  	      <td>Löfstad Loge</td>
-  	  	      <td>Löfstad</td>
-  	  	      <td>Norrköping</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>LÃ¶fstad Loge</td>
+  	  	      <td>LÃ¶fstad</td>
+  	  	      <td>NorrkÃ¶ping</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -5378,11 +5378,11 @@
   	  	    <tr class="odd">
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>18.00-22.00</td>
-  	          <td>HögÅhz</td>
+  	          <td>HÃ¶gÃ…hz</td>
   	  	      <td>Mossbrott</td>
   	  	      <td>Vara</td>
   	  	      <td>Vara</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5391,10 +5391,10 @@
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Kalle & Stefan</td>
-  	  	      <td>Orrnäset</td>
-  	  	      <td>Högboda</td>
+  	  	      <td>OrrnÃ¤set</td>
+  	  	      <td>HÃ¶gboda</td>
   	  	      <td>Kil </td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5403,10 +5403,10 @@
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>19.00-22.00</td>
   	          <td>Anders Olsson</td>
-  	  	      <td>Tallbacken Ånge</td>
-  	  	      <td>Ånge</td>
-  	  	      <td>Ånge</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>Tallbacken Ã…nge</td>
+  	  	      <td>Ã…nge</td>
+  	  	      <td>Ã…nge</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -5418,7 +5418,7 @@
   	  	      <td>Torget Filipstad</td>
   	  	      <td>Filipstad</td>
   	  	      <td>Filipstad</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5427,10 +5427,10 @@
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Charlies</td>
-  	  	      <td>Tydingesjön</td>
+  	  	      <td>TydingesjÃ¶n</td>
   	  	      <td>Broby</td>
-  	  	      <td>Östra Göinge</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã–stra GÃ¶inge</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5438,11 +5438,11 @@
   	  	    <tr class="even">
   	  	      <td>Ons</td><td>26</td>
   	  	      <td>19.00-23.00</td>
-  	          <td>Thor Görans & Agneta Olsson</td>
-  	  	      <td>Vallsjöbaden</td>
-  	  	      <td>Sävsjö</td>
-  	  	      <td>Sävsjö</td>
-  	  	      <td>Jönköping</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
+  	  	      <td>VallsjÃ¶baden</td>
+  	  	      <td>SÃ¤vsjÃ¶</td>
+  	  	      <td>SÃ¤vsjÃ¶</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5451,10 +5451,10 @@
   	  	      <td>Tor</td><td>27</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Drifters</td>
-  	  	      <td>Barva bygdegård</td>
+  	  	      <td>Barva bygdegÃ¥rd</td>
   	  	      <td>Barva</td>
   	  	      <td>Eskilstuna</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5475,8 +5475,8 @@
   	  	      <td>Tor</td><td>27</td>
   	  	      <td>19.00</td>
   	          <td>Dreams</td>
-  	  	      <td>Bredasjön Holmsjö</td>
-  	  	      <td>Holmsjö</td>
+  	  	      <td>BredasjÃ¶n HolmsjÃ¶</td>
+  	  	      <td>HolmsjÃ¶</td>
   	  	      <td>Karlskrona</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
@@ -5489,8 +5489,8 @@
   	          <td>Donnez</td>
   	  	      <td>Folkets Park Ljungsbro</td>
   	  	      <td>Ljungsbro</td>
-  	  	      <td>Linköping</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>LinkÃ¶ping</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5498,9 +5498,9 @@
   	  	    <tr class="odd">
   	  	      <td>Tor</td><td>27</td>
   	  	      <td>18.00-21.30</td>
-  	          <td>Skåningarna</td>
-  	  	      <td>Folkets Park Åseda</td>
-  	  	      <td>Åseda</td>
+  	          <td>SkÃ¥ningarna</td>
+  	  	      <td>Folkets Park Ã…seda</td>
+  	  	      <td>Ã…seda</td>
   	  	      <td>Uppvidinge</td>
   	  	      <td>Kronoberg</td>
   	  	      <!--<td></td>-->
@@ -5511,10 +5511,10 @@
   	  	      <td>Tor</td><td>27</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Finix</td>
-  	  	      <td>Folkparken Skellefteå</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Skellefteå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>Folkparken SkellefteÃ¥</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>SkellefteÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5523,10 +5523,10 @@
   	  	      <td>Tor</td><td>27</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Cedrix</td>
-  	  	      <td>Fröjden Jönköping</td>
-  	  	      <td>Jönköping</td>
-  	  	      <td>Jönköping</td>
-  	  	      <td>Jönköping</td>
+  	  	      <td>FrÃ¶jden JÃ¶nkÃ¶ping</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
+  	  	      <td>JÃ¶nkÃ¶ping</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5535,10 +5535,10 @@
   	  	      <td>Tor</td><td>27</td>
   	  	      <td>14.00-17.00</td>
   	          <td>Lars Erikssons</td>
-  	  	      <td>Föreningsborg Bettna</td>
+  	  	      <td>FÃ¶reningsborg Bettna</td>
   	  	      <td>Bettna</td>
   	  	      <td>Flen </td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
@@ -5547,10 +5547,10 @@
   	  	      <td>Tor</td><td>27</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Jonnys</td>
-  	  	      <td>Gammelgården Torsåker</td>
-  	  	      <td>Torsåker</td>
+  	  	      <td>GammelgÃ¥rden TorsÃ¥ker</td>
+  	  	      <td>TorsÃ¥ker</td>
   	  	      <td>Hofors</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5559,7 +5559,7 @@
   	  	      <td>Tor</td><td>27</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Lasse Stefanz</td>
-  	  	      <td>Gröna lund</td>
+  	  	      <td>GrÃ¶na lund</td>
   	  	      <td>Stockholm</td>
   	  	      <td>Stockholm</td>
   	  	      <td>Stockholm</td>
@@ -5573,8 +5573,8 @@
   	          <td>Sannex</td>
   	  	      <td>Laduholmen Forsbacka</td>
   	  	      <td>Forsbacka</td>
-  	  	      <td>Gävle</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vle</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5586,7 +5586,7 @@
   	  	      <td>Landskronakarnevalen</td>
   	  	      <td>Landskrona</td>
   	  	      <td>Landskrona</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5596,9 +5596,9 @@
   	  	      <td>19.00-23.00</td>
   	          <td>Larz Kristerz</td>
   	  	      <td>Liseberg Polketten</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5608,9 +5608,9 @@
   	  	      <td>19.00-01.00</td>
   	          <td>Blender</td>
   	  	      <td>Lygnevi Loge</td>
-  	  	      <td>Sätila</td>
+  	  	      <td>SÃ¤tila</td>
   	  	      <td>Marks</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5620,9 +5620,9 @@
   	  	      <td>19.00-01.00</td>
   	          <td>Expanders</td>
   	  	      <td>Lygnevi Loge</td>
-  	  	      <td>Sätila</td>
+  	  	      <td>SÃ¤tila</td>
   	  	      <td>Marks</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5631,10 +5631,10 @@
   	  	      <td>Tor</td><td>27</td>
   	  	      <td></td>
   	          <td>Kindbergs</td>
-  	  	      <td>Stadsparken Borås</td>
-  	  	      <td>Borås</td>
-  	  	      <td>Borås</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>Stadsparken BorÃ¥s</td>
+  	  	      <td>BorÃ¥s</td>
+  	  	      <td>BorÃ¥s</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5643,10 +5643,10 @@
   	  	      <td>Fre</td><td>28</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Perikles</td>
-  	  	      <td>Askeröds ip</td>
-  	  	      <td>Askeröd</td>
-  	  	      <td>Hörby</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>AskerÃ¶ds ip</td>
+  	  	      <td>AskerÃ¶d</td>
+  	  	      <td>HÃ¶rby</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5655,7 +5655,7 @@
   	  	      <td>Fre</td><td>28</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Bob Stevens</td>
-  	  	      <td>Björknäsparken</td>
+  	  	      <td>BjÃ¶rknÃ¤sparken</td>
   	  	      <td>Boden</td>
   	  	      <td>Boden</td>
   	  	      <td>Norrbotten</td>
@@ -5669,7 +5669,7 @@
   	          <td>Kindbergs</td>
   	  	      <td>Gamleby Folkpark</td>
   	  	      <td>Gamleby</td>
-  	  	      <td>Västervik</td>
+  	  	      <td>VÃ¤stervik</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
               <td></td>
@@ -5679,10 +5679,10 @@
   	  	      <td>Fre</td><td>28</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Finix</td>
-  	  	      <td>Gräsmyr loge</td>
-  	  	      <td>Gräsmyr</td>
+  	  	      <td>GrÃ¤smyr loge</td>
+  	  	      <td>GrÃ¤smyr</td>
   	  	      <td>Nordmaling</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5694,7 +5694,7 @@
   	  	      <td>Hamnplanen Trosa</td>
   	  	      <td>Trosa</td>
   	  	      <td>Trosa</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5706,7 +5706,7 @@
   	  	      <td>Kustladan Docksta</td>
   	  	      <td>Docksta</td>
   	  	      <td>Kramfors</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5715,7 +5715,7 @@
   	  	      <td>Fre</td><td>28</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Blender</td>
-  	  	      <td>Kärrasand</td>
+  	  	      <td>KÃ¤rrasand</td>
   	  	      <td>Urshult</td>
   	  	      <td>Tingsryd</td>
   	  	      <td>Kronoberg</td>
@@ -5728,9 +5728,9 @@
   	  	      <td>19.00-23.00</td>
   	          <td>Titanix</td>
   	  	      <td>Liseberg Polketten</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5739,9 +5739,9 @@
   	  	      <td>Fre</td><td>28</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Highlights</td>
-  	  	      <td>Logen Käcktjärn</td>
-  	  	      <td>Bölebyn</td>
-  	  	      <td>Piteå</td>
+  	  	      <td>Logen KÃ¤cktjÃ¤rn</td>
+  	  	      <td>BÃ¶lebyn</td>
+  	  	      <td>PiteÃ¥</td>
   	  	      <td>Norrbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
@@ -5752,9 +5752,9 @@
   	  	      <td>19.00-01.00</td>
   	          <td>Jannez</td>
   	  	      <td>Lygnevi Loge</td>
-  	  	      <td>Sätila</td>
+  	  	      <td>SÃ¤tila</td>
   	  	      <td>Marks</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5764,9 +5764,9 @@
   	  	      <td>19.00-01.00</td>
   	          <td>Sannex</td>
   	  	      <td>Lygnevi Loge</td>
-  	  	      <td>Sätila</td>
+  	  	      <td>SÃ¤tila</td>
   	  	      <td>Marks</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5774,8 +5774,8 @@
   	  	    <tr class="even">
   	  	      <td>Fre</td><td>28</td>
   	  	      <td>20.00-24.00</td>
-  	          <td>Skåningarna</td>
-  	  	      <td>Skälby loge</td>
+  	          <td>SkÃ¥ningarna</td>
+  	  	      <td>SkÃ¤lby loge</td>
   	  	      <td>Kalmar</td>
   	  	      <td>Kalmar</td>
   	  	      <td>Kalmar</td>
@@ -5788,9 +5788,9 @@
   	  	      <td>19:00-22:30</td>
   	          <td>Christerz</td>
   	  	      <td>Svea Park</td>
-  	  	      <td>Kaxås</td>
+  	  	      <td>KaxÃ¥s</td>
   	  	      <td>Krokom</td>
-  	  	      <td>Jämtland</td>
+  	  	      <td>JÃ¤mtland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5799,8 +5799,8 @@
   	  	      <td>Fre</td><td>28</td>
   	  	      <td>13.30-17.00</td>
   	          <td>Strike</td>
-  	  	      <td>Söderbärkeparken</td>
-  	  	      <td>Söderbärke  </td>
+  	  	      <td>SÃ¶derbÃ¤rkeparken</td>
+  	  	      <td>SÃ¶derbÃ¤rke  </td>
   	  	      <td>Smedjebacken</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td>pro</td>-->
@@ -5810,11 +5810,11 @@
   	  	    <tr class="odd">
   	  	      <td>Fre</td><td>28</td>
   	  	      <td>20.00-24.00</td>
-  	          <td>Thor Görans & Agneta Olsson</td>
-  	  	      <td>Tydingesjön</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
+  	  	      <td>TydingesjÃ¶n</td>
   	  	      <td>Broby</td>
-  	  	      <td>Östra Göinge</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>Ã–stra GÃ¶inge</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
@@ -5823,9 +5823,9 @@
   	  	      <td>Fre</td><td>28</td>
   	  	      <td></td>
   	          <td>Arvingarna</td>
-  	  	      <td>Vikingalunden Väddö</td>
-  	  	      <td>Älmsta</td>
-  	  	      <td>Norrtälje</td>
+  	  	      <td>Vikingalunden VÃ¤ddÃ¶</td>
+  	  	      <td>Ã„lmsta</td>
+  	  	      <td>NorrtÃ¤lje</td>
   	  	      <td>Stockholm</td>
   	  	      <!--<td></td>-->
               <td></td>
@@ -5835,52 +5835,52 @@
   	  	      <td>Fre</td><td>28</td>
   	  	      <td></td>
   	          <td>Fernandoz</td>
-  	  	      <td>Vikingalunden Väddö</td>
-  	  	      <td>Älmsta</td>
-  	  	      <td>Norrtälje</td>
+  	  	      <td>Vikingalunden VÃ¤ddÃ¶</td>
+  	  	      <td>Ã„lmsta</td>
+  	  	      <td>NorrtÃ¤lje</td>
   	  	      <td>Stockholm</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Blender</td>
-  	  	      <td>Askeröds ip</td>
-  	  	      <td>Askeröd</td>
-  	  	      <td>Hörby</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>AskerÃ¶ds ip</td>
+  	  	      <td>AskerÃ¶d</td>
+  	  	      <td>HÃ¶rby</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td></td>
   	          <td>Titanix</td>
   	  	      <td>Boggbergets festplats</td>
   	  	      <td>Evertsberg</td>
-  	  	      <td>Älvdalen</td>
+  	  	      <td>Ã„lvdalen</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Larz Kristerz</td>
   	  	      <td>Ekliden</td>
-  	  	      <td>Västra Harg</td>
-  	  	      <td>Mjölby</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>VÃ¤stra Harg</td>
+  	  	      <td>MjÃ¶lby</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Casanovas</td>
   	  	      <td>Folkets Park Knutby</td>
@@ -5892,22 +5892,22 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td></td>
   	          <td>Lasse Stefanz</td>
-  	  	      <td>Folkets Park Värestorp</td>
-  	  	      <td>Värestorp</td>
+  	  	      <td>Folkets Park VÃ¤restorp</td>
+  	  	      <td>VÃ¤restorp</td>
   	  	      <td>Kristianstad</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td></td>
   	          <td>Date</td>
-  	  	      <td>Hållnäs hembygdsgård</td>
+  	  	      <td>HÃ¥llnÃ¤s hembygdsgÃ¥rd</td>
   	  	      <td>Edvalla</td>
   	  	      <td>Tierp</td>
   	  	      <td>Uppsala</td>
@@ -5916,22 +5916,22 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td>20.00-24.00</td>
   	          <td>Fernandoz</td>
-  	  	      <td>Kungälvsparken</td>
-  	  	      <td>Kungälv</td>
-  	  	      <td>Kungälv</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>KungÃ¤lvsparken</td>
+  	  	      <td>KungÃ¤lv</td>
+  	  	      <td>KungÃ¤lv</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Sannex</td>
-  	  	      <td>Kärrasand</td>
+  	  	      <td>KÃ¤rrasand</td>
   	  	      <td>Urshult</td>
   	  	      <td>Tingsryd</td>
   	  	      <td>Kronoberg</td>
@@ -5940,167 +5940,167 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td>19.00-23.00</td>
-  	          <td>Thor Görans & Agneta Olsson</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
   	  	      <td>Liseberg Polketten</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Göteborg</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>GÃ¶teborg</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td>19.00-22.00</td>
   	          <td>Avant</td>
-  	  	      <td>Logen Käcktjärn</td>
-  	  	      <td>Bölebyn</td>
-  	  	      <td>Piteå</td>
+  	  	      <td>Logen KÃ¤cktjÃ¤rn</td>
+  	  	      <td>BÃ¶lebyn</td>
+  	  	      <td>PiteÃ¥</td>
   	  	      <td>Norrbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td></td>
   	          <td>Martinez</td>
   	  	      <td>Moliden</td>
   	  	      <td>Moliden</td>
-  	  	      <td>Örnsköldsvik</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>Ã–rnskÃ¶ldsvik</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td>19.00-23.00</td>
   	          <td>Matz Rogers</td>
   	  	      <td>Oreparken</td>
   	  	      <td>Furudal</td>
-  	  	      <td>Rättvik</td>
+  	  	      <td>RÃ¤ttvik</td>
   	  	      <td>Dalarna</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td>20.30-00.30</td>
   	          <td>Donnez</td>
-  	  	      <td>Rydsnäs loge</td>
-  	  	      <td>Rydnäs</td>
+  	  	      <td>RydsnÃ¤s loge</td>
+  	  	      <td>RydnÃ¤s</td>
   	  	      <td>Ydre</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td></td>
   	          <td>Perikles</td>
   	  	      <td>Surbrunnsparken</td>
   	  	      <td>Ystad</td>
   	  	      <td>Ystad</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td>21.00-01.00</td>
   	          <td>Bob Stevens</td>
-  	  	      <td>Täfteå Loge</td>
-  	  	      <td>Täfteå</td>
-  	  	      <td>Umeå</td>
-  	  	      <td>Västerbotten</td>
+  	  	      <td>TÃ¤fteÃ¥ Loge</td>
+  	  	      <td>TÃ¤fteÃ¥</td>
+  	  	      <td>UmeÃ¥</td>
+  	  	      <td>VÃ¤sterbotten</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td></td>
   	          <td>Jannez</td>
   	  	      <td>Uddeholmsladan Hagfors</td>
   	  	      <td>Hagfors</td>
   	  	      <td>Hagfors</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td>20.00-24.00</td>
-  	          <td>Skåningarna</td>
-  	  	      <td>Utängens Loge</td>
+  	          <td>SkÃ¥ningarna</td>
+  	  	      <td>UtÃ¤ngens Loge</td>
   	  	      <td>Tanumshede</td>
   	  	      <td>Tanum</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Lör</td><td>29</td>
+  	  	      <td>LÃ¶r</td><td>29</td>
   	  	      <td></td>
   	          <td>Chiquita</td>
   	  	      <td>Viking Rosella</td>
-  	  	      <td>Kapellskär</td>
-  	  	      <td>Norrtälje</td>
+  	  	      <td>KapellskÃ¤r</td>
+  	  	      <td>NorrtÃ¤lje</td>
   	  	      <td>Stockholm</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Blender</td>
-  	  	      <td>Alingsåsparken</td>
-  	  	      <td>Alingsås</td>
-  	  	      <td>Alingsås</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>AlingsÃ¥sparken</td>
+  	  	      <td>AlingsÃ¥s</td>
+  	  	      <td>AlingsÃ¥s</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Kindbergs</td>
-  	  	      <td>Barva bygdegård</td>
+  	  	      <td>Barva bygdegÃ¥rd</td>
   	  	      <td>Barva</td>
   	  	      <td>Eskilstuna</td>
-  	  	      <td>Södermanland</td>
+  	  	      <td>SÃ¶dermanland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Casanovas</td>
   	  	      <td>Borensbergsparken</td>
   	  	      <td>Borensberg</td>
   	  	      <td>Motala</td>
-  	  	      <td>Östergötland</td>
+  	  	      <td>Ã–stergÃ¶tland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Jannez</td>
-  	  	      <td>Folkets Park Mörrum</td>
-  	  	      <td>Mörrum</td>
+  	  	      <td>Folkets Park MÃ¶rrum</td>
+  	  	      <td>MÃ¶rrum</td>
   	  	      <td>Karlshamn</td>
   	  	      <td>Blekinge</td>
   	  	      <!--<td></td>-->
@@ -6108,33 +6108,33 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td>18.30-21.30</td>
   	          <td>Janders</td>
-  	  	      <td>Forsmonöjet</td>
+  	  	      <td>ForsmonÃ¶jet</td>
   	  	      <td>Forsmo</td>
-  	  	      <td>Sollefteå</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>SollefteÃ¥</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td></td>
   	          <td>Donnez</td>
-  	  	      <td>Kulla Rörum</td>
-  	  	      <td>Rörum</td>
+  	  	      <td>Kulla RÃ¶rum</td>
+  	  	      <td>RÃ¶rum</td>
   	  	      <td>Simrishamn</td>
-  	  	      <td>Skåne</td>
+  	  	      <td>SkÃ¥ne</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td></td>
-  	          <td>Thor Görans & Agneta Olsson</td>
+  	          <td>Thor GÃ¶rans & Agneta Olsson</td>
   	  	      <td>Lilltorpet Falun</td>
   	  	      <td>Falun</td>
   	  	      <td>Falun</td>
@@ -6144,23 +6144,23 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Dreams</td>
   	  	      <td>Rahms loge</td>
   	  	      <td>Forsa</td>
   	  	      <td>Hudiksvall</td>
-  	  	      <td>Gävleborg</td>
+  	  	      <td>GÃ¤vleborg</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td>18.00-22.00</td>
   	          <td>Engdahls</td>
-  	  	      <td>Stallet Vassmolösa</td>
-  	  	      <td>Vassmolösa</td>
+  	  	      <td>Stallet VassmolÃ¶sa</td>
+  	  	      <td>VassmolÃ¶sa</td>
   	  	      <td>Kalmar</td>
   	  	      <td>Kalmar</td>
   	  	      <!--<td></td>-->
@@ -6168,31 +6168,31 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td></td>
   	          <td>Streaplers</td>
   	  	      <td>Uddeholmsladan Hagfors</td>
   	  	      <td>Hagfors</td>
   	  	      <td>Hagfors</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Kjell Dahls</td>
   	  	      <td>Upperudslogen</td>
   	  	      <td>Molkom</td>
   	  	      <td>Karlstad</td>
-  	  	      <td>Värmland</td>
+  	  	      <td>VÃ¤rmland</td>
   	  	      <!--<td>pro</td>-->
               <td>PRO</td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td></td>
   	          <td>Excess</td>
   	  	      <td>Viking Cinderella</td>
@@ -6204,22 +6204,22 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Sön</td><td>30</td>
+  	  	      <td>SÃ¶n</td><td>30</td>
   	  	      <td>19.00-22.30</td>
   	          <td>Holens</td>
-  	  	      <td>Ånäsparken Kovland</td>
+  	  	      <td>Ã…nÃ¤sparken Kovland</td>
   	  	      <td>Kovland</td>
   	  	      <td>Sundsvall</td>
-  	  	      <td>Västernorrland</td>
+  	  	      <td>VÃ¤sternorrland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>31</td>
+  	  	      <td>MÃ¥n</td><td>31</td>
   	  	      <td></td>
   	          <td>Jannez</td>
-  	  	      <td>Nöjesparken Varberg</td>
+  	  	      <td>NÃ¶jesparken Varberg</td>
   	  	      <td>Varberg</td>
   	  	      <td>Varberg</td>
   	  	      <td>Halland</td>
@@ -6228,7 +6228,7 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>31</td>
+  	  	      <td>MÃ¥n</td><td>31</td>
   	  	      <td>20.00-23.00</td>
   	          <td>Leif Kronlund Storband</td>
   	  	      <td>Skansen Galejan</td>
@@ -6240,19 +6240,19 @@
   	  	    </tr>
   	  	    
   	  	    <tr class="even">
-  	  	      <td>Mån</td><td>31</td>
+  	  	      <td>MÃ¥n</td><td>31</td>
   	  	      <td>18.00-21.30</td>
   	          <td>Chiquita</td>
   	  	      <td>Tidaholmsparken</td>
   	  	      <td>Tidaholm</td>
   	  	      <td>Tidaholm</td>
-  	  	      <td>Västra Götaland</td>
+  	  	      <td>VÃ¤stra GÃ¶taland</td>
   	  	      <!--<td></td>-->
               <td></td>
   	  	    </tr>
   	  	    
   	  	    <tr class="odd">
-  	  	      <td>Mån</td><td>31</td>
+  	  	      <td>MÃ¥n</td><td>31</td>
   	  	      <td></td>
   	          <td>Excess</td>
   	  	      <td>Viking Cinderella</td>
@@ -6292,7 +6292,7 @@
   <div style="float: right; width: 120px; margin: 10px 0 0 0;">
     <script type="text/javascript"><!--
     google_ad_client = "ca-pub-4401922600038659";
-    /* Danslogen Dansprogram Höger */
+    /* Danslogen Dansprogram HÃ¶ger */
     google_ad_slot = "2060121715";
     google_ad_width = 120;
     google_ad_height = 600;
@@ -6310,8 +6310,8 @@
   
   <div id="cookie_message" style="float: left; position: absolute; top: 0; display: none; width: 1000px; margin: 0; padding: 5px 0; background-color: #8589cd; color: white;">
 	    <p style="font-size: 0.9em; margin: 0 0 0 10px; padding: 0; font-weight: bold;">
-	    Vi tar hjälp av cookies för att tillhandahålla våra tjänster. Genom att använda våra tjänster godkänner du att vi använder cookies
-	    <!--<a style="background-color: lightgrey; padding: 1px 3px;" href="/cookies">Läs mer</a>&nbsp;-->
+	    Vi tar hjÃ¤lp av cookies fÃ¶r att tillhandahÃ¥lla vÃ¥ra tjÃ¤nster. Genom att anvÃ¤nda vÃ¥ra tjÃ¤nster godkÃ¤nner du att vi anvÃ¤nder cookies
+	    <!--<a style="background-color: lightgrey; padding: 1px 3px;" href="/cookies">LÃ¤s mer</a>&nbsp;-->
       <a style="background-color: lightgrey; padding: 1px 3px;" href="" onclick="set_cookie_message_hide(); null;">OK</a></p>
     </div>
   </div>    
