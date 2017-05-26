@@ -22,5 +22,5 @@ COPY newrelic.js .
 
 CMD ["bash", "-c", "./bin/www"]
 
-ENV PORT 6000
-ENV DEBUG app:*
+ENV NODE_PORT 6000
+ENV NODE_LOGGER default
