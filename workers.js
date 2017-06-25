@@ -2,7 +2,7 @@ const crontab = require('node-crontab');
 const debug = require('debug')('app:jobs');
 
 function init(app) {
-	const opts = {db: app.locals.db};
+	const opts = { db: app.locals.db };
 
 	const job = function(name) {
 		try {
@@ -11,7 +11,7 @@ function init(app) {
 			}
 		} catch (err) {
 			return function () {
-				debug("Failed to run job " + name, err);
+				debug("Failed to create job " + name, err);
 			};
 		}
 	};
@@ -21,8 +21,8 @@ function init(app) {
 
 	setTimeout(function() {
 		debug('Scheduling jobs ...');
-		crontab.scheduleJob("* * * * *", job('parse'), null, null, false);
-		crontab.scheduleJob("* * * * *", job('fetch'), null, null, false);
+		crontab.scheduleJob("* * */6 * *", job('parse'), null, null, false);
+		crontab.scheduleJob("* * */6 * *", job('fetch'), null, null, false);
 	}, 5000);
 
 }

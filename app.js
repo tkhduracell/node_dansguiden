@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 const session = require("express-session");
 const morgan = require('morgan');
 const morganson = require('morgan-json');
-const nedb = require('nedb');
+const debug = require('debug')('app:init');
 
 /* ==========================================================================
  Envs Setup
@@ -32,10 +32,6 @@ const format = morganson({
   'user-agent': ':user-agent'
 });
 
-const log = function (msg) {
-	console.log(logger === 'morgan' ? JSON.stringify({message: msg}) : msg);
-};
-
 /* ==========================================================================
  Express Init
  ========================================================================== */
@@ -59,13 +55,10 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(morgan(logger === 'morgan' ? format : 'combined'));
 
 app.listen(port, function() {
-	log('Server started on port ' + port);
+	debug('Server started on port ' + port);
 });
 
-app.locals.db = new nedb({
-	filename: 'dansguiden.db',
-	autoload: true
-});
+app.locals.db = require('./db').setup();
 
 
 /* ==========================================================================
