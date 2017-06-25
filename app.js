@@ -58,7 +58,7 @@ app.listen(port, function() {
 	debug('Server started on port ' + port);
 });
 
-app.locals.db = require('./db').setup();
+app.locals.db = require('./lib/db').setup();
 
 
 /* ==========================================================================
@@ -66,6 +66,6 @@ app.locals.db = require('./db').setup();
  ========================================================================== */
 app.use(require("./routes/index")(app));
 
-require('./workers.js')(app);
+require('./lib/workers.js')(app);
 
 module.exports = app;

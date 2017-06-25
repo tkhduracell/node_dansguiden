@@ -1,4 +1,4 @@
-FROM node:6.4
+FROM node:7.7
 
 RUN mkdir -p /app
 
@@ -15,10 +15,12 @@ COPY 404/ .
 COPY public/ ./public
 COPY routes/ ./routes
 COPY views/ ./views
-COPY jobs/ ./jobs
 COPY bin/ ./bin
+COPY lib/ ./lib
 COPY app.js .
-COPY newrelic.js .
+
+RUN mkdir -p ./storage
+RUN touch ./storage/dansguiden.db
 
 CMD ["bash", "-c", "./bin/www"]
 
