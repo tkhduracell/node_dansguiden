@@ -1,17 +1,10 @@
-const jf = require('jsonfile');
-const debug = require('debug')('app:jobs');
+const debug = require('debug')('app:jobs:events');
 const cheerio = require('cheerio');
 const request = require('request');
 const moment = require('moment');
+const _ = require('lodash');
 
 const url = 'http://www.danslogen.se/dansprogram';
-
-function log(msg) {
-	console.log(msg);
-}
-function now() {
-	return new Date().toString();
-}
 
 const months = {
 	"januari": 1,
@@ -31,13 +24,15 @@ const months = {
 const cols = [
 	'weekday', 'date', 'time', 'band', 'place', 'city', 'region', 'country'
 ];
+const NOT_SET_BAND = 'Ej fastställt';
 
-function run() {
+function run(opts) {
+	const db = opts.db;
 
-	log('Running Dansguiden load... ' + now() );
+	debug('Running Dansguiden load... ' + now() );
 	request(url, function (err, resp, body) {
 		if (err) {
-			return console.log('error:', err); // Print the error if one occurred
+			return debug(err); // Print the error if one occurred
 		}
 		const baseUrl = resp.request.href.replace(resp.request.path, "");
 		read(body, baseUrl);
@@ -45,38 +40,70 @@ function run() {
 
 
 	function read(body, baseUrl) {
-		log('Running Dansguiden parse... ' + now() );
+		debug('Running Dansguiden parse... ' + now() );
 		const $ = cheerio.load(body);
 
 		return list($, baseUrl)
 			.forEach(function (obj) {
-				loadPage(obj, function (events) {
-					log(events);
-
+				loadPage(obj, function (events, date) {
+					const counters = {};
+					events
+						.filter(function (event) {
+							return event.type === 'event';
+						})
+						.filter(function (event) {
+							return event.data
+								&& event.data.band !== NOT_SET_BAND;
+						})
+						.forEach(saveEvent(counters));
+					debug("Updated event data from page " + obj.year + "-" + obj.month +
+						": updates=" + counters.updated +
+						", trials=" + counters.trials
+					);
 				});
-
 			});
+	}
 
-
+	function saveEvent(counters) {
+		counters.updated = counters.updated || 0;
+		counters.trials = counters.trials || 0;
+		return function (event) {
+			const date = event.data.date.format('YYYY-MM-DD');
+			const where = { date: date, band: event.data.band };
+			const updateAt = moment().valueOf();
+			const update = _.merge(event.data, {date: date, update_at: updateAt});
+			const option = { multi: false, upsert: true };
+			counters.trials += 1;
+			db.update(where, { $set: update }, option, function (err, numAffected, doc, upsert) {
+				if (err) {
+					return debug(err);
+				}
+				const head = numAffected > 0
+					? "Updated documents numAffected=" + numAffected + ", upsert: " + upsert
+					: "Inserted 1 document, upsert: " + upsert;
+				debug(head + " " + date + " - " + event.data.band);
+				counters.updated += numAffected;
+			});
+		}
 	}
 
 	function loadPage(obj, callback) {
 		const url = obj.link;
 
-		log('Running Dansguiden parse or page ' + obj.year + " " + obj.month );
+		debug('Running Dansguiden parse on page ' + obj.year + "-" + obj.month );
 		request(url, function (err, resp, body) {
 			if (err) {
-				return console.log('error:', err); // Print the error if one occurred
+				return debug(err); // Print the error if one occurred
 			}
 
-			readPage(body, obj.month, obj.year, callback);
+			callback(readPage(body, obj.month, obj.year), _.pick(obj, ['year', 'month']));
 		});
 	}
 
-	function readPage(body, month, year, callback) {
+	function readPage(body, month, year) {
 		const $ = cheerio.load(body);
 
-		$("tr")
+		return $("tr")
 			.get()
 			.filter(function (itm) {
 				return $(itm).children("td").length === 9 ||
@@ -122,11 +149,7 @@ function run() {
 					});
 				}
 				return itm;
-			})
-			.map(function (itm) {
-				log(itm);
-			})
-
+			});
 	}
 
 	function list($, baseUrl) {
@@ -158,4 +181,11 @@ function zip(a, b) {
 	});
 }
 
-run();
+function now() {
+	return moment().toString();
+}
+
+module.exports = {
+	run: run
+};
+

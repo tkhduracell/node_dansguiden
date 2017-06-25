@@ -1,18 +1,3 @@
 #!/usr/bin/env node
 
-var newrelic = require('newrelic');
-
-var fs = require('fs');
-var debug = require('debug')('app:init');
-var crontab = require('node-crontab');
-
-var job = function(name) { 	return require('../jobs/' + name).run };
-
-crontab.scheduleJob("* */6 * * *", job('parse'));
-
-setTimeout(function() {
-	debug('Trigging parse job...');
-	crontab.scheduleJob("* * * * *", job('parse'), null, null, false);
-}, 10000);
-
 require('../app');
