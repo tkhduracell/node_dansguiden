@@ -15,8 +15,13 @@ function init(app) {
 		});
 	});
 
+	router.get('/health', function (req, res) {
+		res.send("OK");
+	});
+
 	router.get('/api/update', function (req, res) {
 		require('../lib/jobs/fetch').run({db: db});
+		res.send("Update triggered");
 	});
 
 	router.get('/api/events', function (req, res) {
