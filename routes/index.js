@@ -16,7 +16,7 @@ function init(app) {
 	});
 
 	router.get('/api/update', function (req, res) {
-		require('../jobs/fetch').run({db: db});
+		require('../lib/jobs/fetch').run({db: db});
 	});
 
 	router.get('/api/events', function (req, res) {
