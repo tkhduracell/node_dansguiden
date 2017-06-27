@@ -25,4 +25,3 @@ RUN touch ./storage/dansguiden.db
 CMD ["bash", "-c", "./bin/www"]
 
 ENV NODE_PORT 6000
-ENV NODE_LOGGER default
