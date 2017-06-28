@@ -1,18 +1,18 @@
+require('newrelic');
+
 const express = require('express');
 const path = require('path');
 const favicon = require('serve-favicon');
 const cookieParser = require('cookie-parser');
 const bodyParser = require('body-parser');
-const session = require("express-session");
+const session = require('express-session');
 const morgan = require('morgan');
 const debug = require('debug')('app:init');
 
 /* ==========================================================================
  Envs Setup
  ========================================================================== */
-const logger = process.env.NODE_LOGGER || 'default';
 const port = process.env.NODE_PORT || 3000;
-
 
 /* ==========================================================================
  Express Init
@@ -41,7 +41,6 @@ app.listen(port, function() {
 });
 
 app.locals.db = require('./lib/db').setup();
-
 
 /* ==========================================================================
  Routes
