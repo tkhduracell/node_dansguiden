@@ -18,6 +18,7 @@ COPY views/ ./views
 COPY bin/ ./bin
 COPY lib/ ./lib
 COPY app.js .
+COPY newrelic.js .
 
 RUN mkdir -p ./storage
 RUN touch ./storage/dansguiden.db
