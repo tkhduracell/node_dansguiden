@@ -41,12 +41,11 @@ app.listen(port, function() {
 });
 
 app.locals.db = require('./lib/db').setup();
+app.locals.jobs = require('./lib/workers.js')(app);
 
 /* ==========================================================================
  Routes
  ========================================================================== */
 app.use(require("./routes/index")(app));
-
-require('./lib/workers.js')(app);
 
 module.exports = app;

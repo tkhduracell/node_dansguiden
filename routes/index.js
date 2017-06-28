@@ -7,6 +7,7 @@ const express = require('express');
 function init(app) {
 	const router = express.Router();
 	const db = app.locals.db;
+	const jobs = app.locals.jobs;
 
 	router.get('/', function (req, res) {
 		res.render('index', {
@@ -19,8 +20,13 @@ function init(app) {
 		res.send("OK");
 	});
 
-	router.get('/api/update', function (req, res) {
-		require('../lib/jobs/fetch').run({db: db});
+	router.get('/api/jobs', function (req, res) {
+		res.send(_.keys(jobs));
+	});
+
+	router.get('/api/jobs/:job/trigger', function (req, res) {
+		const j = req.param("job");
+		jobs[j]({db: db});
 		res.send("Update triggered");
 	});
 
