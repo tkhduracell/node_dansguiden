@@ -34,7 +34,7 @@ app.use(bodyParser.json({ limit: '1mb' }));
 app.use(bodyParser.urlencoded({ limit: '1mb', extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
-app.use(morgan());
+app.use(morgan('combined'));
 
 app.listen(port, function() {
 	debug('Server started on port ' + port);
