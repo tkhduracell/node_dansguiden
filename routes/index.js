@@ -4,16 +4,24 @@ const jf = require('jsonfile');
 const moment = require('moment');
 const express = require('express');
 
+const images = jf.readFileSync('public/images.json');
+
 function init(app) {
 	const router = express.Router();
 	const db = app.locals.db;
 	const jobs = app.locals.jobs;
 
+
 	router.get('/', function (req, res) {
-		res.render('index', {
-			images: jf.readFileSync('public/images.json'),
-			versions: jf.readFileSync('public/versions.json')
+
+		db.versions.find({}, function (err, versions) {
+			res.render('index', {
+				images: images,
+				versions: versions
+			});
 		});
+
+
 	});
 
 	router.get('/health', function (req, res) {
@@ -58,7 +66,7 @@ function init(app) {
 			}
 		});
 
-		db.find(condition, {_id: 0}).exec(function (err, docs) {
+		db.events.find(condition, {_id: 0}).exec(function (err, docs) {
 			if (err) {
 				console.log(err);
 				return res.status(500).send('Sorry, an error occured');
