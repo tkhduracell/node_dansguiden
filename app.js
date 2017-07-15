@@ -1,6 +1,7 @@
 require('newrelic');
 
 const express = require('express');
+const compression = require('compression')
 const path = require('path');
 const favicon = require('serve-favicon');
 const cookieParser = require('cookie-parser');
@@ -8,6 +9,7 @@ const bodyParser = require('body-parser');
 const session = require('express-session');
 const morgan = require('morgan');
 const debug = require('debug')('app:init');
+
 
 /* ==========================================================================
  Envs Setup
@@ -35,6 +37,7 @@ app.use(bodyParser.urlencoded({ limit: '1mb', extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(morgan('combined'));
+app.use(compression());
 
 app.listen(port, function() {
 	debug('Server started on port ' + port);

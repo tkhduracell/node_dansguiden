@@ -56,7 +56,8 @@ function init(app) {
 			// do nothing
 		}
 
-		const keys = ['country', 'region', 'city', 'band'];
+		const keys = ['country', 'region', 'city', 'band', 'weekday'];
+
 		// Add to filter
 		keys.forEach(function (key) {
 			if (req.query[key]) {
@@ -66,7 +67,7 @@ function init(app) {
 			}
 		});
 
-		db.events.find(condition, {_id: 0}).exec(function (err, docs) {
+		db.events.find(condition).exec(function (err, docs) {
 			if (err) {
 				console.log(err);
 				return res.status(500).send('Sorry, an error occured');
