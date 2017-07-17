@@ -6,6 +6,10 @@ const express = require('express');
 
 const images = jf.readFileSync('public/images.json');
 
+function date(strOrLong) {
+	return moment(strOrLong).format('YYYY-MM-DD');
+}
+
 function init(app) {
 	const router = express.Router();
 	const db = app.locals.db;
@@ -43,17 +47,24 @@ function init(app) {
 		var condition = {};
 
 		if (req.query.to && req.query.from) {
-			const to = moment(req.query.to).format('YYYY-MM-DD');
-			const from = moment(req.query.from).format('YYYY-MM-DD');
+			const to = date(req.query.to);
+			const from = date(req.query.from);
 			condition = { $and: [{ date: { $lte: to }}, { date: { $gte: from }}] }
 		} else if (req.query.to && !req.query.from) {
-			const to = moment(req.query.to).format('YYYY-MM-DD');
+			const to = date(req.query.to);
 			condition = { date: { $lte: to }};
 		} else if (!req.query.to && req.query.from) {
-			const from = moment(req.query.from).format('YYYY-MM-DD');
+			const from = date(req.query.from);
 			condition = { date: { $gte: from }};
 		} else {
 			// do nothing
+		}
+
+		if (req.query.update_at) {
+			const updatedAt = req.query.update_at || 0;
+			condition = _.merge(condition, {
+				updated_at: { $gte: updatedAt }
+			});
 		}
 
 		const keys = ['country', 'region', 'city', 'band', 'weekday'];
@@ -70,7 +81,8 @@ function init(app) {
 		db.events.find(condition).exec(function (err, docs) {
 			if (err) {
 				console.log(err);
-				return res.status(500).send('Sorry, an error occured');
+				return res.status(500)
+					.send('Sorry, an error occured');
 			}
 			res.json(docs);
 		});
