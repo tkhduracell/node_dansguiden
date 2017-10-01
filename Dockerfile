@@ -18,7 +18,6 @@ COPY 404/ .
 COPY public/ ./public
 COPY routes/ ./routes
 COPY views/ ./views
-COPY bin/ ./bin
 COPY lib/ ./lib
 COPY app.js .
 COPY start.js .
