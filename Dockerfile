@@ -11,7 +11,7 @@ ENV NODE_DEBUG app:*
 
 COPY package.json .
 
-RUN npm install --$NODE_ENV
+RUN npm install --$NODE_ENV --silent
 
 COPY 404/ .
 
