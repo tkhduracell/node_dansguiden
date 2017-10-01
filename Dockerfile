@@ -5,6 +5,7 @@ RUN mkdir -p /app
 WORKDIR /app
 
 ENV NODE_ENV production
+ENV NODE_MEMORY_LIMIT 512
 
 COPY package.json .
 

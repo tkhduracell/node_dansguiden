@@ -7,6 +7,7 @@
       build: .
       container_name: dansguiden
       environment:
+        NODE_MEMORY_LIMIT: 512
         NODE_PORT: 5000
         DEBUG: "app:*"
       ports:
