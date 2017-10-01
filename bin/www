@@ -1,3 +1,0 @@
-#!/usr/bin/env node --max_old_space_size=$NODE_MEMORY_LIMIT
-
-require('../app');
